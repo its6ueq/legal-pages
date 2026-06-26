@@ -5,7 +5,7 @@ Last updated: June 26, 2026
 This Markdown version mirrors the content of privacy-policy.html.
 
 ## Quick summary
-Tử Vi & Lịch Vạn Niên is an **offline-first** app. Your birth details, saved charts, death-anniversary reminders and other personal entries are stored **on your device** and are not required to leave it. Signing in with Google is optional and used only for cloud backup and to restore your Premium purchase. Some detailed interpretation text is downloaded from our servers, and we use a small amount of analytics and crash diagnostics. Purchases are handled by Google Play Billing.
+Tử Vi & Lịch Vạn Niên is an **offline-first** app. Your birth details, saved charts, death-anniversary reminders and other personal entries are stored **on your device** and are not required to leave it. The app contains **no third-party analytics or advertising SDK** and does not track you. Signing in with Google is optional and used only for cloud backup and to restore your Premium purchase. Detailed interpretation text may be downloaded from our servers (Cloud Firestore); purchases are handled by Google Play Billing. Notifications are generated locally on your device.
 
 ## 1. Scope
 This policy applies to users of the mobile application Tử Vi & Lịch Vạn Niên, developed and published on Google Play by HAB Labs.
@@ -17,12 +17,13 @@ Created and stored locally on your device; it stays there unless you sign in and
 - Death-anniversary (ngày giỗ) entries: name, family relationship, lunar date and optional notes — used only to show reminders.
 - App preferences: language, theme, and in-app credit ("lượt") balance.
 
-## 3. Data we collect automatically
-- Device & app information (model, OS version, app version, language, time zone).
-- Diagnostics: error and crash information.
-- Aggregated usage analytics (Firebase Analytics), not used to identify you personally.
+## 3. What we do *not* collect
+The app includes **no** third-party analytics, tracking, or advertising SDK:
+- No usage analytics or behavioral tracking.
+- No advertising identifier, and no third-party ads.
+- No automatic crash/diagnostics reporting to our servers.
 
-The app does **not** currently display third-party ads and does not collect an advertising identifier.
+The only network activity is described in Sections 4–6 (optional sign-in/backup, content download, purchases).
 
 ## 4. Optional Google sign-in & cloud backup
 Sign-in is optional; the app works fully without an account. If you sign in (Google Sign-In + Firebase Authentication) we use it to:
@@ -46,7 +47,7 @@ In-app purchases (credit packs and a Premium subscription) are processed by Goog
 - Validate and restore in-app purchases and Premium access.
 
 ## 8. Device permissions
-- Notifications: daily fortune and death-anniversary reminders.
+- Notifications: daily fortune and death-anniversary reminders, scheduled and shown locally (no push / messaging server).
 - Network access: download content, sync backups, process purchases.
 - Motion sensors (accelerometer): phone-shake gesture for the I-Ching coin toss.
 - Media/temporary storage: generate a shareable chart image.
@@ -56,7 +57,7 @@ On-device data remains until you delete it, clear app data, or uninstall. Backed
 
 ## 10. Sharing with third parties
 We do not sell your personal data. Shared only as needed with:
-- Google Firebase (Authentication, Firestore, Analytics, Messaging, Remote Config)
+- Google Firebase — Cloud Firestore (content + optional backup) and Authentication (optional Google sign-in). No Analytics, Messaging or Remote Config.
 - Google Play Billing
 - Competent authorities when legally required
 

@@ -75,7 +75,7 @@
         </div>
 
         <div class="note">
-            <strong>Quick summary:</strong> Tử Vi & Lịch Vạn Niên is an <strong>offline-first</strong> app. Your birth details, saved charts, death-anniversary reminders and other personal entries are stored <strong>on your device</strong> and are not required to leave it. Signing in with Google is optional and used only for cloud backup and to restore your Premium purchase. Some detailed interpretation text is downloaded from our servers, and we use a small amount of analytics and crash diagnostics to keep the app working. Purchases are handled by Google Play Billing. This policy explains exactly what is collected and why.
+            <strong>Quick summary:</strong> Tử Vi & Lịch Vạn Niên is an <strong>offline-first</strong> app. Your birth details, saved charts, death-anniversary reminders and other personal entries are stored <strong>on your device</strong> and are not required to leave it. The app contains <strong>no third-party analytics or advertising SDK</strong> and does not track you. Signing in with Google is optional and used only for cloud backup and to restore your Premium purchase. Detailed interpretation text may be downloaded from our servers (Google Cloud Firestore), and purchases are handled by Google Play Billing. Notifications are generated locally on your device. This policy explains exactly what is collected and why.
         </div>
 
         <h2>1. Scope</h2>
@@ -91,13 +91,14 @@
         </ul>
         <p>This data is processed entirely on-device to calculate charts, show the perpetual lunar calendar, and schedule local reminders. None of it is sold or used for advertising.</p>
 
-        <h2>3. Data we collect automatically</h2>
+        <h2>3. What we do <em>not</em> collect</h2>
+        <p>This app is built to be privacy-friendly. It does <strong>not</strong> include any third-party analytics, tracking, or advertising SDK. Specifically:</p>
         <ul>
-            <li><strong>Device & app information:</strong> device model, operating system version, app version, language and time zone.</li>
-            <li><strong>Diagnostics:</strong> error and crash information needed to fix problems and improve the app.</li>
-            <li><strong>Aggregated usage analytics</strong> (via Firebase Analytics) to understand which features are used. This is collected in aggregate/statistical form and is not used to identify you personally.</li>
+            <li>We do <strong>not</strong> collect usage analytics or behavioral tracking data.</li>
+            <li>We do <strong>not</strong> collect an advertising identifier, and the app does not display third-party ads.</li>
+            <li>We do <strong>not</strong> run automatic crash or diagnostics reporting to our servers.</li>
         </ul>
-        <p>The app does <strong>not</strong> currently display third-party advertising and does not collect an advertising identifier. If an ad-supported version is released in the future, this policy will be updated before ads are shown.</p>
+        <p>The only network activity is described in Sections 4–6: optional sign-in/backup, downloading interpretation content, and processing purchases. If an ad-supported version is released in the future, this policy will be updated before any ads are shown.</p>
 
         <h2>4. Optional Google sign-in &amp; cloud backup</h2>
         <p>Signing in with Google is <strong>optional</strong>. The app works fully without an account. If you choose to sign in, we use Google Sign-In and Firebase Authentication to:</p>
@@ -127,7 +128,7 @@
         <h2>8. Device permissions</h2>
         <p>The app may request the following permissions, only when needed for a feature:</p>
         <ul>
-            <li><strong>Notifications:</strong> to deliver daily fortune and death-anniversary reminders.</li>
+            <li><strong>Notifications:</strong> to deliver daily fortune and death-anniversary reminders. These are scheduled and shown locally on your device — the app does not use push notifications or a messaging server.</li>
             <li><strong>Network access:</strong> to download content, sync backups, and process purchases.</li>
             <li><strong>Motion sensors (accelerometer):</strong> to detect the phone-shake gesture used in the I-Ching coin-toss feature.</li>
             <li><strong>Media/temporary storage:</strong> to generate a shareable image of your chart when you use the share feature.</li>
@@ -143,7 +144,7 @@
         <h2>10. Sharing with third parties</h2>
         <p>We do not sell your personal data. Data may be shared with the following providers only as needed to operate the app:</p>
         <ul>
-            <li>Google Firebase (Authentication, Cloud Firestore, Analytics, Cloud Messaging, Remote Config).</li>
+            <li>Google Firebase — Cloud Firestore (interpretation content and, if you sign in, chart backup) and Authentication (optional Google sign-in). We do not use Firebase Analytics, Cloud Messaging or Remote Config.</li>
             <li>Google Play Billing, for processing in-app purchases.</li>
             <li>Competent authorities, when required by a valid legal request.</li>
         </ul>
@@ -184,7 +185,7 @@
         </div>
 
         <div class="important">
-            <strong>Note for Google Play Data safety:</strong> Your Data safety declaration (App content &gt; Data safety) should match this policy — covering the data handled through Firebase (Authentication, Firestore, Analytics, Messaging) and Google Play Billing, and noting that birth details and death-anniversary entries are stored on-device and only backed up if the user signs in.
+            <strong>Note for Google Play Data safety:</strong> Your Data safety declaration (App content &gt; Data safety) should match this policy — covering the data handled through Firebase Authentication (optional sign-in) and Cloud Firestore (content + optional backup) and Google Play Billing, declaring that the app contains no analytics or advertising SDK, and noting that birth details and death-anniversary entries are stored on-device and only backed up if the user signs in.
         </div>
     </div>
 </body>
