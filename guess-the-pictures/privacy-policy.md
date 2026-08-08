@@ -1,4 +1,4 @@
-# Privacy Policy — Guess The Pictures
+# Privacy Policy - Guess The Pictures
 
 **Last updated: July 26, 2026**
 
@@ -129,7 +129,7 @@ enable them, are protected by your Google or Apple account.
 
 ## 9. Changes to This Policy
 
-We may update this Privacy Policy as the App changes — for example, if a future
+We may update this Privacy Policy as the App changes - for example, if a future
 version introduces advertising or purchases, this page will be updated before that
 version ships. Changes are posted here with a new "Last updated" date.
 
