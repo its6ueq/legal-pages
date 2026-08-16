@@ -1,0 +1,295 @@
+{
+  "_comment": "Source text for every Let the car out! legal page. The HTML files are generated from this by build.mjs, and the translations are generated from this by translate.mjs. Edit here, never in the generated HTML.",
+  "meta": {
+    "app": "Let the car out! 3D puzzle",
+    "developer": "HAB Labs",
+    "email": "shawnfrest2k5@gmail.com",
+    "package": "com.hablabs.letthecarout",
+    "updated": "17 tháng 8 năm 2026"
+  },
+  "ui": {
+    "back_labs": "Quay lại HAB Labs",
+    "back_home": "Trang chủ Let the car out!",
+    "updated_label": "Cập nhật lần cuối:",
+    "nav_privacy": "Chính sách quyền riêng tư",
+    "nav_terms": "Điều khoản sử dụng",
+    "nav_support": "Hỗ trợ"
+  },
+  "index": {
+    "title": "Let the car out! - Trang pháp lý",
+    "heading": "Let the car out! 3D puzzle",
+    "sub": "Các trang chính thức cho ứng dụng - trượt các xe sang một bên và mở đường thoát, qua hơn 19.000 màn chơi ngoại tuyến."
+  },
+  "privacy": {
+    "title": "Chính sách quyền riêng tư",
+    "summary_label": "Tóm tắt nhanh:",
+    "summary": "Let the car out! là một trò chơi giải đố trượt xe. Mọi màn chơi đều nằm trong ứng dụng, nên bạn có thể chơi toàn bộ trò chơi mà không cần kết nối. Tiến trình của bạn nằm trên thiết bị của bạn. Nếu bạn đăng nhập vào Google Play Games hoặc Game Center, một bản sao của tiến trình đó cũng được lưu trong tài khoản nền tảng của bạn để không bị mất khi đổi điện thoại mới. Phiên bản này không hiển thị quảng cáo và không chứa phân tích hoặc báo cáo sự cố. Chúng tôi không vận hành máy chủ riêng và không bao giờ nhận tên, email hoặc vị trí của bạn.",
+    "sections": [
+      {
+        "h": "1. Giới thiệu",
+        "p": [
+          "Chính sách quyền riêng tư này giải thích cách ứng dụng di động <strong>Let the car out! 3D puzzle</strong> (gói <code>com.hablabs.letthecarout</code>, \"Ứng dụng\") xử lý thông tin. Ứng dụng là một trò chơi giải đố trong đó bạn trượt xe ra khỏi một bãi đỗ đông đúc. Bằng việc sử dụng Ứng dụng, bạn đồng ý với các thực hành được mô tả tại đây."
+        ]
+      },
+      {
+        "h": "2. Thông tin chúng tôi thu thập",
+        "sub": [
+          {
+            "h": "2.1 Thông tin cá nhân",
+            "important": "<strong>Chúng tôi không thu thập thông tin nhận dạng cá nhân.</strong> Ứng dụng không có tài khoản riêng, không đăng ký và không trò chuyện. Chúng tôi không bao giờ yêu cầu tên, địa chỉ email, số điện thoại hoặc vị trí của bạn, và chúng tôi không vận hành máy chủ nào có thể nhận các thông tin đó."
+          },
+          {
+            "h": "2.2 Dữ liệu được lưu trên thiết bị của bạn",
+            "p": [
+              "Ứng dụng lưu một bản ghi nhỏ trong bộ nhớ riêng tư tiêu chuẩn của ứng dụng trên thiết bị:"
+            ],
+            "ul": [
+              "Tiến trình chiến dịch: màn cao nhất đã mở khóa, màn chơi gần nhất và xếp hạng sao của mỗi màn đã hoàn thành",
+              "Số dư xu, số dư gợi ý và các bộ đếm phía sau phần thưởng - gợi ý đã dùng, lượt hoàn tác đã dùng, lần hoàn thành sạch, lần hoàn thành nhanh và chuỗi hoàn thành sạch tốt nhất của bạn",
+              "Các phần thưởng bạn đã nhận và các đảo bạn đã mở",
+              "Cài đặt: ngôn ngữ giao diện, chủ đề cảnh, nhạc, hiệu ứng âm thanh, rung, thông báo, độ phân giải và tốc độ khung hình",
+              "Các cờ ghi nhận rằng bạn đã hoàn thành hướng dẫn và liệu quảng cáo đã được gỡ bỏ hay chưa"
+            ],
+            "after": "Gỡ cài đặt Ứng dụng hoặc xóa bộ nhớ của Ứng dụng sẽ xóa bản sao cục bộ này."
+          },
+          {
+            "h": "2.3 Lưu trên đám mây và dịch vụ nền tảng",
+            "p": [
+              "Nếu bạn đã đăng nhập vào <strong>Google Play Games</strong> trên Android, hoặc <strong>Game Center và iCloud</strong> trên iOS, Ứng dụng lưu một bản sao của cùng bản ghi đó trong tài khoản nền tảng của bạn để tiến trình của bạn vẫn còn khi mất hoặc thay thiết bị. Bản sao được Google hoặc Apple lưu giữ trong tài khoản của chính bạn, không phải bởi chúng tôi. Chúng tôi không thể đọc bản sao đó, và chúng tôi không được thông báo rằng bạn có bản sao đó.",
+              "Ứng dụng cũng báo cáo hai nội dung cho các dịch vụ đó khi bạn đã đăng nhập: tổng số sao của bạn, cho bảng xếp hạng, và các thành tích bạn đã đạt được. Không có nội dung nào khác được gửi. Đăng nhập là tùy chọn và toàn bộ trò chơi có thể chơi được mà không cần đăng nhập. Đăng xuất trong ứng dụng Google Play Games hoặc Game Center và Ứng dụng sẽ ngừng gửi bất cứ thứ gì."
+            ]
+          },
+          {
+            "h": "2.4 Những gì Ứng dụng không làm",
+            "ul": [
+              "<strong>Không quảng cáo.</strong> Phiên bản này không phục vụ quảng cáo biểu ngữ, quảng cáo xen kẽ hoặc quảng cáo có thưởng, và không có SDK quảng cáo nào được biên dịch vào phiên bản này.",
+              "<strong>Không phân tích, đo từ xa hoặc báo cáo sự cố.</strong> Chúng tôi không thu thập bất kỳ loại thống kê sử dụng nào.",
+              "<strong>Không truy cập ảnh, danh bạ, camera, micrô, tệp hoặc vị trí.</strong>",
+              "<strong>Không theo dõi trên các ứng dụng hoặc trang web</strong>, và không đọc mã định danh quảng cáo."
+            ]
+          },
+          {
+            "h": "2.5 Quyền mà Ứng dụng yêu cầu",
+            "ul": [
+              "<strong>Rung</strong> (<code>android.permission.VIBRATE</code>) - các phản hồi xúc giác ngắn khi một xe khớp vào vị trí, khi một nước đi bị chặn và khi bạn hoàn thành một màn. Tắt trong Cài đặt và Ứng dụng sẽ ngừng rung.",
+              "<strong>Internet</strong> (<code>android.permission.INTERNET</code>) - chỉ được Google Play Games dùng cho đăng nhập, lưu trên đám mây, bảng xếp hạng và thanh toán Google Play khi bạn mua thứ gì đó. Bản thân trò chơi không cần kết nối: mọi màn chơi đều được gói trong bản tải xuống."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "3. Cách thông tin được sử dụng",
+        "p": [
+          "Bản ghi được lưu tồn tại vì một mục đích: để trò chơi có thể nhớ bạn đang ở đâu và bạn thích chơi như thế nào. Bản ghi đó không được tổng hợp, lập hồ sơ hoặc bán."
+        ]
+      },
+      {
+        "h": "4. Dịch vụ bên thứ ba",
+        "p": [
+          "Ứng dụng sử dụng các dịch vụ sau. Mỗi dịch vụ xử lý dữ liệu của bạn theo chính sách quyền riêng tư riêng của dịch vụ đó, và mỗi dịch vụ là tùy chọn ngoại trừ cửa hàng mà bạn đã cài đặt từ đó:"
+        ],
+        "ul": [
+          "<strong>Google Play</strong> - tải xuống, cập nhật, hoàn tiền và, trên Android, mua hàng trong ứng dụng: <a href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noopener\">https://policies.google.com/privacy</a>",
+          "<strong>Dịch vụ Google Play Games</strong> (Android) - đăng nhập tùy chọn, thành tích, bảng xếp hạng và lưu trên đám mây, theo cùng chính sách quyền riêng tư của Google",
+          "<strong>Apple App Store, Game Center và iCloud</strong> (iOS) - tải xuống, mua hàng trong ứng dụng, đăng nhập tùy chọn, thành tích, bảng xếp hạng và lưu trên đám mây: <a href=\"https://www.apple.com/legal/privacy/\" target=\"_blank\" rel=\"noopener\">https://www.apple.com/legal/privacy/</a>"
+        ],
+        "after": "Ứng dụng được xây dựng bằng công cụ Unity. Runtime của Unity được biên dịch vào Ứng dụng; không có gói phân tích hoặc quảng cáo nào của Unity được bao gồm trong bản dựng này."
+      },
+      {
+        "h": "5. Giao dịch mua",
+        "p": [
+          "Gói xu và mở khóa không quảng cáo được bán thông qua thanh toán Google Play trên Android và App Store trên iOS. Các cửa hàng đó xử lý thanh toán và chỉ cho Ứng dụng biết liệu giao dịch mua có thành công hay không. <strong>Chúng tôi không bao giờ xem hoặc lưu trữ thẻ, địa chỉ hoặc bất kỳ chi tiết thanh toán nào khác của bạn.</strong> Việc hoàn tiền do cửa hàng mà bạn đã mua xử lý."
+        ]
+      },
+      {
+        "h": "6. Chia sẻ dữ liệu",
+        "p": [
+          "Chúng tôi không bán, cho thuê hoặc chia sẻ dữ liệu của bạn. Chúng tôi không nhận dữ liệu nào để chia sẻ: các bản sao duy nhất rời khỏi thiết bị của bạn đi đến tài khoản Google hoặc Apple của chính bạn."
+        ]
+      },
+      {
+        "h": "7. Lựa chọn của bạn",
+        "ul": [
+          "<strong>Chơi mà không đăng nhập:</strong> từ chối Google Play Games hoặc Game Center và không có gì được gửi đi đâu cả.",
+          "<strong>Xóa bản sao trên đám mây:</strong> xóa dữ liệu trò chơi đã lưu của Ứng dụng trong ứng dụng Google Play Games, hoặc xóa dữ liệu iCloud của Ứng dụng trong Cài đặt iOS.",
+          "<strong>Xóa mọi thứ cục bộ:</strong> xóa bộ nhớ của Ứng dụng, hoặc gỡ cài đặt Ứng dụng.",
+          "<strong>Đặt lại tiến trình trong trò chơi:</strong> Cài đặt có một chức năng đặt lại để xóa bản lưu của bạn.",
+          "<strong>Tắt rung, nhạc hoặc âm thanh:</strong> trong Cài đặt, bất cứ lúc nào."
+        ]
+      },
+      {
+        "h": "8. Quyền riêng tư của trẻ em",
+        "p": [
+          "Ứng dụng thân thiện với gia đình. Ứng dụng không có trò chuyện, không có nội dung do người dùng tạo và không có quảng cáo, và không cố ý thu thập thông tin cá nhân từ bất kỳ ai, bao gồm trẻ em dưới 13 tuổi. Việc đăng nhập Google Play Games và Game Center được kiểm soát bởi tài khoản nền tảng và bởi mọi biện pháp kiểm soát của phụ huynh được đặt trên tài khoản đó. Nếu bạn tin rằng một trẻ em đã cung cấp thông tin cá nhân thông qua Ứng dụng, vui lòng liên hệ với chúng tôi."
+        ]
+      },
+      {
+        "h": "9. Bảo mật dữ liệu",
+        "ul": [
+          "Tiến trình và cài đặt được lưu trong bộ nhớ riêng tư tiêu chuẩn của ứng dụng trên thiết bị, nơi các ứng dụng khác không thể đọc.",
+          "Bản sao trên đám mây được bảo vệ bởi tài khoản Google hoặc Apple của bạn và cơ chế bảo mật riêng của tài khoản đó.",
+          "Chúng tôi không vận hành máy chủ, nên không có tài khoản nào của bạn để chúng tôi làm mất và không có cơ sở dữ liệu nào của chúng tôi để bị xâm phạm."
+        ]
+      },
+      {
+        "h": "10. Thay đổi đối với Chính sách này",
+        "p": [
+          "Các thay đổi được đăng trên trang này cùng với ngày \"Cập nhật lần cuối\" mới. Nếu một phiên bản trong tương lai thu thập thứ gì đó mà trang này không mô tả, trang này sẽ được cập nhật <em>trước</em> khi phiên bản đó được phát hành. Việc tiếp tục sử dụng Ứng dụng sau một thay đổi có nghĩa là bạn chấp nhận chính sách đã sửa đổi."
+        ]
+      },
+      {
+        "h": "11. Liên hệ với chúng tôi",
+        "contact": true
+      },
+      {
+        "h": "12. Tuân thủ",
+        "p": [
+          "Chính sách quyền riêng tư này nhằm tuân thủ chính sách Google Play, nguyên tắc của Apple App Store, Quy định chung về bảo vệ dữ liệu (GDPR), Đạo luật quyền riêng tư của người tiêu dùng California (CCPA) và Đạo luật bảo vệ quyền riêng tư của trẻ em trên mạng (COPPA)."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Điều khoản sử dụng",
+    "summary_label": "Tóm lại:",
+    "summary": "Trò chơi được tải xuống miễn phí và bạn có quyền chơi trên các thiết bị của riêng mình. Không sao chép, bán lại hoặc tháo rời trò chơi. Trò chơi được cung cấp nguyên trạng. Xu và gợi ý là các tính năng giải trí không có giá trị tiền mặt, và mọi thứ bạn mua là mua từ Google hoặc Apple, không phải từ chúng tôi.",
+    "sections": [
+      {
+        "h": "1. Chấp nhận",
+        "p": [
+          "Bằng việc tải xuống, cài đặt hoặc chơi <strong>Let the car out! 3D puzzle</strong> (\"Ứng dụng\"), do HAB Labs phát hành, bạn đồng ý với các Điều khoản sử dụng này. Nếu bạn không đồng ý, hãy gỡ cài đặt Ứng dụng."
+        ]
+      },
+      {
+        "h": "2. Giấy phép",
+        "p": [
+          "Chúng tôi cấp cho bạn một giấy phép cá nhân, không độc quyền, không thể chuyển nhượng, có thể thu hồi để cài đặt và chơi Ứng dụng trên các thiết bị mà bạn sở hữu hoặc kiểm soát, cho mục đích sử dụng cá nhân, phi thương mại."
+        ]
+      },
+      {
+        "h": "3. Những việc bạn không được làm",
+        "ul": [
+          "Sao chép, bán, cho thuê, cấp phép lại hoặc phân phối lại Ứng dụng hoặc các màn chơi, tác phẩm nghệ thuật, âm thanh hoặc bản dịch của Ứng dụng",
+          "Dịch ngược, giải biên dịch hoặc tháo rời Ứng dụng, trừ khi quyền đó không thể bị loại trừ theo pháp luật",
+          "Sửa đổi Ứng dụng hoặc dữ liệu đã lưu của Ứng dụng để có lợi thế, rồi trình bày kết quả đó như cách chơi thật, bao gồm trên bảng xếp hạng",
+          "Sử dụng Ứng dụng cho bất kỳ việc gì bất hợp pháp"
+        ]
+      },
+      {
+        "h": "4. Vật phẩm ảo",
+        "p": [
+          "Xu, gợi ý, sao và phần thưởng là các tính năng giải trí bên trong Ứng dụng. Chúng không có giá trị tiền tệ, không thể đổi lấy tiền hoặc hàng hóa và không thể chuyển cho người khác. Chúng chỉ di chuyển giữa các thiết bị của chính bạn thông qua tính năng lưu trên đám mây được mô tả trong Chính sách quyền riêng tư, và chúng sẽ bị mất nếu bạn xóa cả bản lưu cục bộ và bản sao trên đám mây đó."
+        ]
+      },
+      {
+        "h": "5. Giao dịch mua",
+        "p": [
+          "Gói xu và mở khóa không quảng cáo được Google Play bán trên Android và App Store bán trên iOS, theo <a href=\"https://play.google.com/about/play-terms/\" target=\"_blank\" rel=\"noopener\">Điều khoản dịch vụ của Google Play</a> hoặc <a href=\"https://www.apple.com/legal/internet-services/itunes/\" target=\"_blank\" rel=\"noopener\">Điều khoản dịch vụ truyền thông</a> của Apple. Các cửa hàng đó nhận thanh toán và xử lý hoàn tiền; chúng tôi không bao giờ xem hoặc lưu trữ chi tiết thanh toán của bạn. Giao dịch mua được tiêu thụ bên trong Ứng dụng và, ngoại trừ mở khóa không quảng cáo, không được tự động khôi phục."
+        ]
+      },
+      {
+        "h": "6. Dịch vụ nền tảng",
+        "p": [
+          "Đăng nhập vào Google Play Games hoặc Game Center là tùy chọn. Các dịch vụ đó do Google và Apple cung cấp theo điều khoản riêng của họ, và chúng tôi không thể khôi phục, chuyển hoặc sửa tài khoản do họ nắm giữ. Các mục trên bảng xếp hạng có được bằng cách sửa đổi Ứng dụng có thể bị xóa."
+        ]
+      },
+      {
+        "h": "7. Dữ liệu của bạn",
+        "p": [
+          "Xem <a href=\"privacy-policy.html\">Chính sách quyền riêng tư</a> để biết Ứng dụng lưu trữ gì và ở đâu."
+        ]
+      },
+      {
+        "h": "8. Sở hữu trí tuệ",
+        "p": [
+          "Ứng dụng, bao gồm mã, thiết kế màn chơi, tác phẩm nghệ thuật và âm thanh của Ứng dụng, thuộc sở hữu của HAB Labs và được bảo vệ bởi bản quyền. Các Điều khoản này không cấp cho bạn quyền sở hữu đối với Ứng dụng."
+        ]
+      },
+      {
+        "h": "9. Cập nhật và tính khả dụng",
+        "p": [
+          "Chúng tôi có thể cập nhật, thay đổi hoặc ngừng cung cấp Ứng dụng hoặc bất kỳ tính năng nào của Ứng dụng bất cứ lúc nào, mà không cần thông báo. Chúng tôi không bảo đảm rằng Ứng dụng sẽ tiếp tục có sẵn trên bất kỳ cửa hàng cụ thể nào hoặc chạy trên bất kỳ thiết bị cụ thể nào."
+        ]
+      },
+      {
+        "h": "10. Tuyên bố miễn trừ bảo đảm",
+        "p": [
+          "Ứng dụng được cung cấp \"nguyên trạng\" và \"như hiện có\", không có bất kỳ bảo đảm nào, dù rõ ràng hay ngụ ý, bao gồm khả năng bán được, sự phù hợp cho một mục đích cụ thể và không xâm phạm. Chúng tôi không bảo đảm rằng Ứng dụng sẽ không bị gián đoạn hoặc không có khiếm khuyết."
+        ]
+      },
+      {
+        "h": "11. Giới hạn trách nhiệm",
+        "p": [
+          "Trong phạm vi tối đa được pháp luật cho phép, HAB Labs không chịu trách nhiệm đối với bất kỳ thiệt hại gián tiếp, ngẫu nhiên hoặc hệ quả nào, hoặc đối với bất kỳ mất mát tiến trình đã lưu nào, phát sinh từ việc bạn sử dụng Ứng dụng. Không có nội dung nào trong các Điều khoản này giới hạn trách nhiệm không thể bị giới hạn theo pháp luật."
+        ]
+      },
+      {
+        "h": "12. Trẻ em",
+        "p": [
+          "Ứng dụng phù hợp với mọi lứa tuổi. Nếu bạn là người chưa thành niên, vui lòng xem lại các Điều khoản này với cha mẹ hoặc người giám hộ, và hỏi họ trước khi thực hiện bất kỳ giao dịch mua nào."
+        ]
+      },
+      {
+        "h": "13. Thay đổi đối với các Điều khoản này",
+        "p": [
+          "Chúng tôi có thể sửa đổi các Điều khoản này. Phiên bản đã sửa đổi được đăng trên trang này cùng với ngày \"Cập nhật lần cuối\" mới, và việc tiếp tục sử dụng Ứng dụng sau đó có nghĩa là bạn chấp nhận phiên bản đó."
+        ]
+      },
+      {
+        "h": "14. Liên hệ",
+        "contact": true
+      }
+    ]
+  },
+  "support": {
+    "title": "Hỗ trợ",
+    "summary_label": "Cần trợ giúp?",
+    "summary": "Hãy viết cho chúng tôi và chúng tôi sẽ trả lời. Chỉ có một người đứng sau ứng dụng này, nên phản hồi thường mất một hoặc hai ngày thay vì một giờ.",
+    "sections": [
+      {
+        "h": "1. Tiến trình của tôi biến mất",
+        "p": [
+          "Tiến trình được lưu trên thiết bị. Nếu bạn đã cài đặt lại ứng dụng, đổi điện thoại hoặc xóa bộ nhớ của ứng dụng, bản sao cục bộ đã mất.",
+          "Chỉ có thể khôi phục nếu trước đó bạn đã đăng nhập vào Google Play Games (Android) hoặc Game Center và iCloud (iOS), và tính năng lưu trên đám mây đã chạy ít nhất một lần. Đăng nhập bằng cùng tài khoản và mở ứng dụng; ứng dụng sẽ lấy bản sao đã lưu và hợp nhất với bất cứ thứ gì đang có trên thiết bị, giữ phần tốt hơn trong hai bên cho mỗi màn."
+        ]
+      },
+      {
+        "h": "2. Đăng nhập không hoàn tất",
+        "p": [
+          "Trên Android, nguyên nhân gần như luôn là ứng dụng Google Play Games chứ không phải trò chơi: mở ứng dụng đó, kiểm tra rằng bạn đã đăng nhập ở đó và bảo đảm tài khoản không phải là tài khoản bị hạn chế bởi một nhóm gia đình.",
+          "Nếu trò chơi được cài đặt từ nguồn không phải Google Play, đăng nhập hoàn toàn không thể hoạt động - Play Games kiểm tra chữ ký của ứng dụng đã cài đặt."
+        ]
+      },
+      {
+        "h": "3. Điện thoại không rung",
+        "p": [
+          "Kiểm tra Cài đặt trong trò chơi, rồi kiểm tra cài đặt rung riêng của điện thoại. Một số điện thoại cũng tắt rung của ứng dụng ở chế độ tiết kiệm pin.",
+          "Máy tính bảng và một số điện thoại cũ không có mô-tơ rung và hoàn toàn không thể rung."
+        ]
+      },
+      {
+        "h": "4. Giao dịch mua chưa đến",
+        "p": [
+          "Giao dịch mua được cửa hàng phân phối. Mở lại ứng dụng khi có kết nối: cửa hàng sẽ gửi lại bất kỳ thứ gì đã nhận thanh toán nhưng chưa phân phối, và ứng dụng sẽ cấp ngay tại chỗ.",
+          "Nếu sau vài phút vẫn chưa đến, hãy gửi cho chúng tôi số đơn hàng từ biên nhận Google Play hoặc App Store của bạn và chúng tôi sẽ xử lý. Hoàn tiền phải đi qua cửa hàng mà bạn đã mua - chúng tôi không thể phát hành hoàn tiền."
+        ]
+      },
+      {
+        "h": "5. Một màn có vẻ không thể qua",
+        "p": [
+          "Mọi màn trong trò chơi đã được máy giải trước khi phát hành, nên luôn có đường thoát. Nút gợi ý hiển thị nước đi tiếp theo trong lời giải ngắn nhất đã biết. Nếu bạn tin rằng một màn thật sự không thể hoàn thành, hãy cho chúng tôi biết số của màn đó và chúng tôi sẽ kiểm tra màn đó."
+        ]
+      },
+      {
+        "h": "6. Xóa dữ liệu của bạn",
+        "p": [
+          "Xóa bộ nhớ của ứng dụng hoặc gỡ cài đặt ứng dụng để xóa bản lưu cục bộ. Để xóa bản sao trên đám mây, hãy xóa dữ liệu trò chơi đã lưu trong ứng dụng Google Play Games, hoặc dữ liệu iCloud của ứng dụng trong Cài đặt iOS."
+        ]
+      },
+      {
+        "h": "7. Liên hệ",
+        "contact": true
+      }
+    ]
+  }
+}

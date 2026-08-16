@@ -1,0 +1,295 @@
+{
+  "_comment": "Source text for every Let the car out! legal page. The HTML files are generated from this by build.mjs, and the translations are generated from this by translate.mjs. Edit here, never in the generated HTML.",
+  "meta": {
+    "app": "Let the car out! 3D puzzle",
+    "developer": "HAB Labs",
+    "email": "shawnfrest2k5@gmail.com",
+    "package": "com.hablabs.letthecarout",
+    "updated": "17 Agosto 2026"
+  },
+  "ui": {
+    "back_labs": "Bumalik sa HAB Labs",
+    "back_home": "Home ng Let the car out!",
+    "updated_label": "Huling na-update:",
+    "nav_privacy": "Patakaran sa Privacy",
+    "nav_terms": "Mga Tuntunin ng Paggamit",
+    "nav_support": "Suporta"
+  },
+  "index": {
+    "title": "Let the car out! - Mga Legal na Pahina",
+    "heading": "Let the car out! 3D puzzle",
+    "sub": "Mga opisyal na pahina para sa app - i-slide ang mga kotse sa gilid at magbukas ng daan palabas, sa mahigit 19,000 offline na level."
+  },
+  "privacy": {
+    "title": "Patakaran sa Privacy",
+    "summary_label": "Maikling buod:",
+    "summary": "Ang Let the car out! ay isang sliding-car puzzle. Nasa loob ng app ang bawat level, kaya maaari mong laruin ang buong laro nang walang koneksyon. Ang iyong progreso ay nasa iyong device. Kung mag-sign in ka sa Google Play Games o Game Center, isang kopya ng progresong iyon ay itinatago rin sa iyong platform account para manatili ito kahit may bago kang telepono. Ang bersyong ito ay hindi nagpapakita ng mga advertisement at walang analytics o crash reporting. Wala kaming sariling mga server at hindi namin kailanman natatanggap ang iyong pangalan, email, o lokasyon.",
+    "sections": [
+      {
+        "h": "1. Panimula",
+        "p": [
+          "Ipinapaliwanag ng Patakaran sa Privacy na ito kung paano pinangangasiwaan ng mobile application na <strong>Let the car out! 3D puzzle</strong> (package <code>com.hablabs.letthecarout</code>, ang \"App\") ang impormasyon. Ang App ay isang puzzle kung saan ini-slide mo ang mga kotse palabas ng masikip na parking lot. Sa paggamit ng App, sumasang-ayon ka sa mga kasanayang inilalarawan dito."
+        ]
+      },
+      {
+        "h": "2. Impormasyong Kinokolekta Namin",
+        "sub": [
+          {
+            "h": "2.1 Personal na Impormasyon",
+            "important": "<strong>Wala kaming kinokolektang impormasyong personal na makapagpapakilala.</strong> Ang App ay walang sariling account, walang pagpaparehistro, at walang chat. Hindi namin kailanman hinihingi ang iyong pangalan, email address, numero ng telepono, o lokasyon, at wala kaming pinapatakbong server na maaaring tumanggap ng mga ito."
+          },
+          {
+            "h": "2.2 Data na Naka-store sa Iyong Device",
+            "p": [
+              "Ang App ay nagtatago ng isang maliit na record sa karaniwang app-private storage ng device:"
+            ],
+            "ul": [
+              "Progreso sa campaign: ang pinakamataas na level na na-unlock, ang level na huling nilaro, at ang star rating ng bawat level na natapos",
+              "Ang iyong balanse ng coin, balanse ng hint, at ang mga counter sa likod ng mga award - mga hint na ginamit, mga undo na ginamit, clean clears, fast clears, at ang iyong pinakamahusay na clean-clear streak",
+              "Aling mga award ang na-claim mo at aling mga island ang nabuksan mo",
+              "Mga setting: wika ng interface, tema ng scene, musika, sound effects, vibration, mga notification, resolution, at frame rate",
+              "Mga flag na nagtatala na natapos mo ang tutorial at kung naalis na ang mga ad"
+            ],
+            "after": "Ang pag-uninstall ng App, o pag-clear ng storage nito, ay nagbubura sa lokal na kopyang ito."
+          },
+          {
+            "h": "2.3 Cloud Save at Mga Serbisyo ng Platform",
+            "p": [
+              "Kung naka-sign in ka sa <strong>Google Play Games</strong> sa Android, o sa <strong>Game Center at iCloud</strong> sa iOS, nagtatago ang App ng kopya ng parehong record sa iyong platform account para manatili ang iyong progreso kahit mawala o palitan ang isang device. Ang kopya ay hawak ng Google o Apple sa ilalim ng sarili mong account, hindi namin. Hindi namin ito mababasa, at hindi kami sinasabihang mayroon ka nito.",
+              "Nagre-report din ang App ng dalawang bagay sa mga serbisyong iyon kapag naka-sign in ka: ang kabuuan ng iyong mga star, para sa leaderboard, at kung aling mga achievement ang nakuha mo. Wala nang ibang ipinapadala. Opsyonal ang pag-sign in at malalaro ang buong laro nang wala ito. Mag-sign out sa Google Play Games o Game Center app at titigil ang App sa pagpapadala ng anumang bagay."
+            ]
+          },
+          {
+            "h": "2.4 Mga Hindi Ginagawa ng App",
+            "ul": [
+              "<strong>Walang mga advertisement.</strong> Ang bersyong ito ay hindi naghahatid ng banner, interstitial, o rewarded ad, at walang advertising SDK na naka-compile dito.",
+              "<strong>Walang analytics, telemetry, o crash reporting.</strong> Wala kaming kinokolektang anumang uri ng usage statistics.",
+              "<strong>Walang access sa mga larawan, contact, camera, mikropono, file, o lokasyon.</strong>",
+              "<strong>Walang tracking sa iba't ibang app o website</strong>, at walang advertising identifier na binabasa."
+            ]
+          },
+          {
+            "h": "2.5 Mga Permission na Hinihingi ng App",
+            "ul": [
+              "<strong>Vibrate</strong> (<code>android.permission.VIBRATE</code>) - maiikling haptic feedback na tap kapag pumuwesto ang kotse, kapag na-block ang isang galaw, at kapag natapos mo ang isang level. I-off ito sa Settings at titigil ang App sa pag-vibrate.",
+              "<strong>Internet</strong> (<code>android.permission.INTERNET</code>) - ginagamit lamang ng Google Play Games sign-in, cloud save, leaderboard, at Google Play billing kapag may binili ka. Hindi kailangan ng laro mismo ng koneksyon: kasama sa download ang bawat level."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "3. Paano Ginagamit ang Impormasyon",
+        "p": [
+          "May iisang layunin ang naka-store na record: para maalala ng laro kung nasaan ka na at kung paano mo gustong maglaro. Hindi ito pinagsasama-sama, ginagawaang profile, o ibinebenta."
+        ]
+      },
+      {
+        "h": "4. Mga Serbisyo ng Third Party",
+        "p": [
+          "Ginagamit ng App ang mga sumusunod na serbisyo. Pinangangasiwaan ng bawat isa ang iyong data sa ilalim ng sarili nitong patakaran sa privacy, at opsyonal ang bawat isa maliban sa store kung saan ka nag-install:"
+        ],
+        "ul": [
+          "<strong>Google Play</strong> - download, update, refund, at, sa Android, mga in-app purchase: <a href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noopener\">https://policies.google.com/privacy</a>",
+          "<strong>Google Play Games Services</strong> (Android) - opsyonal na sign-in, mga achievement, leaderboard, at cloud save, sa ilalim ng parehong patakaran sa privacy ng Google",
+          "<strong>Apple App Store, Game Center at iCloud</strong> (iOS) - download, mga in-app purchase, opsyonal na sign-in, mga achievement, leaderboard, at cloud save: <a href=\"https://www.apple.com/legal/privacy/\" target=\"_blank\" rel=\"noopener\">https://www.apple.com/legal/privacy/</a>"
+        ],
+        "after": "Ang App ay ginawa gamit ang Unity engine. Naka-compile ang Unity runtime sa App; walang Unity analytics o advertising package na kasama sa build na ito."
+      },
+      {
+        "h": "5. Mga Pagbili",
+        "p": [
+          "Ibinebenta ang mga coin pack at ang advertisement-free unlock sa pamamagitan ng Google Play billing sa Android at ng App Store sa iOS. Ang mga store na iyon ang nagpoproseso ng bayad at sinasabi lamang sa App kung nagtagumpay ang isang pagbili. <strong>Hindi namin kailanman nakikita o ini-store ang iyong card, address, o anumang iba pang detalye ng pagbabayad.</strong> Ang mga refund ay pinangangasiwaan ng store kung saan ka bumili."
+        ]
+      },
+      {
+        "h": "6. Pagbabahagi ng Data",
+        "p": [
+          "Hindi namin ibinebenta, pinapaupahan, o ibinabahagi ang iyong data. Wala kaming natatanggap na maibabahagi: ang tanging mga kopyang umaalis sa iyong device ay pumupunta sa sarili mong Google o Apple account."
+        ]
+      },
+      {
+        "h": "7. Iyong Mga Pagpipilian",
+        "ul": [
+          "<strong>Maglaro nang hindi nagsa-sign in:</strong> tanggihan ang Google Play Games o Game Center at walang ipapadala kahit saan.",
+          "<strong>Burahin ang cloud copy:</strong> alisin ang saved game ng App sa Google Play Games app, o burahin ang iCloud data nito sa iOS Settings.",
+          "<strong>Burahin ang lahat nang lokal:</strong> i-clear ang storage ng App, o i-uninstall ito.",
+          "<strong>I-reset ang progreso sa loob ng laro:</strong> may reset sa Settings na nagki-clear sa iyong save.",
+          "<strong>I-off ang vibration, musika, o tunog:</strong> sa Settings, anumang oras."
+        ]
+      },
+      {
+        "h": "8. Privacy ng Mga Bata",
+        "p": [
+          "Ang App ay family-friendly. Wala itong chat, walang user-generated content, at walang advertising, at hindi nito sinasadyang kinokolekta ang personal na impormasyon mula kaninuman, kabilang ang mga batang wala pang 13 taong gulang. Ang pag-sign in sa Google Play Games at Game Center ay kinokontrol ng platform account at ng anumang parental controls na naka-set dito. Kung naniniwala kang may batang nagbigay ng personal na impormasyon sa pamamagitan ng App, mangyaring makipag-ugnayan sa amin."
+        ]
+      },
+      {
+        "h": "9. Seguridad ng Data",
+        "ul": [
+          "Ang progreso at mga setting ay itinatago sa karaniwang app-private storage ng device, na hindi mababasa ng ibang app.",
+          "Ang cloud copy ay pinoprotektahan ng iyong Google o Apple account at ng sarili nitong seguridad.",
+          "Wala kaming pinapatakbong mga server, kaya walang account mo na maaari naming mawala at walang database namin na maaaring ma-breach."
+        ]
+      },
+      {
+        "h": "10. Mga Pagbabago sa Patakarang Ito",
+        "p": [
+          "Ang mga pagbabago ay ipo-post sa pahinang ito kasama ang bagong petsang \"Huling na-update\". Kung may kokolektahin ang isang bersyon sa hinaharap na hindi inilalarawan ng pahinang ito, ia-update ang pahina <em>bago</em> ilabas ang bersyong iyon. Ang patuloy na paggamit sa App pagkatapos ng pagbabago ay nangangahulugang tinatanggap mo ang binagong patakaran."
+        ]
+      },
+      {
+        "h": "11. Makipag-ugnayan sa Amin",
+        "contact": true
+      },
+      {
+        "h": "12. Pagsunod",
+        "p": [
+          "Layunin ng Patakaran sa Privacy na ito na sumunod sa patakaran ng Google Play, mga alituntunin ng Apple App Store, General Data Protection Regulation (GDPR), California Consumer Privacy Act (CCPA), at Children's Online Privacy Protection Act (COPPA)."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Mga Tuntunin ng Paggamit",
+    "summary_label": "Sa madaling salita:",
+    "summary": "Libre ang pag-download ng laro at maaari mo itong laruin sa sarili mong mga device. Huwag itong kopyahin, muling ibenta, o kalasin. Ibinibigay ito kung ano ito. Ang mga coin at hint ay mga feature para sa aliwan na walang cash value, at anumang bibilhin mo ay binibili mula sa Google o Apple, hindi mula sa amin.",
+    "sections": [
+      {
+        "h": "1. Pagtanggap",
+        "p": [
+          "Sa pag-download, pag-install, o paglalaro ng <strong>Let the car out! 3D puzzle</strong> (ang \"App\"), na inilathala ng HAB Labs, sumasang-ayon ka sa Mga Tuntunin ng Paggamit na ito. Kung hindi ka sumasang-ayon, i-uninstall ang App."
+        ]
+      },
+      {
+        "h": "2. Lisensya",
+        "p": [
+          "Binibigyan ka namin ng personal, non-exclusive, hindi naililipat, at maaaring bawiing lisensya upang i-install at laruin ang App sa mga device na pagmamay-ari o kontrolado mo, para sa personal at hindi komersyal na paggamit."
+        ]
+      },
+      {
+        "h": "3. Mga Hindi Mo Maaaring Gawin",
+        "ul": [
+          "Kopyahin, ibenta, paupahan, i-sublicense, o muling ipamahagi ang App o ang mga level, artwork, tunog, o salin nito",
+          "I-reverse engineer, i-decompile, o i-disassemble ang App, maliban kung ang karapatang iyon ay hindi maaaring ibukod ng batas",
+          "Baguhin ang App o ang saved data nito upang makakuha ng kalamangan, at pagkatapos ay ipakita ang resulta bilang tunay na paglalaro, kabilang sa leaderboard",
+          "Gamitin ang App para sa anumang labag sa batas"
+        ]
+      },
+      {
+        "h": "4. Mga Virtual Item",
+        "p": [
+          "Ang mga coin, hint, star, at award ay mga feature para sa aliwan sa loob ng App. Wala silang monetary value, hindi maaaring ipalit sa pera o mga produkto, at hindi maaaring ilipat sa ibang tao. Lumilipat lamang ang mga ito sa pagitan ng sarili mong mga device sa pamamagitan ng cloud save na inilalarawan sa Patakaran sa Privacy, at mawawala ang mga ito kung buburahin mo ang parehong lokal na save at ang cloud copy na iyon."
+        ]
+      },
+      {
+        "h": "5. Mga Pagbili",
+        "p": [
+          "Ibinebenta ang mga coin pack at ang advertisement-free unlock ng Google Play sa Android at ng App Store sa iOS, sa ilalim ng <a href=\"https://play.google.com/about/play-terms/\" target=\"_blank\" rel=\"noopener\">Mga Tuntunin ng Serbisyo ng Google Play</a> o <a href=\"https://www.apple.com/legal/internet-services/itunes/\" target=\"_blank\" rel=\"noopener\">Mga Tuntunin ng Media Services</a> ng Apple. Kinukuha ng mga store na iyon ang bayad at pinangangasiwaan ang mga refund; hindi namin kailanman nakikita o ini-store ang iyong mga detalye ng pagbabayad. Ang mga pagbili ay nauubos sa loob ng App at, maliban sa advertisement-free unlock, hindi awtomatikong nare-restore."
+        ]
+      },
+      {
+        "h": "6. Mga Serbisyo ng Platform",
+        "p": [
+          "Opsyonal ang pag-sign in sa Google Play Games o Game Center. Ang mga serbisyong iyon ay ibinibigay ng Google at Apple sa ilalim ng sarili nilang mga tuntunin, at hindi namin maaaring i-restore, ilipat, o ayusin ang isang account na hawak nila. Maaaring alisin ang mga entry sa leaderboard na nakuha sa pamamagitan ng pagbabago sa App."
+        ]
+      },
+      {
+        "h": "7. Iyong Data",
+        "p": [
+          "Tingnan ang <a href=\"privacy-policy.html\">Patakaran sa Privacy</a> para sa kung ano ang ini-store ng App at kung saan."
+        ]
+      },
+      {
+        "h": "8. Intelektuwal na Ari-arian",
+        "p": [
+          "Ang App, kabilang ang code, mga disenyo ng level, artwork, at tunog nito, ay pag-aari ng HAB Labs at protektado ng copyright. Ang Mga Tuntuning ito ay hindi nagbibigay sa iyo ng pagmamay-ari nito."
+        ]
+      },
+      {
+        "h": "9. Mga Update at Availability",
+        "p": [
+          "Maaari naming i-update, baguhin, o ihinto ang App o alinman sa mga feature nito anumang oras, nang walang abiso. Hindi namin ginagarantiyahan na mananatiling available ang App sa anumang partikular na store o tatakbo sa anumang partikular na device."
+        ]
+      },
+      {
+        "h": "10. Disclaimer ng Warranty",
+        "p": [
+          "Ibinibigay ang App \"as is\" at \"as available\", nang walang anumang uri ng warranty, hayag man o ipinahiwatig, kabilang ang merchantability, fitness for a particular purpose, at non-infringement. Hindi namin ginagarantiyahan na ang App ay hindi maaantala o walang mga depekto."
+        ]
+      },
+      {
+        "h": "11. Limitasyon ng Pananagutan",
+        "p": [
+          "Sa pinakamalawak na pinahihintulutan ng batas, ang HAB Labs ay hindi mananagot para sa anumang hindi direktang, incidental, o consequential na pinsala, o para sa anumang pagkawala ng naka-save na progreso, na nagmumula sa iyong paggamit ng App. Walang anuman sa Mga Tuntuning ito ang naglilimita sa pananagutang hindi maaaring limitahan ng batas."
+        ]
+      },
+      {
+        "h": "12. Mga Bata",
+        "p": [
+          "Ang App ay angkop para sa lahat ng edad. Kung ikaw ay menor de edad, mangyaring suriin ang Mga Tuntuning ito kasama ang isang magulang o guardian, at magtanong sa kanila bago gumawa ng anumang pagbili."
+        ]
+      },
+      {
+        "h": "13. Mga Pagbabago sa Mga Tuntuning Ito",
+        "p": [
+          "Maaari naming baguhin ang Mga Tuntuning ito. Ang binagong bersyon ay ipo-post sa pahinang ito kasama ang bagong petsang \"Huling na-update\", at ang patuloy na paggamit sa App pagkatapos nito ay nangangahulugang tinatanggap mo ito."
+        ]
+      },
+      {
+        "h": "14. Makipag-ugnayan",
+        "contact": true
+      }
+    ]
+  },
+  "support": {
+    "title": "Suporta",
+    "summary_label": "Kailangan ng tulong?",
+    "summary": "Sumulat sa amin at sasagot kami. Isang tao lang ang nasa likod ng app na ito, kaya karaniwang tumatagal ng isa o dalawang araw ang sagot sa halip na isang oras.",
+    "sections": [
+      {
+        "h": "1. Nawala ang progreso ko",
+        "p": [
+          "Ang progreso ay itinatago sa device. Kung ni-reinstall mo ang app, nagpalit ng telepono, o ni-clear ang storage nito, wala na ang lokal na kopya.",
+          "Maaari lamang itong ma-recover kung naka-sign in ka sa Google Play Games (Android) o Game Center at iCloud (iOS) dati, at tumakbo na kahit isang beses ang cloud save. Mag-sign in gamit ang parehong account at buksan ang app; kukunin nito ang saved copy at ime-merge ito sa anumang nasa device, pinananatili ang mas mabuti sa dalawa para sa bawat level."
+        ]
+      },
+      {
+        "h": "2. Hindi natatapos ang pag-sign in",
+        "p": [
+          "Sa Android, halos palagi itong dahil sa Google Play Games app sa halip na sa laro: buksan ito, tingnan kung naka-sign in ka roon, at tiyaking ang account ay hindi pinaghihigpitan ng family group.",
+          "Kung na-install ang laro mula sa source na hindi Google Play, hindi talaga gagana ang sign-in - tinitingnan ng Play Games ang signature ng naka-install na app."
+        ]
+      },
+      {
+        "h": "3. Hindi nagva-vibrate ang telepono",
+        "p": [
+          "Tingnan ang Settings sa loob ng laro, pagkatapos ang sariling vibration setting ng iyong telepono. Ini-disable din ng ilang telepono ang app vibration sa battery-saver mode.",
+          "Ang mga tablet at ilang mas lumang telepono ay walang vibration motor at hindi talaga makakapag-vibrate."
+        ]
+      },
+      {
+        "h": "4. Hindi dumating ang isang pagbili",
+        "p": [
+          "Ang mga pagbili ay inihahatid ng store. Buksan muli ang app habang nakakonekta: muling ipinapadala ng store ang anumang nabayaran na ngunit hindi pa naihahatid, at ibinibigay ito ng app agad.",
+          "Kung hindi pa rin ito dumating pagkatapos ng ilang minuto, ipadala sa amin ang order number mula sa iyong Google Play o App Store receipt at aayusin namin ito. Kailangang dumaan ang mga refund sa store kung saan ka bumili - hindi namin maibibigay ang mga ito."
+        ]
+      },
+      {
+        "h": "5. Mukhang imposible ang isang level",
+        "p": [
+          "Ang bawat level sa laro ay nalutas na ng machine bago ilabas, kaya laging may daan palabas. Ipinapakita ng hint button ang susunod na galaw sa pinakamaikling kilalang solusyon. Kung naniniwala kang talagang hindi matatapos ang isang level, sabihin sa amin ang numero nito at susuriin namin ang level na iyon."
+        ]
+      },
+      {
+        "h": "6. Pagbura ng iyong data",
+        "p": [
+          "I-clear ang storage ng app o i-uninstall ito upang alisin ang lokal na save. Upang alisin ang cloud copy, burahin ang saved game sa Google Play Games app, o ang iCloud data ng app sa iOS Settings."
+        ]
+      },
+      {
+        "h": "7. Makipag-ugnayan",
+        "contact": true
+      }
+    ]
+  }
+}

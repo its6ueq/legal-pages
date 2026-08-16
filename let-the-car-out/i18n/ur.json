@@ -1,0 +1,295 @@
+{
+  "_comment": "Source text for every Let the car out! legal page. The HTML files are generated from this by build.mjs, and the translations are generated from this by translate.mjs. Edit here, never in the generated HTML.",
+  "meta": {
+    "app": "Let the car out! 3D puzzle",
+    "developer": "HAB Labs",
+    "email": "shawnfrest2k5@gmail.com",
+    "package": "com.hablabs.letthecarout",
+    "updated": "17 اگست 2026"
+  },
+  "ui": {
+    "back_labs": "HAB Labs پر واپس جائیں",
+    "back_home": "Let the car out! ہوم",
+    "updated_label": "آخری بار اپ ڈیٹ:",
+    "nav_privacy": "رازداری کی پالیسی",
+    "nav_terms": "استعمال کی شرائط",
+    "nav_support": "سپورٹ"
+  },
+  "index": {
+    "title": "Let the car out! - قانونی صفحات",
+    "heading": "Let the car out! 3D puzzle",
+    "sub": "ایپ کے سرکاری صفحات - گاڑیوں کو ایک طرف سرکائیں اور باہر نکلنے کا راستہ صاف کریں، 19,000 سے زیادہ آف لائن لیولز میں۔"
+  },
+  "privacy": {
+    "title": "رازداری کی پالیسی",
+    "summary_label": "مختصر خلاصہ:",
+    "summary": "Let the car out! ایک سلائیڈنگ کار پزل ہے۔ ہر لیول ایپ کے اندر ہے، اس لیے آپ پورا گیم بالکل بغیر کنکشن کے کھیل سکتے ہیں۔ آپ کی پیش رفت آپ کے آلے پر رہتی ہے۔ اگر آپ Google Play Games یا Game Center میں سائن ان کرتے ہیں، تو اس پیش رفت کی ایک کاپی آپ کے پلیٹ فارم اکاؤنٹ میں بھی رکھی جاتی ہے تاکہ نیا فون لینے پر بھی یہ باقی رہے۔ یہ ورژن کوئی اشتہارات نہیں دکھاتا اور اس میں کوئی analytics یا crash reporting نہیں ہے۔ ہم اپنے کوئی سرور نہیں چلاتے اور کبھی بھی آپ کا نام، ای میل، یا مقام وصول نہیں کرتے۔",
+    "sections": [
+      {
+        "h": "1. تعارف",
+        "p": [
+          "یہ رازداری کی پالیسی وضاحت کرتی ہے کہ موبائل ایپلیکیشن <strong>Let the car out! 3D puzzle</strong> (package <code>com.hablabs.letthecarout</code>، \"ایپ\") معلومات کو کیسے سنبھالتی ہے۔ ایپ ایک پزل ہے جس میں آپ بھری ہوئی پارکنگ سے گاڑیوں کو باہر سرکاتے ہیں۔ ایپ استعمال کر کے آپ یہاں بیان کردہ طریقوں سے اتفاق کرتے ہیں۔"
+        ]
+      },
+      {
+        "h": "2. وہ معلومات جو ہم جمع کرتے ہیں",
+        "sub": [
+          {
+            "h": "2.1 ذاتی معلومات",
+            "important": "<strong>ہم کوئی ذاتی طور پر قابل شناخت معلومات جمع نہیں کرتے۔</strong> ایپ کا اپنا کوئی اکاؤنٹ نہیں، کوئی رجسٹریشن نہیں، اور کوئی چیٹ نہیں۔ ہم کبھی بھی آپ کا نام، ای میل پتہ، فون نمبر، یا مقام نہیں مانگتے، اور ہم کوئی ایسا سرور نہیں چلاتے جو انہیں وصول کر سکے۔"
+          },
+          {
+            "h": "2.2 آپ کے آلے پر محفوظ ڈیٹا",
+            "p": [
+              "ایپ آلے کے معیاری app-private storage میں ایک چھوٹا ریکارڈ رکھتی ہے:"
+            ],
+            "ul": [
+              "Campaign progress: سب سے اونچا ان لاک شدہ لیول، آخری کھیلا گیا لیول، اور ہر مکمل کیے گئے لیول کی star rating",
+              "آپ کا coin balance، hint balance، اور awards کے پیچھے موجود counters - hints used، undos used، clean clears، fast clears، اور آپ کی بہترین clean-clear streak",
+              "آپ نے کون سے awards claim کیے ہیں اور کون سے islands کھولے ہیں",
+              "Settings: interface language، scene theme، music، sound effects، vibration، notifications، resolution، اور frame rate",
+              "ایسے flags جو ریکارڈ کرتے ہیں کہ آپ نے tutorial ختم کیا اور آیا ads ہٹا دیے گئے ہیں"
+            ],
+            "after": "ایپ uninstall کرنے، یا اس کا storage clear کرنے سے، یہ local copy حذف ہو جاتی ہے۔"
+          },
+          {
+            "h": "2.3 Cloud Save اور پلیٹ فارم سروسز",
+            "p": [
+              "اگر آپ Android پر <strong>Google Play Games</strong> میں، یا iOS پر <strong>Game Center and iCloud</strong> میں سائن ان ہیں، تو ایپ اسی ریکارڈ کی ایک کاپی آپ کے پلیٹ فارم اکاؤنٹ میں رکھتی ہے تاکہ آلہ گم ہونے یا بدلنے پر آپ کی پیش رفت باقی رہے۔ یہ کاپی آپ کے اپنے اکاؤنٹ کے تحت Google یا Apple کے پاس رکھی جاتی ہے، ہمارے پاس نہیں۔ ہم اسے پڑھ نہیں سکتے، اور ہمیں یہ نہیں بتایا جاتا کہ آپ کے پاس ایسی کاپی ہے۔",
+              "جب آپ سائن ان ہوں تو ایپ ان سروسز کو دو چیزیں بھی رپورٹ کرتی ہے: leaderboard کے لیے آپ کے total stars، اور یہ کہ آپ نے کون سی achievements حاصل کی ہیں۔ اس کے علاوہ کچھ نہیں بھیجا جاتا۔ سائن ان کرنا اختیاری ہے اور پورا گیم اس کے بغیر کھیلنے کے قابل ہے۔ Google Play Games یا Game Center app میں سائن آؤٹ کریں اور ایپ کچھ بھی بھیجنا بند کر دیتی ہے۔"
+            ]
+          },
+          {
+            "h": "2.4 ایپ کیا نہیں کرتی",
+            "ul": [
+              "<strong>کوئی اشتہارات نہیں۔</strong> یہ ورژن کوئی banner، interstitial، یا rewarded ad فراہم نہیں کرتا، اور کوئی advertising SDK اس میں compiled نہیں ہے۔",
+              "<strong>کوئی analytics، telemetry، یا crash reporting نہیں۔</strong> ہم کسی بھی قسم کے استعمال کے اعداد و شمار جمع نہیں کرتے۔",
+              "<strong>photos، contacts، camera، microphone، files، یا location تک کوئی رسائی نہیں۔</strong>",
+              "<strong>apps یا websites کے درمیان کوئی tracking نہیں</strong>، اور کوئی advertising identifier نہیں پڑھا جاتا۔"
+            ]
+          },
+          {
+            "h": "2.5 وہ permissions جو ایپ مانگتی ہے",
+            "ul": [
+              "<strong>Vibrate</strong> (<code>android.permission.VIBRATE</code>) - جب گاڑی اپنی جگہ snap ہو، جب move blocked ہو، اور جب آپ level clear کریں تو haptic feedback کے مختصر taps۔ Settings میں اسے off کریں اور ایپ vibrate کرنا بند کر دیتی ہے۔",
+              "<strong>Internet</strong> (<code>android.permission.INTERNET</code>) - صرف Google Play Games sign-in، cloud save، leaderboard، اور Google Play billing کے لیے استعمال ہوتا ہے جب آپ کچھ خریدتے ہیں۔ گیم کو خود کسی connection کی ضرورت نہیں: ہر level download میں bundled ہے۔"
+            ]
+          }
+        ]
+      },
+      {
+        "h": "3. معلومات کیسے استعمال ہوتی ہے",
+        "p": [
+          "محفوظ ریکارڈ ایک مقصد کے لیے موجود ہے: تاکہ گیم یاد رکھ سکے کہ آپ کہاں تھے اور آپ کیسے کھیلنا پسند کرتے ہیں۔ اسے aggregate، profile، یا sell نہیں کیا جاتا۔"
+        ]
+      },
+      {
+        "h": "4. فریق ثالث کی سروسز",
+        "p": [
+          "ایپ درج ذیل سروسز استعمال کرتی ہے۔ ہر سروس آپ کے ڈیٹا کو اپنی رازداری کی پالیسی کے تحت سنبھالتی ہے، اور ہر ایک اختیاری ہے سوائے اس store کے جہاں سے آپ نے install کیا:"
+        ],
+        "ul": [
+          "<strong>Google Play</strong> - download، update، refund، اور Android پر in-app purchases: <a href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noopener\">https://policies.google.com/privacy</a>",
+          "<strong>Google Play Games Services</strong> (Android) - اختیاری sign-in، achievements، leaderboard، اور cloud save، اسی Google privacy policy کے تحت",
+          "<strong>Apple App Store, Game Center and iCloud</strong> (iOS) - download، in-app purchases، اختیاری sign-in، achievements، leaderboard، اور cloud save: <a href=\"https://www.apple.com/legal/privacy/\" target=\"_blank\" rel=\"noopener\">https://www.apple.com/legal/privacy/</a>"
+        ],
+        "after": "ایپ Unity engine سے بنائی گئی ہے۔ Unity کا runtime ایپ میں compiled ہے؛ اس build میں کوئی Unity analytics یا advertising package شامل نہیں ہے۔"
+      },
+      {
+        "h": "5. خریداری",
+        "p": [
+          "Coin packs اور advertisement-free unlock Android پر Google Play billing اور iOS پر App Store کے ذریعے فروخت ہوتے ہیں۔ یہ stores ادائیگی process کرتے ہیں اور ایپ کو صرف یہ بتاتے ہیں کہ purchase کامیاب ہوئی یا نہیں۔ <strong>ہم کبھی بھی آپ کا card، address، یا کوئی اور payment detail نہیں دیکھتے یا store کرتے۔</strong> Refunds وہ store handle کرتا ہے جس سے آپ نے خریداری کی۔"
+        ]
+      },
+      {
+        "h": "6. ڈیٹا شیئرنگ",
+        "p": [
+          "ہم آپ کا ڈیٹا فروخت، کرایہ، یا share نہیں کرتے۔ share کرنے کے لیے ہمیں کچھ موصول نہیں ہوتا: آپ کے آلے سے نکلنے والی صرف copies آپ کے اپنے Google یا Apple account کو جاتی ہیں۔"
+        ]
+      },
+      {
+        "h": "7. آپ کے اختیارات",
+        "ul": [
+          "<strong>سائن ان کیے بغیر کھیلیں:</strong> Google Play Games یا Game Center کو decline کریں اور کچھ بھی کہیں نہیں بھیجا جاتا۔",
+          "<strong>Cloud copy حذف کریں:</strong> Google Play Games app میں ایپ کا saved game remove کریں، یا iOS Settings میں اس کا iCloud data delete کریں۔",
+          "<strong>سب کچھ locally حذف کریں:</strong> ایپ کا storage clear کریں، یا اسے uninstall کریں۔",
+          "<strong>گیم کے اندر progress reset کریں:</strong> Settings میں ایک reset موجود ہے جو آپ کا save clear کرتا ہے۔",
+          "<strong>vibration، music، یا sound بند کریں:</strong> Settings میں، کسی بھی وقت۔"
+        ]
+      },
+      {
+        "h": "8. بچوں کی رازداری",
+        "p": [
+          "ایپ family-friendly ہے۔ اس میں کوئی chat، کوئی user-generated content، اور کوئی advertising نہیں ہے، اور یہ جان بوجھ کر کسی سے بھی، بشمول 13 سال سے کم عمر بچوں کے، personal information جمع نہیں کرتی۔ Google Play Games اور Game Center sign-in پلیٹ فارم account اور اس پر مقرر کسی بھی parental controls کے ذریعے controlled ہوتے ہیں۔ اگر آپ کو یقین ہے کہ کسی بچے نے ایپ کے ذریعے personal information فراہم کی ہے، تو براہ کرم ہم سے رابطہ کریں۔"
+        ]
+      },
+      {
+        "h": "9. ڈیٹا سکیورٹی",
+        "ul": [
+          "Progress اور settings آلے کے standard app-private storage میں رکھے جاتے ہیں، جسے دوسری apps نہیں پڑھ سکتیں۔",
+          "Cloud copy آپ کے Google یا Apple account اور اس کی اپنی security سے protected ہے۔",
+          "ہم کوئی servers operate نہیں کرتے، اس لیے ہمارے پاس آپ کا کوئی account نہیں جسے ہم کھو دیں اور ہماری کوئی database نہیں جس میں breach ہو۔"
+        ]
+      },
+      {
+        "h": "10. اس پالیسی میں تبدیلیاں",
+        "p": [
+          "تبدیلیاں اس page پر نئی \"آخری بار اپ ڈیٹ\" date کے ساتھ post کی جاتی ہیں۔ اگر کوئی future version ایسی چیز collect کرے جسے یہ page describe نہیں کرتا، تو وہ version ship ہونے سے <em>پہلے</em> page update کیا جاتا ہے۔ تبدیلی کے بعد ایپ کا استعمال جاری رکھنے کا مطلب ہے کہ آپ revised policy قبول کرتے ہیں۔"
+        ]
+      },
+      {
+        "h": "11. ہم سے رابطہ کریں",
+        "contact": true
+      },
+      {
+        "h": "12. تعمیل",
+        "p": [
+          "اس رازداری کی پالیسی کا مقصد Google Play policy، Apple App Store guidelines، General Data Protection Regulation (GDPR)، California Consumer Privacy Act (CCPA)، اور Children's Online Privacy Protection Act (COPPA) کی تعمیل کرنا ہے۔"
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "استعمال کی شرائط",
+    "summary_label": "مختصراً:",
+    "summary": "گیم download کرنے کے لیے free ہے اور آپ کے اپنے devices پر کھیلنے کے لیے آپ کا ہے۔ اسے copy نہ کریں، resell نہ کریں، یا اسے apart نہ کریں۔ یہ as is فراہم کیا جاتا ہے۔ Coins اور hints entertainment features ہیں جن کی کوئی cash value نہیں، اور جو کچھ بھی آپ خریدتے ہیں وہ Google یا Apple سے خریدا جاتا ہے، ہم سے نہیں۔",
+    "sections": [
+      {
+        "h": "1. قبولیت",
+        "p": [
+          "<strong>Let the car out! 3D puzzle</strong> (\"ایپ\")، جسے HAB Labs نے publish کیا ہے، کو download، install، یا play کر کے آپ ان استعمال کی شرائط سے agree کرتے ہیں۔ اگر آپ agree نہیں کرتے، تو ایپ uninstall کریں۔"
+        ]
+      },
+      {
+        "h": "2. لائسنس",
+        "p": [
+          "ہم آپ کو اپنے owned یا controlled devices پر، personal، non-commercial use کے لیے، ایپ install اور play کرنے کا personal، non-exclusive، non-transferable، revocable licence دیتے ہیں۔"
+        ]
+      },
+      {
+        "h": "3. آپ کیا نہیں کر سکتے",
+        "ul": [
+          "ایپ یا اس کے levels، artwork، sounds، یا translations کو copy، sell، rent، sublicense، یا redistribute کرنا",
+          "ایپ کو reverse engineer، decompile، یا disassemble کرنا، سوائے اس کے جہاں وہ حق law کے ذریعے exclude نہیں کیا جا سکتا",
+          "advantage حاصل کرنے کے لیے ایپ یا اس کے saved data میں modify کرنا، اور پھر result کو genuine play کے طور پر present کرنا، بشمول leaderboard پر",
+          "ایپ کو کسی بھی unlawful چیز کے لیے استعمال کرنا"
+        ]
+      },
+      {
+        "h": "4. Virtual Items",
+        "p": [
+          "Coins، hints، stars، اور awards ایپ کے اندر entertainment features ہیں۔ ان کی کوئی monetary value نہیں، انہیں money یا goods کے بدلے exchange نہیں کیا جا سکتا، اور انہیں کسی دوسرے شخص کو transfer نہیں کیا جا سکتا۔ یہ آپ کے اپنے devices کے درمیان صرف Privacy Policy میں described cloud save کے ذریعے move ہوتے ہیں، اور اگر آپ local save اور وہ cloud copy دونوں delete کر دیتے ہیں تو یہ lost ہو جاتے ہیں۔"
+        ]
+      },
+      {
+        "h": "5. خریداری",
+        "p": [
+          "Coin packs اور advertisement-free unlock Android پر Google Play اور iOS پر App Store کے ذریعے، <a href=\"https://play.google.com/about/play-terms/\" target=\"_blank\" rel=\"noopener\">Google Play Terms of Service</a> یا Apple کی <a href=\"https://www.apple.com/legal/internet-services/itunes/\" target=\"_blank\" rel=\"noopener\">Media Services Terms</a> کے تحت، فروخت ہوتے ہیں۔ یہ stores payment لیتے ہیں اور refunds handle کرتے ہیں؛ ہم کبھی بھی آپ کی payment details نہیں دیکھتے یا store کرتے۔ Purchases ایپ کے اندر consume ہوتی ہیں اور، advertisement-free unlock کے علاوہ، automatically restore نہیں ہوتیں۔"
+        ]
+      },
+      {
+        "h": "6. پلیٹ فارم سروسز",
+        "p": [
+          "Google Play Games یا Game Center میں sign in کرنا اختیاری ہے۔ یہ services Google اور Apple اپنی terms کے تحت فراہم کرتے ہیں، اور ہم ان کے پاس held account کو restore، transfer، یا repair نہیں کر سکتے۔ App modify کر کے حاصل کی گئی leaderboard entries remove کی جا سکتی ہیں۔"
+        ]
+      },
+      {
+        "h": "7. آپ کا ڈیٹا",
+        "p": [
+          "ایپ کیا store کرتی ہے اور کہاں، اس کے لیے <a href=\"privacy-policy.html\">رازداری کی پالیسی</a> دیکھیں۔"
+        ]
+      },
+      {
+        "h": "8. Intellectual Property",
+        "p": [
+          "ایپ، بشمول اس کے code، level designs، artwork، اور sounds، HAB Labs کی ملکیت ہے اور copyright سے protected ہے۔ یہ Terms آپ کو اس کی کوئی ownership نہیں دیتیں۔"
+        ]
+      },
+      {
+        "h": "9. Updates اور Availability",
+        "p": [
+          "ہم کسی بھی وقت، notice کے بغیر، ایپ یا اس کے کسی بھی features کو update، change، یا discontinue کر سکتے ہیں۔ ہم guarantee نہیں کرتے کہ ایپ کسی particular store پر available رہے گی یا کسی particular device پر run کرے گی۔"
+        ]
+      },
+      {
+        "h": "10. Warranty کا Disclaimer",
+        "p": [
+          "ایپ \"as is\" اور \"as available\" فراہم کی جاتی ہے، کسی بھی قسم کی warranty کے بغیر، express یا implied، بشمول merchantability، کسی particular purpose کے لیے fitness، اور non-infringement۔ ہم warrant نہیں کرتے کہ ایپ uninterrupted یا defects سے free ہوگی۔"
+        ]
+      },
+      {
+        "h": "11. Liability کی Limitation",
+        "p": [
+          "قانون کی اجازت کی fullest extent تک، HAB Labs آپ کے ایپ کے استعمال سے arising کسی بھی indirect، incidental، یا consequential damages، یا saved progress کے کسی بھی loss کے لیے liable نہیں ہے۔ ان Terms میں کوئی چیز ایسی liability کو limit نہیں کرتی جسے law کے ذریعے limit نہیں کیا جا سکتا۔"
+        ]
+      },
+      {
+        "h": "12. بچے",
+        "p": [
+          "ایپ ہر عمر کے لیے suitable ہے۔ اگر آپ minor ہیں، تو براہ کرم یہ Terms parent یا guardian کے ساتھ review کریں، اور کوئی purchase کرنے سے پہلے ان سے پوچھیں۔"
+        ]
+      },
+      {
+        "h": "13. ان Terms میں تبدیلیاں",
+        "p": [
+          "ہم یہ Terms revise کر سکتے ہیں۔ revised version اس page پر نئی \"آخری بار اپ ڈیٹ\" date کے ساتھ post کیا جاتا ہے، اور اس کے بعد ایپ کا استعمال جاری رکھنے کا مطلب ہے کہ آپ اسے accept کرتے ہیں۔"
+        ]
+      },
+      {
+        "h": "14. رابطہ",
+        "contact": true
+      }
+    ]
+  },
+  "support": {
+    "title": "سپورٹ",
+    "summary_label": "مدد چاہیے؟",
+    "summary": "ہمیں لکھیں اور ہم جواب دیں گے۔ اس ایپ کے پیچھے ایک ہی شخص ہے، اس لیے reply عموماً ایک گھنٹے کے بجائے ایک یا دو دن لیتا ہے۔",
+    "sections": [
+      {
+        "h": "1. میری progress غائب ہو گئی",
+        "p": [
+          "Progress آلے پر رکھی جاتی ہے۔ اگر آپ نے app reinstall کی، phone تبدیل کیا، یا اس کا storage clear کیا، تو local copy ختم ہو گئی ہے۔",
+          "یہ صرف اس صورت میں recover ہو سکتی ہے اگر آپ پہلے Google Play Games (Android) یا Game Center and iCloud (iOS) میں signed in تھے، اور cloud save کم از کم ایک بار run ہو چکا تھا۔ اسی account سے sign in کریں اور app open کریں؛ یہ saved copy pull کرتی ہے اور اسے device پر موجود چیز کے ساتھ merge کرتی ہے، ہر level کے لیے دونوں میں سے بہتر کو رکھتی ہے۔"
+        ]
+      },
+      {
+        "h": "2. Sign-in مکمل نہیں ہوتا",
+        "p": [
+          "Android پر یہ تقریباً ہمیشہ game کے بجائے Google Play Games app کا مسئلہ ہوتا ہے: اسے open کریں، check کریں کہ آپ وہاں signed in ہیں، اور ensure کریں کہ account family group کے ذریعے restricted نہیں ہے۔",
+          "اگر game Google Play کے علاوہ کسی source سے install کیا گیا تھا، تو sign-in بالکل کام نہیں کر سکتا - Play Games installed app کی signature check کرتا ہے۔"
+        ]
+      },
+      {
+        "h": "3. phone vibrate نہیں کرتا",
+        "p": [
+          "game کے اندر Settings check کریں، پھر اپنے phone کی اپنی vibration setting۔ کچھ phones battery-saver mode میں app vibration بھی disable کر دیتے ہیں۔",
+          "Tablets اور کچھ older phones میں vibration motor نہیں ہوتا اور وہ بالکل vibrate نہیں کر سکتے۔"
+        ]
+      },
+      {
+        "h": "4. ایک purchase نہیں پہنچی",
+        "p": [
+          "Purchases store کے ذریعے delivered ہوتی ہیں۔ connected ہوتے ہوئے app دوبارہ open کریں: store ہر وہ چیز دوبارہ send کرتا ہے جس کے لیے اس نے payment لے لی ہے مگر ابھی deliver نہیں کی، اور app اسے اسی وقت grant کر دیتی ہے۔",
+          "اگر چند minutes کے بعد بھی یہ نہیں پہنچی، تو ہمیں اپنے Google Play یا App Store receipt سے order number send کریں اور ہم اسے sort out کریں گے۔ Refunds اسی store کے ذریعے جانے ہوں گے جس سے آپ نے خریداری کی - ہم انہیں issue نہیں کر سکتے۔"
+        ]
+      },
+      {
+        "h": "5. ایک level ناممکن لگتا ہے",
+        "p": [
+          "گیم کے ہر level کو shipping سے پہلے machine سے solve کیا گیا ہے، اس لیے ہمیشہ کوئی راستہ ہوتا ہے۔ hint button shortest known solution میں اگلا move دکھاتا ہے۔ اگر آپ کو یقین ہے کہ کوئی level واقعی finish نہیں ہو سکتا، تو ہمیں اس کا number بتائیں اور ہم اسے check کریں گے۔"
+        ]
+      },
+      {
+        "h": "6. اپنا data حذف کرنا",
+        "p": [
+          "local save remove کرنے کے لیے app کا storage clear کریں یا اسے uninstall کریں۔ cloud copy remove کرنے کے لیے Google Play Games app میں saved game delete کریں، یا iOS Settings میں app کا iCloud data۔"
+        ]
+      },
+      {
+        "h": "7. رابطہ",
+        "contact": true
+      }
+    ]
+  }
+}

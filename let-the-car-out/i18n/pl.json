@@ -1,0 +1,295 @@
+{
+  "_comment": "Source text for every Let the car out! legal page. The HTML files are generated from this by build.mjs, and the translations are generated from this by translate.mjs. Edit here, never in the generated HTML.",
+  "meta": {
+    "app": "Let the car out! 3D puzzle",
+    "developer": "HAB Labs",
+    "email": "shawnfrest2k5@gmail.com",
+    "package": "com.hablabs.letthecarout",
+    "updated": "17 sierpnia 2026"
+  },
+  "ui": {
+    "back_labs": "Powrót do HAB Labs",
+    "back_home": "Strona główna Let the car out!",
+    "updated_label": "Ostatnia aktualizacja:",
+    "nav_privacy": "Polityka prywatności",
+    "nav_terms": "Warunki korzystania",
+    "nav_support": "Pomoc"
+  },
+  "index": {
+    "title": "Let the car out! - Strony prawne",
+    "heading": "Let the car out! 3D puzzle",
+    "sub": "Oficjalne strony aplikacji - przesuń samochody na bok i utoruj wyjazd przez ponad 19 000 poziomów offline."
+  },
+  "privacy": {
+    "title": "Polityka prywatności",
+    "summary_label": "Krótkie podsumowanie:",
+    "summary": "Let the car out! to łamigłówka z przesuwaniem samochodów. Każdy poziom jest w aplikacji, więc możesz grać w całą grę całkowicie bez połączenia. Twoje postępy znajdują się na Twoim urządzeniu. Jeśli zalogujesz się do Gier Google Play lub Game Center, kopia tych postępów jest także przechowywana na Twoim koncie platformy, aby przetrwały zmianę telefonu. Ta wersja nie wyświetla reklam i nie zawiera analityki ani raportowania awarii. Nie prowadzimy własnych serwerów i nigdy nie otrzymujemy Twojego imienia i nazwiska, adresu e-mail ani lokalizacji.",
+    "sections": [
+      {
+        "h": "1. Wprowadzenie",
+        "p": [
+          "Niniejsza Polityka prywatności wyjaśnia, jak aplikacja mobilna <strong>Let the car out! 3D puzzle</strong> (pakiet <code>com.hablabs.letthecarout</code>, „Aplikacja”) obchodzi się z informacjami. Aplikacja jest łamigłówką, w której przesuwasz samochody, aby wyjechały z zatłoczonego parkingu. Korzystając z Aplikacji, zgadzasz się na praktyki opisane tutaj."
+        ]
+      },
+      {
+        "h": "2. Informacje, które zbieramy",
+        "sub": [
+          {
+            "h": "2.1 Dane osobowe",
+            "important": "<strong>Nie zbieramy żadnych informacji umożliwiających identyfikację osoby.</strong> Aplikacja nie ma własnego konta, rejestracji ani czatu. Nigdy nie prosimy o Twoje imię i nazwisko, adres e-mail, numer telefonu ani lokalizację i nie prowadzimy żadnego serwera, który mógłby je otrzymać."
+          },
+          {
+            "h": "2.2 Dane przechowywane na Twoim urządzeniu",
+            "p": [
+              "Aplikacja przechowuje jeden mały zapis w standardowej, prywatnej dla aplikacji pamięci urządzenia:"
+            ],
+            "ul": [
+              "Postęp kampanii: najwyższy odblokowany poziom, ostatnio grany poziom oraz ocena w gwiazdkach każdego ukończonego poziomu",
+              "Saldo monet, saldo podpowiedzi oraz liczniki związane z nagrodami - użyte podpowiedzi, użyte cofnięcia, czyste ukończenia, szybkie ukończenia i Twoja najlepsza seria czystych ukończeń",
+              "Które nagrody zostały przez Ciebie odebrane i które wyspy zostały otwarte",
+              "Ustawienia: język interfejsu, motyw sceny, muzyka, efekty dźwiękowe, wibracje, powiadomienia, rozdzielczość i liczba klatek na sekundę",
+              "Flagi zapisujące, że ukończono samouczek, oraz czy reklamy zostały usunięte"
+            ],
+            "after": "Odinstalowanie Aplikacji albo wyczyszczenie jej pamięci usuwa tę lokalną kopię."
+          },
+          {
+            "h": "2.3 Zapis w chmurze i usługi platform",
+            "p": [
+              "Jeśli na Androidzie jesteś zalogowany w <strong>Grach Google Play</strong>, albo na iOS w <strong>Game Center i iCloud</strong>, Aplikacja przechowuje kopię tego samego zapisu na Twoim koncie platformy, aby Twoje postępy przetrwały utratę lub wymianę urządzenia. Kopia jest przechowywana przez Google lub Apple na Twoim własnym koncie, a nie przez nas. Nie możemy jej odczytać i nie jesteśmy informowani, że ją masz.",
+              "Aplikacja zgłasza także do tych usług dwie rzeczy, gdy jesteś zalogowany: łączną liczbę Twoich gwiazdek do rankingu oraz zdobyte przez Ciebie osiągnięcia. Nic innego nie jest wysyłane. Logowanie jest opcjonalne, a cała gra jest grywalna bez niego. Wyloguj się w aplikacji Gry Google Play lub Game Center, a Aplikacja przestanie cokolwiek wysyłać."
+            ]
+          },
+          {
+            "h": "2.4 Czego Aplikacja nie robi",
+            "ul": [
+              "<strong>Brak reklam.</strong> Ta wersja nie wyświetla reklam banerowych, pełnoekranowych ani z nagrodą, a żaden pakiet SDK reklam nie jest w niej skompilowany.",
+              "<strong>Brak analityki, telemetrii ani raportowania awarii.</strong> Nie zbieramy żadnych statystyk użycia.",
+              "<strong>Brak dostępu do zdjęć, kontaktów, aparatu, mikrofonu, plików ani lokalizacji.</strong>",
+              "<strong>Brak śledzenia w aplikacjach lub witrynach</strong>, a identyfikator reklamowy nie jest odczytywany."
+            ]
+          },
+          {
+            "h": "2.5 Uprawnienia, o które prosi Aplikacja",
+            "ul": [
+              "<strong>Wibracje</strong> (<code>android.permission.VIBRATE</code>) - krótkie sygnały haptyczne, gdy samochód wskoczy na miejsce, gdy ruch jest zablokowany i gdy ukończysz poziom. Wyłącz je w Ustawieniach, a Aplikacja przestanie wibrować.",
+              "<strong>Internet</strong> (<code>android.permission.INTERNET</code>) - używany tylko przez logowanie do Gier Google Play, zapis w chmurze, ranking oraz płatności Google Play, gdy coś kupujesz. Sama gra nie potrzebuje połączenia: każdy poziom jest dołączony do pobrania."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "3. Jak informacje są używane",
+        "p": [
+          "Przechowywany zapis istnieje w jednym celu: aby gra mogła pamiętać, gdzie byłeś i jak lubisz grać. Nie jest agregowany, profilowany ani sprzedawany."
+        ]
+      },
+      {
+        "h": "4. Usługi zewnętrzne",
+        "p": [
+          "Aplikacja korzysta z następujących usług. Każda z nich przetwarza Twoje dane zgodnie z własną polityką prywatności i każda jest opcjonalna z wyjątkiem sklepu, z którego zainstalowano aplikację:"
+        ],
+        "ul": [
+          "<strong>Google Play</strong> - pobieranie, aktualizacje, zwroty oraz, na Androidzie, zakupy w aplikacji: <a href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noopener\">https://policies.google.com/privacy</a>",
+          "<strong>Usługi gier Google Play</strong> (Android) - opcjonalne logowanie, osiągnięcia, ranking i zapis w chmurze, zgodnie z tą samą polityką prywatności Google",
+          "<strong>Apple App Store, Game Center i iCloud</strong> (iOS) - pobieranie, zakupy w aplikacji, opcjonalne logowanie, osiągnięcia, ranking i zapis w chmurze: <a href=\"https://www.apple.com/legal/privacy/\" target=\"_blank\" rel=\"noopener\">https://www.apple.com/legal/privacy/</a>"
+        ],
+        "after": "Aplikacja jest zbudowana z użyciem silnika Unity. Środowisko uruchomieniowe Unity jest skompilowane w Aplikacji; w tej kompilacji nie ma pakietu analityki ani reklam Unity."
+      },
+      {
+        "h": "5. Zakupy",
+        "p": [
+          "Pakiety monet i odblokowanie bez reklam są sprzedawane przez płatności Google Play na Androidzie oraz przez App Store na iOS. Te sklepy przetwarzają płatność i informują Aplikację tylko o tym, czy zakup się powiódł. <strong>Nigdy nie widzimy ani nie przechowujemy Twojej karty, adresu ani żadnych innych danych płatniczych.</strong> Zwroty są obsługiwane przez sklep, w którym dokonano zakupu."
+        ]
+      },
+      {
+        "h": "6. Udostępnianie danych",
+        "p": [
+          "Nie sprzedajemy, nie wynajmujemy ani nie udostępniamy Twoich danych. Nie otrzymujemy żadnych danych, które moglibyśmy udostępnić: jedyne kopie opuszczające Twoje urządzenie trafiają na Twoje własne konto Google lub Apple."
+        ]
+      },
+      {
+        "h": "7. Twoje wybory",
+        "ul": [
+          "<strong>Gra bez logowania:</strong> odrzuć Gry Google Play lub Game Center, a nic nie zostanie nigdzie wysłane.",
+          "<strong>Usuń kopię w chmurze:</strong> usuń zapisaną grę Aplikacji w aplikacji Gry Google Play albo usuń jej dane iCloud w Ustawieniach iOS.",
+          "<strong>Usuń wszystko lokalnie:</strong> wyczyść pamięć Aplikacji albo ją odinstaluj.",
+          "<strong>Zresetuj postępy w grze:</strong> Ustawienia zawierają reset, który czyści Twój zapis.",
+          "<strong>Wyłącz wibracje, muzykę lub dźwięk:</strong> w Ustawieniach, w dowolnym momencie."
+        ]
+      },
+      {
+        "h": "8. Prywatność dzieci",
+        "p": [
+          "Aplikacja jest przyjazna rodzinie. Nie ma czatu, treści generowanych przez użytkowników ani reklam i nie zbiera świadomie danych osobowych od nikogo, w tym od dzieci poniżej 13 lat. Logowanie do Gier Google Play i Game Center jest kontrolowane przez konto platformy oraz przez ustawione na nim funkcje kontroli rodzicielskiej. Jeśli uważasz, że dziecko przekazało dane osobowe przez Aplikację, skontaktuj się z nami."
+        ]
+      },
+      {
+        "h": "9. Bezpieczeństwo danych",
+        "ul": [
+          "Postępy i ustawienia są przechowywane w standardowej, prywatnej dla aplikacji pamięci urządzenia, której inne aplikacje nie mogą odczytać.",
+          "Kopia w chmurze jest chroniona przez Twoje konto Google lub Apple oraz jego własne zabezpieczenia.",
+          "Nie prowadzimy serwerów, więc nie ma Twojego konta, które moglibyśmy utracić, ani naszej bazy danych, do której mogłoby dojść naruszenie."
+        ]
+      },
+      {
+        "h": "10. Zmiany w tej Polityce",
+        "p": [
+          "Zmiany są publikowane na tej stronie z nową datą „Ostatnia aktualizacja”. Jeśli przyszła wersja będzie zbierać coś, czego ta strona nie opisuje, strona zostanie zaktualizowana <em>przed</em> wydaniem tej wersji. Dalsze korzystanie z Aplikacji po zmianie oznacza akceptację zmienionej polityki."
+        ]
+      },
+      {
+        "h": "11. Kontakt z nami",
+        "contact": true
+      },
+      {
+        "h": "12. Zgodność",
+        "p": [
+          "Niniejsza Polityka prywatności ma na celu zgodność z zasadami Google Play, wytycznymi Apple App Store, ogólnym rozporządzeniem o ochronie danych (RODO), kalifornijską ustawą o ochronie prywatności konsumentów (CCPA) oraz amerykańską ustawą Children's Online Privacy Protection Act (COPPA)."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Warunki korzystania",
+    "summary_label": "W skrócie:",
+    "summary": "Gra jest bezpłatna do pobrania i możesz w nią grać na własnych urządzeniach. Nie kopiuj jej, nie odsprzedawaj ani nie rozkładaj na części. Jest udostępniana w stanie, w jakim jest. Monety i podpowiedzi są funkcjami rozrywkowymi bez wartości pieniężnej, a wszystko, co kupujesz, jest kupowane od Google lub Apple, nie od nas.",
+    "sections": [
+      {
+        "h": "1. Akceptacja",
+        "p": [
+          "Pobierając, instalując lub grając w <strong>Let the car out! 3D puzzle</strong> („Aplikacja”), opublikowaną przez HAB Labs, zgadzasz się na niniejsze Warunki korzystania. Jeśli się nie zgadzasz, odinstaluj Aplikację."
+        ]
+      },
+      {
+        "h": "2. Licencja",
+        "p": [
+          "Udzielamy Ci osobistej, niewyłącznej, nieprzenoszalnej i odwołalnej licencji na instalowanie i granie w Aplikację na urządzeniach, które posiadasz lub kontrolujesz, do osobistego, niekomercyjnego użytku."
+        ]
+      },
+      {
+        "h": "3. Czego nie wolno Ci robić",
+        "ul": [
+          "Kopiować, sprzedawać, wynajmować, sublicencjonować ani redystrybuować Aplikacji lub jej poziomów, grafiki, dźwięków albo tłumaczeń",
+          "Dokonywać inżynierii wstecznej, dekompilować ani dezasemblować Aplikacji, chyba że tego prawa nie można wyłączyć na mocy prawa",
+          "Modyfikować Aplikacji lub jej zapisanych danych, aby uzyskać przewagę, a następnie przedstawiać wynik jako prawdziwą rozgrywkę, w tym w rankingu",
+          "Używać Aplikacji do czegokolwiek niezgodnego z prawem"
+        ]
+      },
+      {
+        "h": "4. Przedmioty wirtualne",
+        "p": [
+          "Monety, podpowiedzi, gwiazdki i nagrody są funkcjami rozrywkowymi w Aplikacji. Nie mają wartości pieniężnej, nie można ich wymienić na pieniądze ani towary i nie można ich przenieść na inną osobę. Przenoszą się między Twoimi własnymi urządzeniami wyłącznie przez zapis w chmurze opisany w Polityce prywatności i zostaną utracone, jeśli usuniesz zarówno zapis lokalny, jak i tę kopię w chmurze."
+        ]
+      },
+      {
+        "h": "5. Zakupy",
+        "p": [
+          "Pakiety monet i odblokowanie bez reklam są sprzedawane przez Google Play na Androidzie oraz przez App Store na iOS, zgodnie z <a href=\"https://play.google.com/about/play-terms/\" target=\"_blank\" rel=\"noopener\">Warunkami korzystania z Google Play</a> lub <a href=\"https://www.apple.com/legal/internet-services/itunes/\" target=\"_blank\" rel=\"noopener\">Warunkami usług multimedialnych</a> Apple. Te sklepy pobierają płatność i obsługują zwroty; nigdy nie widzimy ani nie przechowujemy Twoich danych płatniczych. Zakupy są zużywane w Aplikacji i, poza odblokowaniem bez reklam, nie są przywracane automatycznie."
+        ]
+      },
+      {
+        "h": "6. Usługi platform",
+        "p": [
+          "Logowanie do Gier Google Play lub Game Center jest opcjonalne. Te usługi są świadczone przez Google i Apple zgodnie z ich własnymi warunkami, a my nie możemy przywrócić, przenieść ani naprawić konta prowadzonego przez nich. Wpisy w rankingu uzyskane przez modyfikowanie Aplikacji mogą zostać usunięte."
+        ]
+      },
+      {
+        "h": "7. Twoje dane",
+        "p": [
+          "Zobacz <a href=\"privacy-policy.html\">Politykę prywatności</a>, aby dowiedzieć się, co Aplikacja przechowuje i gdzie."
+        ]
+      },
+      {
+        "h": "8. Własność intelektualna",
+        "p": [
+          "Aplikacja, w tym jej kod, projekty poziomów, grafika i dźwięki, należy do HAB Labs i jest chroniona prawem autorskim. Niniejsze Warunki nie przyznają Ci jej własności."
+        ]
+      },
+      {
+        "h": "9. Aktualizacje i dostępność",
+        "p": [
+          "Możemy aktualizować, zmieniać lub wycofać Aplikację albo dowolne jej funkcje w dowolnym momencie, bez powiadomienia. Nie gwarantujemy, że Aplikacja pozostanie dostępna w jakimkolwiek konkretnym sklepie ani że będzie działać na jakimkolwiek konkretnym urządzeniu."
+        ]
+      },
+      {
+        "h": "10. Wyłączenie gwarancji",
+        "p": [
+          "Aplikacja jest udostępniana „w stanie, w jakim jest” i „w miarę dostępności”, bez jakiejkolwiek gwarancji, wyraźnej ani dorozumianej, w tym gwarancji przydatności handlowej, przydatności do określonego celu i nienaruszania praw. Nie gwarantujemy, że działanie Aplikacji będzie nieprzerwane ani wolne od wad."
+        ]
+      },
+      {
+        "h": "11. Ograniczenie odpowiedzialności",
+        "p": [
+          "W najszerszym zakresie dozwolonym przez prawo HAB Labs nie ponosi odpowiedzialności za żadne szkody pośrednie, uboczne ani wynikowe ani za utratę zapisanych postępów wynikającą z korzystania przez Ciebie z Aplikacji. Nic w niniejszych Warunkach nie ogranicza odpowiedzialności, której nie można ograniczyć na mocy prawa."
+        ]
+      },
+      {
+        "h": "12. Dzieci",
+        "p": [
+          "Aplikacja jest odpowiednia dla osób w każdym wieku. Jeśli jesteś osobą małoletnią, omów niniejsze Warunki z rodzicem lub opiekunem i zapytaj ich przed dokonaniem jakiegokolwiek zakupu."
+        ]
+      },
+      {
+        "h": "13. Zmiany w niniejszych Warunkach",
+        "p": [
+          "Możemy zmieniać niniejsze Warunki. Zmieniona wersja jest publikowana na tej stronie z nową datą „Ostatnia aktualizacja”, a dalsze korzystanie z Aplikacji po tym oznacza jej akceptację."
+        ]
+      },
+      {
+        "h": "14. Kontakt",
+        "contact": true
+      }
+    ]
+  },
+  "support": {
+    "title": "Pomoc",
+    "summary_label": "Potrzebujesz pomocy?",
+    "summary": "Napisz do nas, a odpowiemy. Za tą aplikacją stoi jedna osoba, więc odpowiedź zwykle zajmuje dzień lub dwa, a nie godzinę.",
+    "sections": [
+      {
+        "h": "1. Moje postępy zniknęły",
+        "p": [
+          "Postępy są przechowywane na urządzeniu. Jeśli ponownie zainstalowano aplikację, zmieniono telefon lub wyczyszczono jej pamięć, lokalna kopia zniknęła.",
+          "Można je odzyskać tylko wtedy, gdy wcześniej byłeś zalogowany w Grach Google Play (Android) lub Game Center i iCloud (iOS), a zapis w chmurze został uruchomiony co najmniej raz. Zaloguj się na to samo konto i otwórz aplikację; pobierze zapisaną kopię i połączy ją z tym, co jest na urządzeniu, zachowując lepszą z dwóch wersji dla każdego poziomu."
+        ]
+      },
+      {
+        "h": "2. Logowanie się nie kończy",
+        "p": [
+          "Na Androidzie prawie zawsze chodzi o aplikację Gry Google Play, a nie o grę: otwórz ją, sprawdź, czy jesteś tam zalogowany, i upewnij się, że konto nie jest ograniczone przez grupę rodzinną.",
+          "Jeśli gra została zainstalowana ze źródła innego niż Google Play, logowanie w ogóle nie może działać - Gry Google Play sprawdzają podpis zainstalowanej aplikacji."
+        ]
+      },
+      {
+        "h": "3. Telefon nie wibruje",
+        "p": [
+          "Sprawdź Ustawienia w grze, a następnie własne ustawienia wibracji telefonu. Niektóre telefony wyłączają też wibracje aplikacji w trybie oszczędzania baterii.",
+          "Tablety i niektóre starsze telefony nie mają silnika wibracyjnego i w ogóle nie mogą wibrować."
+        ]
+      },
+      {
+        "h": "4. Zakup nie dotarł",
+        "p": [
+          "Zakupy są dostarczane przez sklep. Otwórz ponownie aplikację, będąc połączonym z internetem: sklep ponownie wysyła wszystko, za co pobrał płatność, ale czego jeszcze nie dostarczył, a aplikacja przyznaje to od razu.",
+          "Jeśli po kilku minutach nadal nie dotarło, wyślij nam numer zamówienia z rachunku Google Play lub App Store, a zajmiemy się tym. Zwroty muszą przechodzić przez sklep, w którym dokonano zakupu - nie możemy ich wystawić."
+        ]
+      },
+      {
+        "h": "5. Poziom wygląda na niemożliwy",
+        "p": [
+          "Każdy poziom w grze został rozwiązany maszynowo przed wydaniem, więc zawsze istnieje wyjście. Przycisk podpowiedzi pokazuje następny ruch w najkrótszym znanym rozwiązaniu. Jeśli uważasz, że poziomu naprawdę nie da się ukończyć, podaj nam jego numer, a sprawdzimy ten konkretny poziom."
+        ]
+      },
+      {
+        "h": "6. Usuwanie danych",
+        "p": [
+          "Wyczyść pamięć aplikacji albo ją odinstaluj, aby usunąć lokalny zapis. Aby usunąć kopię w chmurze, usuń zapisaną grę w aplikacji Gry Google Play albo dane iCloud aplikacji w Ustawieniach iOS."
+        ]
+      },
+      {
+        "h": "7. Kontakt",
+        "contact": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "_comment": "Source text for every Let the car out! legal page. The HTML files are generated from this by build.mjs, and the translations are generated from this by translate.mjs. Edit here, never in the generated HTML.",
+  "meta": {
+    "app": "Let the car out! 3D puzzle",
+    "developer": "HAB Labs",
+    "email": "shawnfrest2k5@gmail.com",
+    "package": "com.hablabs.letthecarout",
+    "updated": "17. elokuuta 2026"
+  },
+  "ui": {
+    "back_labs": "Takaisin HAB Labsiin",
+    "back_home": "Let the car out! -etusivulle",
+    "updated_label": "Päivitetty viimeksi:",
+    "nav_privacy": "Tietosuojakäytäntö",
+    "nav_terms": "Käyttöehdot",
+    "nav_support": "Tuki"
+  },
+  "index": {
+    "title": "Let the car out! - Lakisivut",
+    "heading": "Let the car out! 3D puzzle",
+    "sub": "Sovelluksen viralliset sivut - siirrä autot sivuun ja raivaa tie ulos yli 19 000 offline-tasossa."
+  },
+  "privacy": {
+    "title": "Tietosuojakäytäntö",
+    "summary_label": "Lyhyt yhteenveto:",
+    "summary": "Let the car out! on autojen siirtelyyn perustuva pulmapeli. Jokainen taso on sovelluksen sisällä, joten voit pelata koko peliä täysin ilman yhteyttä. Edistymisesi säilyy laitteellasi. Jos kirjaudut Google Play Peleihin tai Game Centeriin, kopio edistymisestä säilytetään myös alustatililläsi, jotta se säilyy uuteen puhelimeen siirryttäessä. Tässä versiossa ei näytetä mainoksia, eikä se sisällä analytiikkaa tai kaatumisraportointia. Emme ylläpidä omia palvelimia emmekä koskaan saa nimeäsi, sähköpostiosoitettasi tai sijaintiasi.",
+    "sections": [
+      {
+        "h": "1. Johdanto",
+        "p": [
+          "Tämä tietosuojakäytäntö selittää, miten mobiilisovellus <strong>Let the car out! 3D puzzle</strong> (paketti <code>com.hablabs.letthecarout</code>, \"Sovellus\") käsittelee tietoja. Sovellus on pulmapeli, jossa liu'utat autoja ulos täyteen ahdetulta pysäköintialueelta. Käyttämällä Sovellusta hyväksyt tässä kuvatut käytännöt."
+        ]
+      },
+      {
+        "h": "2. Keräämämme tiedot",
+        "sub": [
+          {
+            "h": "2.1 Henkilötiedot",
+            "important": "<strong>Emme kerää mitään henkilökohtaisesti tunnistettavia tietoja.</strong> Sovelluksella ei ole omaa tiliä, rekisteröitymistä eikä keskustelutoimintoa. Emme koskaan pyydä nimeäsi, sähköpostiosoitettasi, puhelinnumeroasi tai sijaintiasi, emmekä ylläpidä palvelinta, joka voisi vastaanottaa niitä."
+          },
+          {
+            "h": "2.2 Laitteellesi tallennetut tiedot",
+            "p": [
+              "Sovellus säilyttää yhden pienen tietueen laitteen tavallisessa sovelluskohtaisessa yksityisessä tallennustilassa:"
+            ],
+            "ul": [
+              "Kampanjan edistyminen: korkein avattu taso, viimeksi pelattu taso ja jokaisen läpäistyn tason tähtiarvosana",
+              "Kolikkosaldosi, vihjesaldosi ja palkintojen taustalla olevat laskurit - käytetyt vihjeet, käytetyt peruutukset, puhtaat läpäisyt, nopeat läpäisyt ja paras puhtaiden läpäisyjen putkesi",
+              "Mitkä palkinnot olet lunastanut ja mitkä saaret olet avannut",
+              "Asetukset: käyttöliittymän kieli, näkymäteema, musiikki, äänitehosteet, värinä, ilmoitukset, resoluutio ja kuvataajuus",
+              "Merkinnät siitä, että olet suorittanut opastuksen, ja siitä, onko mainokset poistettu"
+            ],
+            "after": "Sovelluksen poistaminen tai sen tallennustilan tyhjentäminen poistaa tämän paikallisen kopion."
+          },
+          {
+            "h": "2.3 Pilvitallennus ja alustapalvelut",
+            "p": [
+              "Jos olet kirjautunut <strong>Google Play Peleihin</strong> Androidilla tai <strong>Game Centeriin ja iCloudiin</strong> iOS:llä, Sovellus säilyttää kopion samasta tietueesta alustatililläsi, jotta edistymisesi säilyy laitteen katoamisen tai vaihtamisen jälkeen. Kopiota säilyttää Google tai Apple omalla tililläsi, emme me. Emme voi lukea sitä, eikä meille kerrota, että sinulla on sellainen.",
+              "Sovellus ilmoittaa näille palveluille myös kaksi asiaa, kun olet kirjautuneena sisään: tähtiesi kokonaismäärän tulostaulua varten ja sen, mitkä saavutukset olet ansainnut. Mitään muuta ei lähetetä. Kirjautuminen on vapaaehtoista, ja koko peliä voi pelata ilman sitä. Kirjaudu ulos Google Play Pelit- tai Game Center -sovelluksessa, niin Sovellus lopettaa kaiken lähettämisen."
+            ]
+          },
+          {
+            "h": "2.4 Mitä Sovellus ei tee",
+            "ul": [
+              "<strong>Ei mainoksia.</strong> Tämä versio ei näytä banneri-, väli- tai palkintomainoksia, eikä siihen ole käännetty mukaan mainos-SDK:ta.",
+              "<strong>Ei analytiikkaa, telemetriaa tai kaatumisraportointia.</strong> Emme kerää minkäänlaisia käyttötilastoja.",
+              "<strong>Ei pääsyä kuviin, yhteystietoihin, kameraan, mikrofoniin, tiedostoihin tai sijaintiin.</strong>",
+              "<strong>Ei seurantaa sovellusten tai verkkosivustojen välillä</strong>, eikä mainostunnistetta lueta."
+            ]
+          },
+          {
+            "h": "2.5 Sovelluksen pyytämät käyttöoikeudet",
+            "ul": [
+              "<strong>Värinä</strong> (<code>android.permission.VIBRATE</code>) - lyhyet haptisen palautteen napautukset, kun auto napsahtaa paikalleen, kun siirto estyy ja kun läpäiset tason. Poista se käytöstä Asetuksissa, niin Sovellus lopettaa värisemisen.",
+              "<strong>Internet</strong> (<code>android.permission.INTERNET</code>) - käytetään vain Google Play Pelien kirjautumiseen, pilvitallennukseen, tulostauluun ja Google Play -laskutukseen, kun ostat jotakin. Peli itse ei tarvitse yhteyttä: jokainen taso sisältyy lataukseen."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "3. Miten tietoja käytetään",
+        "p": [
+          "Tallennettu tietue on olemassa yhtä tarkoitusta varten: jotta peli voi muistaa, missä olit ja miten haluat pelata. Sitä ei yhdistetä koosteiksi, profiloida eikä myydä."
+        ]
+      },
+      {
+        "h": "4. Kolmannen osapuolen palvelut",
+        "p": [
+          "Sovellus käyttää seuraavia palveluja. Kukin käsittelee tietojasi oman tietosuojakäytäntönsä mukaisesti, ja kukin on vapaaehtoinen lukuun ottamatta kauppaa, josta asensit Sovelluksen:"
+        ],
+        "ul": [
+          "<strong>Google Play</strong> - lataus, päivitys, hyvitys ja Androidilla sovelluksen sisäiset ostot: <a href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noopener\">https://policies.google.com/privacy</a>",
+          "<strong>Google Play Pelit -palvelut</strong> (Android) - vapaaehtoinen kirjautuminen, saavutukset, tulostaulu ja pilvitallennus saman Googlen tietosuojakäytännön mukaisesti",
+          "<strong>Apple App Store, Game Center ja iCloud</strong> (iOS) - lataus, sovelluksen sisäiset ostot, vapaaehtoinen kirjautuminen, saavutukset, tulostaulu ja pilvitallennus: <a href=\"https://www.apple.com/legal/privacy/\" target=\"_blank\" rel=\"noopener\">https://www.apple.com/legal/privacy/</a>"
+        ],
+        "after": "Sovellus on rakennettu Unity-pelimoottorilla. Unityn ajoaikainen ympäristö on käännetty Sovellukseen; tähän koontiversioon ei sisälly Unityn analytiikka- tai mainospakettia."
+      },
+      {
+        "h": "5. Ostot",
+        "p": [
+          "Kolikkopaketit ja mainokset poistava avaus myydään Androidilla Google Play -laskutuksen kautta ja iOS:llä App Storen kautta. Nämä kaupat käsittelevät maksun ja kertovat Sovellukselle vain, onnistuiko osto. <strong>Emme koskaan näe tai tallenna korttiasi, osoitettasi tai mitään muita maksutietoja.</strong> Hyvitykset hoitaa kauppa, josta ostit."
+        ]
+      },
+      {
+        "h": "6. Tietojen jakaminen",
+        "p": [
+          "Emme myy, vuokraa tai jaa tietojasi. Emme saa mitään jaettavaa: ainoat laitteeltasi poistuvat kopiot menevät omalle Google- tai Apple-tilillesi."
+        ]
+      },
+      {
+        "h": "7. Valintasi",
+        "ul": [
+          "<strong>Pelaa kirjautumatta sisään:</strong> kieltäydy Google Play Peleistä tai Game Centeristä, eikä mitään lähetetä minnekään.",
+          "<strong>Poista pilvikopio:</strong> poista Sovelluksen tallennettu peli Google Play Pelit -sovelluksessa tai poista sen iCloud-tiedot iOS:n Asetuksissa.",
+          "<strong>Poista kaikki paikallisesti:</strong> tyhjennä Sovelluksen tallennustila tai poista se.",
+          "<strong>Nollaa edistyminen pelissä:</strong> Asetuksissa on nollaus, joka tyhjentää tallennuksesi.",
+          "<strong>Poista värinä, musiikki tai ääni käytöstä:</strong> Asetuksissa milloin tahansa."
+        ]
+      },
+      {
+        "h": "8. Lasten tietosuoja",
+        "p": [
+          "Sovellus sopii perheille. Siinä ei ole keskustelutoimintoa, käyttäjien luomaa sisältöä eikä mainontaa, eikä se tietoisesti kerää henkilötietoja keneltäkään, mukaan lukien alle 13-vuotiaat lapset. Google Play Pelien ja Game Centerin kirjautumista hallitaan alustatilin ja siihen asetettujen mahdollisten lapsilukkojen kautta. Jos uskot, että lapsi on antanut henkilötietoja Sovelluksen kautta, ota meihin yhteyttä."
+        ]
+      },
+      {
+        "h": "9. Tietoturva",
+        "ul": [
+          "Edistyminen ja asetukset säilytetään laitteen tavallisessa sovelluskohtaisessa yksityisessä tallennustilassa, jota muut sovellukset eivät voi lukea.",
+          "Pilvikopio on suojattu Google- tai Apple-tililläsi ja sen omalla tietoturvalla.",
+          "Emme ylläpidä palvelimia, joten meillä ei ole tiliäsi, jonka voisimme menettää, eikä tietokantaamme, johon voitaisiin murtautua."
+        ]
+      },
+      {
+        "h": "10. Tämän käytännön muutokset",
+        "p": [
+          "Muutokset julkaistaan tällä sivulla uuden \"Päivitetty viimeksi\" -päivämäärän kanssa. Jos tuleva versio kerää jotakin, mitä tällä sivulla ei kuvata, sivu päivitetään <em>ennen</em> kyseisen version julkaisemista. Sovelluksen käytön jatkaminen muutoksen jälkeen tarkoittaa, että hyväksyt muutetun käytännön."
+        ]
+      },
+      {
+        "h": "11. Ota yhteyttä",
+        "contact": true
+      },
+      {
+        "h": "12. Vaatimustenmukaisuus",
+        "p": [
+          "Tämän tietosuojakäytännön on tarkoitus noudattaa Google Playn käytäntöä, Apple App Storen ohjeita, yleistä tietosuoja-asetusta (GDPR), Kalifornian kuluttajansuojalakia (CCPA) ja Children's Online Privacy Protection Act -lakia (COPPA)."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Käyttöehdot",
+    "summary_label": "Lyhyesti:",
+    "summary": "Pelin lataaminen on ilmaista, ja saat pelata sitä omilla laitteillasi. Älä kopioi sitä, myy sitä eteenpäin tai pura sitä osiin. Se tarjotaan sellaisenaan. Kolikot ja vihjeet ovat viihdeominaisuuksia, joilla ei ole rahallista arvoa, ja kaikki ostamasi ostetaan Googlelta tai Applelta, ei meiltä.",
+    "sections": [
+      {
+        "h": "1. Hyväksyminen",
+        "p": [
+          "Lataamalla, asentamalla tai pelaamalla sovellusta <strong>Let the car out! 3D puzzle</strong> (\"Sovellus\"), jonka julkaisija on HAB Labs, hyväksyt nämä käyttöehdot. Jos et hyväksy niitä, poista Sovellus."
+        ]
+      },
+      {
+        "h": "2. Lisenssi",
+        "p": [
+          "Myönnämme sinulle henkilökohtaisen, ei-yksinomaisen, ei-siirrettävän ja peruutettavissa olevan lisenssin asentaa ja pelata Sovellusta omistamillasi tai hallitsemillasi laitteilla henkilökohtaiseen, ei-kaupalliseen käyttöön."
+        ]
+      },
+      {
+        "h": "3. Mitä et saa tehdä",
+        "ul": [
+          "Kopioida, myydä, vuokrata, alilisensoida tai jakaa edelleen Sovellusta tai sen tasoja, kuvitusta, ääniä tai käännöksiä",
+          "Takaisinmallintaa, purkaa lähdekoodiksi tai purkaa osiin Sovellusta, paitsi siltä osin kuin tätä oikeutta ei voida lain mukaan sulkea pois",
+          "Muokata Sovellusta tai sen tallennettuja tietoja saadaksesi etua ja sitten esittää tuloksen aitona pelaamisena, myös tulostaululla",
+          "Käyttää Sovellusta mihinkään lainvastaiseen"
+        ]
+      },
+      {
+        "h": "4. Virtuaaliset esineet",
+        "p": [
+          "Kolikot, vihjeet, tähdet ja palkinnot ovat Sovelluksen sisäisiä viihdeominaisuuksia. Niillä ei ole rahallista arvoa, niitä ei voi vaihtaa rahaan tai tavaroihin eikä niitä voi siirtää toiselle henkilölle. Ne siirtyvät omien laitteidesi välillä vain tietosuojakäytännössä kuvatun pilvitallennuksen kautta, ja ne menetetään, jos poistat sekä paikallisen tallennuksen että kyseisen pilvikopion."
+        ]
+      },
+      {
+        "h": "5. Ostot",
+        "p": [
+          "Kolikkopaketit ja mainokset poistava avaus myydään Androidilla Google Playssa ja iOS:llä App Storessa <a href=\"https://play.google.com/about/play-terms/\" target=\"_blank\" rel=\"noopener\">Google Playn käyttöehtojen</a> tai Applen <a href=\"https://www.apple.com/legal/internet-services/itunes/\" target=\"_blank\" rel=\"noopener\">mediapalveluiden ehtojen</a> mukaisesti. Nämä kaupat ottavat maksun ja käsittelevät hyvitykset; emme koskaan näe tai tallenna maksutietojasi. Ostot kulutetaan Sovelluksen sisällä, eikä niitä mainokset poistavaa avausta lukuun ottamatta palauteta automaattisesti."
+        ]
+      },
+      {
+        "h": "6. Alustapalvelut",
+        "p": [
+          "Google Play Peleihin tai Game Centeriin kirjautuminen on vapaaehtoista. Nämä palvelut tarjoaa Google ja Apple omien ehtojensa mukaisesti, emmekä voi palauttaa, siirtää tai korjata niiden hallussa olevaa tiliä. Sovellusta muokkaamalla saadut tulostaulumerkinnät voidaan poistaa."
+        ]
+      },
+      {
+        "h": "7. Tietosi",
+        "p": [
+          "Katso <a href=\"privacy-policy.html\">tietosuojakäytännöstä</a>, mitä Sovellus tallentaa ja minne."
+        ]
+      },
+      {
+        "h": "8. Immateriaalioikeudet",
+        "p": [
+          "Sovellus, mukaan lukien sen koodi, tasosuunnittelut, kuvitus ja äänet, on HAB Labsin omistama ja tekijänoikeuden suojaama. Nämä ehdot eivät anna sinulle omistusoikeutta siihen."
+        ]
+      },
+      {
+        "h": "9. Päivitykset ja saatavuus",
+        "p": [
+          "Voimme päivittää, muuttaa tai lopettaa Sovelluksen tai minkä tahansa sen ominaisuuden milloin tahansa ilman ilmoitusta. Emme takaa, että Sovellus pysyy saatavilla missään tietyssä kaupassa tai toimii millään tietyllä laitteella."
+        ]
+      },
+      {
+        "h": "10. Takuunrajoitus",
+        "p": [
+          "Sovellus tarjotaan \"sellaisenaan\" ja \"saatavilla olevana\", ilman minkäänlaista nimenomaista tai oletettua takuuta, mukaan lukien kaupattavuus, soveltuvuus tiettyyn tarkoitukseen ja loukkaamattomuus. Emme takaa, että Sovelluksen toiminta on keskeytyksetöntä tai virheetöntä."
+        ]
+      },
+      {
+        "h": "11. Vastuunrajoitus",
+        "p": [
+          "Lain sallimassa enimmäislaajuudessa HAB Labs ei ole vastuussa mistään epäsuorista, satunnaisista tai välillisistä vahingoista eikä mistään tallennetun edistymisen menetyksestä, joka johtuu Sovelluksen käytöstäsi. Mikään näissä ehdoissa ei rajoita vastuuta, jota ei voida lain mukaan rajoittaa."
+        ]
+      },
+      {
+        "h": "12. Lapset",
+        "p": [
+          "Sovellus sopii kaikenikäisille. Jos olet alaikäinen, käy nämä ehdot läpi vanhemman tai huoltajan kanssa ja kysy heiltä ennen ostosten tekemistä."
+        ]
+      },
+      {
+        "h": "13. Näiden ehtojen muutokset",
+        "p": [
+          "Voimme muuttaa näitä ehtoja. Muutettu versio julkaistaan tällä sivulla uuden \"Päivitetty viimeksi\" -päivämäärän kanssa, ja Sovelluksen käytön jatkaminen sen jälkeen tarkoittaa, että hyväksyt sen."
+        ]
+      },
+      {
+        "h": "14. Yhteystiedot",
+        "contact": true
+      }
+    ]
+  },
+  "support": {
+    "title": "Tuki",
+    "summary_label": "Tarvitsetko apua?",
+    "summary": "Kirjoita meille, niin vastaamme. Tämän sovelluksen takana on yksi henkilö, joten vastaus kestää yleensä päivän tai kaksi eikä tuntia.",
+    "sections": [
+      {
+        "h": "1. Edistymiseni katosi",
+        "p": [
+          "Edistyminen säilytetään laitteella. Jos asensit sovelluksen uudelleen, vaihdoit puhelinta tai tyhjensit sen tallennustilan, paikallinen kopio on poissa.",
+          "Se voidaan palauttaa vain, jos olit aiemmin kirjautunut Google Play Peleihin (Android) tai Game Centeriin ja iCloudiin (iOS) ja pilvitallennus oli suoritettu vähintään kerran. Kirjaudu sisään samalla tilillä ja avaa sovellus; se hakee tallennetun kopion ja yhdistää sen laitteella olevaan sisältöön pitäen kummastakin paremman jokaisella tasolla."
+        ]
+      },
+      {
+        "h": "2. Kirjautuminen ei valmistu",
+        "p": [
+          "Androidilla tämä johtuu lähes aina Google Play Pelit -sovelluksesta eikä pelistä: avaa se, tarkista että olet kirjautuneena sisään siellä, ja varmista, ettei tili ole perheryhmän rajoittama.",
+          "Jos peli on asennettu muusta lähteestä kuin Google Playsta, kirjautuminen ei voi toimia lainkaan - Play Pelit tarkistaa asennetun sovelluksen allekirjoituksen."
+        ]
+      },
+      {
+        "h": "3. Puhelin ei värise",
+        "p": [
+          "Tarkista pelin Asetukset ja sitten puhelimesi oma värinäasetus. Jotkin puhelimet poistavat sovellusten värinän käytöstä myös virransäästötilassa.",
+          "Tableteissa ja joissakin vanhemmissa puhelimissa ei ole värinämoottoria, eivätkä ne voi väristä lainkaan."
+        ]
+      },
+      {
+        "h": "4. Osto ei saapunut",
+        "p": [
+          "Ostot toimittaa kauppa. Avaa sovellus uudelleen yhteyden ollessa käytössä: kauppa lähettää uudelleen kaiken, mistä se on ottanut maksun mutta mitä ei ole vielä toimitettu, ja sovellus myöntää sen heti.",
+          "Jos se ei ole vieläkään saapunut muutaman minuutin kuluttua, lähetä meille tilausnumero Google Play- tai App Store -kuitistasi, niin selvitämme asian. Hyvitykset on hoidettava sen kaupan kautta, josta ostit - emme voi myöntää niitä."
+        ]
+      },
+      {
+        "h": "5. Taso vaikuttaa mahdottomalta",
+        "p": [
+          "Jokainen pelin taso on ratkaistu koneellisesti ennen julkaisua, joten ulospääsy on aina olemassa. Vihjepainike näyttää seuraavan siirron lyhimmästä tunnetusta ratkaisusta. Jos uskot, että jotakin tasoa ei todella voi läpäistä, kerro meille sen numero, niin tarkistamme sen."
+        ]
+      },
+      {
+        "h": "6. Tietojesi poistaminen",
+        "p": [
+          "Tyhjennä sovelluksen tallennustila tai poista sovellus poistaaksesi paikallisen tallennuksen. Poista pilvikopio poistamalla tallennettu peli Google Play Pelit -sovelluksessa tai sovelluksen iCloud-tiedot iOS:n Asetuksissa."
+        ]
+      },
+      {
+        "h": "7. Yhteystiedot",
+        "contact": true
+      }
+    ]
+  }
+}

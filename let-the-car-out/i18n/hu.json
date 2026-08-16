@@ -1,0 +1,295 @@
+{
+  "_comment": "Source text for every Let the car out! legal page. The HTML files are generated from this by build.mjs, and the translations are generated from this by translate.mjs. Edit here, never in the generated HTML.",
+  "meta": {
+    "app": "Let the car out! 3D puzzle",
+    "developer": "HAB Labs",
+    "email": "shawnfrest2k5@gmail.com",
+    "package": "com.hablabs.letthecarout",
+    "updated": "2026. augusztus 17."
+  },
+  "ui": {
+    "back_labs": "Vissza a HAB Labs oldalára",
+    "back_home": "Let the car out! főoldal",
+    "updated_label": "Utoljára frissítve:",
+    "nav_privacy": "Adatvédelmi szabályzat",
+    "nav_terms": "Felhasználási feltételek",
+    "nav_support": "Támogatás"
+  },
+  "index": {
+    "title": "Let the car out! - Jogi oldalak",
+    "heading": "Let the car out! 3D puzzle",
+    "sub": "Az alkalmazás hivatalos oldalai - csúsztasd félre az autókat, és szabadítsd ki az utat több mint 19 000 offline pályán."
+  },
+  "privacy": {
+    "title": "Adatvédelmi szabályzat",
+    "summary_label": "Rövid összefoglaló:",
+    "summary": "A Let the car out! egy autótologatós logikai játék. Minden pálya az alkalmazáson belül van, ezért az egész játék kapcsolat nélkül is játszható. Az előrehaladásod az eszközödön van. Ha bejelentkezel a Google Play Játékokba vagy a Game Centerbe, az előrehaladás egy másolata a platformfiókodban is megmarad, hogy egy új telefonon is megmaradjon. Ez a verzió nem jelenít meg hirdetéseket, és nem tartalmaz analitikát vagy összeomlás-jelentést. Nem üzemeltetünk saját szervereket, és soha nem kapjuk meg a nevedet, e-mail-címedet vagy tartózkodási helyedet.",
+    "sections": [
+      {
+        "h": "1. Bevezetés",
+        "p": [
+          "Ez az Adatvédelmi szabályzat elmagyarázza, hogyan kezeli az információkat a <strong>Let the car out! 3D puzzle</strong> mobilalkalmazás (csomag: <code>com.hablabs.letthecarout</code>, az \"Alkalmazás\"). Az Alkalmazás egy logikai játék, amelyben autókat csúsztatsz ki egy zsúfolt parkolóból. Az Alkalmazás használatával elfogadod az itt leírt gyakorlatokat."
+        ]
+      },
+      {
+        "h": "2. Milyen információkat gyűjtünk",
+        "sub": [
+          {
+            "h": "2.1 Személyes adatok",
+            "important": "<strong>Nem gyűjtünk személyazonosításra alkalmas információt.</strong> Az Alkalmazásnak nincs saját fiókja, nincs regisztráció, és nincs csevegés. Soha nem kérjük a nevedet, e-mail-címedet, telefonszámodat vagy tartózkodási helyedet, és nem üzemeltetünk olyan szervert, amely ezeket fogadhatná."
+          },
+          {
+            "h": "2.2 Az eszközödön tárolt adatok",
+            "p": [
+              "Az Alkalmazás egy kis rekordot tart az eszköz szabványos, alkalmazás számára privát tárhelyén:"
+            ],
+            "ul": [
+              "Kampány előrehaladása: a legmagasabb feloldott pálya, az utoljára játszott pálya, valamint minden teljesített pálya csillagértékelése",
+              "Érmeegyenleged, tipp-egyenleged és a díjak mögötti számlálók - felhasznált tippek, felhasznált visszavonások, hibátlan teljesítések, gyors teljesítések és a legjobb hibátlan teljesítési sorozatod",
+              "Mely díjakat igényelted, és mely szigeteket nyitottad meg",
+              "Beállítások: felület nyelve, jelenettéma, zene, hangeffektek, rezgés, értesítések, felbontás és képkockasebesség",
+              "Jelzők arról, hogy befejezted az oktatórészt, és hogy a hirdetések el lettek-e távolítva"
+            ],
+            "after": "Az Alkalmazás eltávolítása vagy a tárhelyének törlése törli ezt a helyi másolatot."
+          },
+          {
+            "h": "2.3 Felhőmentés és platformszolgáltatások",
+            "p": [
+              "Ha Androidon be vagy jelentkezve a <strong>Google Play Játékok</strong> szolgáltatásba, vagy iOS-en a <strong>Game Centerbe és az iCloudba</strong>, az Alkalmazás ugyanennek a rekordnak egy másolatát a platformfiókodban tartja, hogy az előrehaladásod megmaradjon egy eszköz elvesztése vagy cseréje esetén. A másolatot a Google vagy az Apple tartja a saját fiókod alatt, nem mi. Nem tudjuk elolvasni, és nem kapunk értesítést arról, hogy van ilyen másolatod.",
+              "Az Alkalmazás két dolgot jelent ezeknek a szolgáltatásoknak, amikor be vagy jelentkezve: az összes csillagod számát a ranglistához, valamint azt, hogy mely eredményeket szerezted meg. Semmi más nem kerül elküldésre. A bejelentkezés nem kötelező, és az egész játék játszható nélküle. Jelentkezz ki a Google Play Játékok vagy a Game Center alkalmazásból, és az Alkalmazás nem küld többé semmit."
+            ]
+          },
+          {
+            "h": "2.4 Amit az Alkalmazás nem tesz",
+            "ul": [
+              "<strong>Nincsenek hirdetések.</strong> Ez a verzió nem szolgál ki banner-, köztes vagy jutalmazott hirdetést, és nincs belefordítva hirdetési SDK.",
+              "<strong>Nincs analitika, telemetria vagy összeomlás-jelentés.</strong> Semmilyen használati statisztikát nem gyűjtünk.",
+              "<strong>Nincs hozzáférés fényképekhez, névjegyekhez, kamerához, mikrofonhoz, fájlokhoz vagy helyadatokhoz.</strong>",
+              "<strong>Nincs alkalmazásokon vagy webhelyeken átívelő követés</strong>, és hirdetési azonosítót sem olvasunk."
+            ]
+          },
+          {
+            "h": "2.5 Az Alkalmazás által kért engedélyek",
+            "ul": [
+              "<strong>Rezgés</strong> (<code>android.permission.VIBRATE</code>) - rövid haptikus visszajelzések, amikor egy autó a helyére ugrik, amikor egy lépés blokkolva van, és amikor teljesítesz egy pályát. Kapcsold ki a Beállításokban, és az Alkalmazás leállítja a rezgést.",
+              "<strong>Internet</strong> (<code>android.permission.INTERNET</code>) - csak a Google Play Játékok bejelentkezés, a felhőmentés, a ranglista és a Google Play számlázás használja, amikor vásárolsz valamit. Magának a játéknak nincs szüksége kapcsolatra: minden pálya benne van a letöltésben."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "3. Hogyan használjuk az információkat",
+        "p": [
+          "A tárolt rekord egyetlen célt szolgál: hogy a játék emlékezzen arra, hol tartottál, és hogyan szeretsz játszani. Nem összesítjük, nem profilozzuk, és nem adjuk el."
+        ]
+      },
+      {
+        "h": "4. Harmadik felek szolgáltatásai",
+        "p": [
+          "Az Alkalmazás a következő szolgáltatásokat használja. Mindegyik a saját adatvédelmi szabályzata szerint kezeli az adataidat, és mindegyik opcionális, kivéve azt az áruházat, ahonnan telepítetted:"
+        ],
+        "ul": [
+          "<strong>Google Play</strong> - letöltés, frissítés, visszatérítés, és Androidon alkalmazáson belüli vásárlások: <a href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noopener\">https://policies.google.com/privacy</a>",
+          "<strong>Google Play Játékok szolgáltatások</strong> (Android) - opcionális bejelentkezés, eredmények, ranglista és felhőmentés, ugyanazon Google adatvédelmi szabályzat alapján",
+          "<strong>Apple App Store, Game Center és iCloud</strong> (iOS) - letöltés, alkalmazáson belüli vásárlások, opcionális bejelentkezés, eredmények, ranglista és felhőmentés: <a href=\"https://www.apple.com/legal/privacy/\" target=\"_blank\" rel=\"noopener\">https://www.apple.com/legal/privacy/</a>"
+        ],
+        "after": "Az Alkalmazás a Unity motorral készült. A Unity futtatókörnyezete bele van fordítva az Alkalmazásba; ebben a buildben nincs Unity analitikai vagy hirdetési csomag."
+      },
+      {
+        "h": "5. Vásárlások",
+        "p": [
+          "Az érme-csomagokat és a hirdetésmentes feloldást Androidon a Google Play számlázásán, iOS-en pedig az App Store-on keresztül értékesítik. Ezek az áruházak dolgozzák fel a fizetést, és csak azt közlik az Alkalmazással, hogy a vásárlás sikeres volt-e. <strong>Soha nem látjuk és nem tároljuk a kártyádat, címedet vagy bármely más fizetési adatodat.</strong> A visszatérítéseket az az áruház kezeli, ahol vásároltál."
+        ]
+      },
+      {
+        "h": "6. Adatmegosztás",
+        "p": [
+          "Nem adjuk el, nem adjuk bérbe, és nem osztjuk meg az adataidat. Nincs is mit megosztanunk: az eszközödről távozó egyetlen másolatok a saját Google- vagy Apple-fiókodba kerülnek."
+        ]
+      },
+      {
+        "h": "7. A választási lehetőségeid",
+        "ul": [
+          "<strong>Játssz bejelentkezés nélkül:</strong> utasítsd el a Google Play Játékok vagy a Game Center használatát, és semmi nem kerül elküldésre sehová.",
+          "<strong>A felhőbeli másolat törlése:</strong> távolítsd el az Alkalmazás mentett játékát a Google Play Játékok alkalmazásban, vagy töröld az iCloud-adatait az iOS Beállításokban.",
+          "<strong>Minden törlése helyben:</strong> töröld az Alkalmazás tárhelyét, vagy távolítsd el az Alkalmazást.",
+          "<strong>Előrehaladás visszaállítása a játékban:</strong> a Beállítások tartalmaz egy visszaállítást, amely törli a mentésedet.",
+          "<strong>Rezgés, zene vagy hang kikapcsolása:</strong> a Beállításokban, bármikor."
+        ]
+      },
+      {
+        "h": "8. Gyermekek adatvédelme",
+        "p": [
+          "Az Alkalmazás családbarát. Nincs benne csevegés, felhasználók által létrehozott tartalom vagy hirdetés, és tudatosan nem gyűjt személyes adatot senkitől, beleértve a 13 év alatti gyermekeket is. A Google Play Játékok és a Game Center bejelentkezést a platformfiók és az azon beállított szülői felügyeletek szabályozzák. Ha úgy gondolod, hogy egy gyermek személyes adatot adott meg az Alkalmazáson keresztül, kérjük, vedd fel velünk a kapcsolatot."
+        ]
+      },
+      {
+        "h": "9. Adatbiztonság",
+        "ul": [
+          "Az előrehaladás és a beállítások az eszköz szabványos, alkalmazás számára privát tárhelyén vannak, amelyet más alkalmazások nem tudnak olvasni.",
+          "A felhőbeli másolatot a Google- vagy Apple-fiókod és annak saját biztonsága védi.",
+          "Nem üzemeltetünk szervereket, ezért nincs nálunk olyan fiókod, amelyet elveszíthetnénk, és nincs olyan adatbázisunk, amelyet feltörhetnének."
+        ]
+      },
+      {
+        "h": "10. A szabályzat módosításai",
+        "p": [
+          "A módosításokat ezen az oldalon tesszük közzé új \"Utoljára frissítve\" dátummal. Ha egy jövőbeli verzió olyasmit gyűjt, amit ez az oldal nem ír le, az oldal <em>még azelőtt</em> frissül, hogy az a verzió megjelenne. Az Alkalmazás további használata egy módosítás után azt jelenti, hogy elfogadod a módosított szabályzatot."
+        ]
+      },
+      {
+        "h": "11. Kapcsolatfelvétel",
+        "contact": true
+      },
+      {
+        "h": "12. Megfelelés",
+        "p": [
+          "Ez az Adatvédelmi szabályzat a Google Play irányelveinek, az Apple App Store irányelveinek, az Általános adatvédelmi rendeletnek (GDPR), a Kaliforniai fogyasztói adatvédelmi törvénynek (CCPA) és a Gyermekek online adatvédelmének védelméről szóló törvénynek (COPPA) való megfelelést célozza."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Felhasználási feltételek",
+    "summary_label": "Röviden:",
+    "summary": "A játék ingyenesen letölthető, és a saját eszközeiden játszhatod. Ne másold, ne add tovább, és ne szedd szét. A játék jelen állapotában kerül biztosításra. Az érmék és tippek szórakoztató funkciók, nincs készpénzértékük, és bármit vásárolsz, azt a Google-tól vagy az Apple-től vásárolod, nem tőlünk.",
+    "sections": [
+      {
+        "h": "1. Elfogadás",
+        "p": [
+          "A <strong>Let the car out! 3D puzzle</strong> (az \"Alkalmazás\") letöltésével, telepítésével vagy használatával, amelyet a HAB Labs tett közzé, elfogadod ezeket a Felhasználási feltételeket. Ha nem értesz egyet velük, távolítsd el az Alkalmazást."
+        ]
+      },
+      {
+        "h": "2. Licenc",
+        "p": [
+          "Személyes, nem kizárólagos, nem átruházható, visszavonható licencet adunk neked az Alkalmazás telepítésére és használatára az általad birtokolt vagy ellenőrzött eszközökön, személyes, nem kereskedelmi célú használatra."
+        ]
+      },
+      {
+        "h": "3. Amit nem tehetsz",
+        "ul": [
+          "Nem másolhatod, adhatod el, adhatod bérbe, allicencelheted vagy terjesztheted tovább az Alkalmazást vagy annak pályáit, grafikáit, hangjait vagy fordításait",
+          "Nem végezhetsz visszafejtést, dekompilálást vagy szétszerelést az Alkalmazáson, kivéve ha ezt a jogot jogszabály alapján nem lehet kizárni",
+          "Nem módosíthatod az Alkalmazást vagy annak mentett adatait előnyszerzés céljából, majd nem tüntetheted fel az eredményt valódi játékként, beleértve a ranglistán is",
+          "Nem használhatod az Alkalmazást jogellenes célra"
+        ]
+      },
+      {
+        "h": "4. Virtuális elemek",
+        "p": [
+          "Az érmék, tippek, csillagok és díjak az Alkalmazáson belüli szórakoztató funkciók. Nincs pénzbeli értékük, nem válthatók pénzre vagy árura, és nem ruházhatók át más személyre. Csak az Adatvédelmi szabályzatban leírt felhőmentésen keresztül kerülnek át a saját eszközeid között, és elvesznek, ha a helyi mentést és azt a felhőbeli másolatot is törlöd."
+        ]
+      },
+      {
+        "h": "5. Vásárlások",
+        "p": [
+          "Az érme-csomagokat és a hirdetésmentes feloldást Androidon a Google Play, iOS-en pedig az App Store értékesíti, a <a href=\"https://play.google.com/about/play-terms/\" target=\"_blank\" rel=\"noopener\">Google Play Általános Szerződési Feltételek</a> vagy az Apple <a href=\"https://www.apple.com/legal/internet-services/itunes/\" target=\"_blank\" rel=\"noopener\">Médiaszolgáltatási feltételei</a> alapján. Ezek az áruházak szedik be a fizetést és kezelik a visszatérítéseket; mi soha nem látjuk és nem tároljuk a fizetési adataidat. A vásárlások az Alkalmazáson belül kerülnek felhasználásra, és a hirdetésmentes feloldás kivételével nem állnak vissza automatikusan."
+        ]
+      },
+      {
+        "h": "6. Platformszolgáltatások",
+        "p": [
+          "A Google Play Játékokba vagy a Game Centerbe való bejelentkezés opcionális. Ezeket a szolgáltatásokat a Google és az Apple biztosítja a saját feltételeik szerint, és mi nem tudunk helyreállítani, átvinni vagy javítani általuk kezelt fiókot. Az Alkalmazás módosításával szerzett ranglista-bejegyzések eltávolíthatók."
+        ]
+      },
+      {
+        "h": "7. Adataid",
+        "p": [
+          "Lásd az <a href=\"privacy-policy.html\">Adatvédelmi szabályzatot</a>, amely leírja, mit és hol tárol az Alkalmazás."
+        ]
+      },
+      {
+        "h": "8. Szellemi tulajdon",
+        "p": [
+          "Az Alkalmazás, beleértve annak kódját, pályaterveit, grafikáit és hangjait, a HAB Labs tulajdona, és szerzői jog védi. Ezek a Feltételek nem adnak neked tulajdonjogot felette."
+        ]
+      },
+      {
+        "h": "9. Frissítések és elérhetőség",
+        "p": [
+          "Bármikor, értesítés nélkül frissíthetjük, módosíthatjuk vagy megszüntethetjük az Alkalmazást vagy annak bármely funkcióját. Nem garantáljuk, hogy az Alkalmazás bármely konkrét áruházban elérhető marad, vagy bármely konkrét eszközön futni fog."
+        ]
+      },
+      {
+        "h": "10. Jótállás kizárása",
+        "p": [
+          "Az Alkalmazás \"jelen állapotában\" és \"elérhetősége szerint\" kerül biztosításra, bármilyen kifejezett vagy hallgatólagos jótállás nélkül, beleértve a forgalomképességet, egy adott célra való alkalmasságot és a jogsértésmentességet. Nem garantáljuk, hogy az Alkalmazás megszakítás nélkül vagy hibáktól mentesen fog működni."
+        ]
+      },
+      {
+        "h": "11. Felelősség korlátozása",
+        "p": [
+          "A jogszabályok által megengedett legteljesebb mértékben a HAB Labs nem felel semmilyen közvetett, járulékos vagy következményi kárért, illetve a mentett előrehaladás elvesztéséért, amely az Alkalmazás használatából ered. Ezekben a Feltételekben semmi nem korlátoz olyan felelősséget, amelyet jogszabály alapján nem lehet korlátozni."
+        ]
+      },
+      {
+        "h": "12. Gyermekek",
+        "p": [
+          "Az Alkalmazás minden korosztály számára megfelelő. Ha kiskorú vagy, kérjük, tekintsd át ezeket a Feltételeket egy szülővel vagy gondviselővel, és kérdezd meg őket, mielőtt vásárolsz."
+        ]
+      },
+      {
+        "h": "13. A Feltételek módosításai",
+        "p": [
+          "Módosíthatjuk ezeket a Feltételeket. A módosított változat ezen az oldalon kerül közzétételre új \"Utoljára frissítve\" dátummal, és az Alkalmazás ezt követő további használata azt jelenti, hogy elfogadod azt."
+        ]
+      },
+      {
+        "h": "14. Kapcsolat",
+        "contact": true
+      }
+    ]
+  },
+  "support": {
+    "title": "Támogatás",
+    "summary_label": "Segítségre van szükséged?",
+    "summary": "Írj nekünk, és válaszolunk. Az alkalmazás mögött egy ember áll, ezért a válasz általában egy-két napot vesz igénybe, nem egy órát.",
+    "sections": [
+      {
+        "h": "1. Eltűnt az előrehaladásom",
+        "p": [
+          "Az előrehaladás az eszközön van tárolva. Ha újratelepítetted az alkalmazást, telefont váltottál, vagy törölted a tárhelyét, a helyi másolat eltűnt.",
+          "Csak akkor állítható vissza, ha korábban be voltál jelentkezve a Google Play Játékokba (Android) vagy a Game Centerbe és az iCloudba (iOS), és a felhőmentés legalább egyszer lefutott. Jelentkezz be ugyanazzal a fiókkal, és nyisd meg az alkalmazást; az letölti a mentett másolatot, és összevonja az eszközön lévő adatokkal, minden pályánál a kettő közül a jobbat megtartva."
+        ]
+      },
+      {
+        "h": "2. A bejelentkezés nem fejeződik be",
+        "p": [
+          "Androidon ez szinte mindig a Google Play Játékok alkalmazással kapcsolatos, nem magával a játékkal: nyisd meg, ellenőrizd, hogy ott be vagy-e jelentkezve, és győződj meg arról, hogy a fiók nem családi csoport által korlátozott fiók.",
+          "Ha a játékot nem a Google Playről telepítetted, a bejelentkezés egyáltalán nem működhet - a Play Játékok ellenőrzi a telepített alkalmazás aláírását."
+        ]
+      },
+      {
+        "h": "3. A telefon nem rezeg",
+        "p": [
+          "Ellenőrizd a játékon belüli Beállításokat, majd a telefon saját rezgésbeállítását. Egyes telefonok akkumulátorkímélő módban az alkalmazások rezgését is letiltják.",
+          "A tableteknek és néhány régebbi telefonnak nincs rezgőmotorja, ezért egyáltalán nem tudnak rezegni."
+        ]
+      },
+      {
+        "h": "4. Egy vásárlás nem érkezett meg",
+        "p": [
+          "A vásárlásokat az áruház kézbesíti. Nyisd meg újra az alkalmazást kapcsolat mellett: az áruház újraküld mindent, amiért már elfogadta a fizetést, de amit még nem kézbesített, és az alkalmazás azonnal jóváírja.",
+          "Ha néhány perc után sem érkezett meg, küldd el nekünk a rendelési számot a Google Play- vagy App Store-nyugtádról, és utánanézünk. A visszatérítéseknek azon az áruházon keresztül kell történniük, ahol vásároltál - mi nem tudjuk kiadni őket."
+        ]
+      },
+      {
+        "h": "5. Egy pálya lehetetlennek tűnik",
+        "p": [
+          "A játék minden pályáját géppel megoldottuk a kiadás előtt, ezért mindig van kiút. A tipp gomb a legrövidebb ismert megoldás következő lépését mutatja. Ha úgy gondolod, hogy egy pálya valóban nem teljesíthető, mondd el a számát, és ellenőrizzük azt."
+        ]
+      },
+      {
+        "h": "6. Adataid törlése",
+        "p": [
+          "Töröld az alkalmazás tárhelyét, vagy távolítsd el az alkalmazást a helyi mentés eltávolításához. A felhőbeli másolat eltávolításához töröld a mentett játékot a Google Play Játékok alkalmazásban, vagy az alkalmazás iCloud-adatait az iOS Beállításokban."
+        ]
+      },
+      {
+        "h": "7. Kapcsolat",
+        "contact": true
+      }
+    ]
+  }
+}

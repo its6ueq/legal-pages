@@ -1,0 +1,295 @@
+{
+  "_comment": "Source text for every Let the car out! legal page. The HTML files are generated from this by build.mjs, and the translations are generated from this by translate.mjs. Edit here, never in the generated HTML.",
+  "meta": {
+    "app": "Let the car out! 3D puzzle",
+    "developer": "HAB Labs",
+    "email": "shawnfrest2k5@gmail.com",
+    "package": "com.hablabs.letthecarout",
+    "updated": "17 augustus 2026"
+  },
+  "ui": {
+    "back_labs": "Terug naar HAB Labs",
+    "back_home": "Let the car out! Home",
+    "updated_label": "Laatst bijgewerkt:",
+    "nav_privacy": "Privacybeleid",
+    "nav_terms": "Gebruiksvoorwaarden",
+    "nav_support": "Support"
+  },
+  "index": {
+    "title": "Let the car out! - Juridische pagina's",
+    "heading": "Let the car out! 3D puzzle",
+    "sub": "Officiële pagina's voor de app - schuif de auto's opzij en maak een uitweg vrij, in meer dan 19.000 offline levels."
+  },
+  "privacy": {
+    "title": "Privacybeleid",
+    "summary_label": "Korte samenvatting:",
+    "summary": "Let the car out! is een schuifauto-puzzel. Elk level zit in de app, dus je kunt de hele game spelen zonder enige verbinding. Je voortgang staat op je apparaat. Als je inlogt bij Google Play Games of Game Center, wordt er ook een kopie van die voortgang bewaard in je platformaccount, zodat die een nieuwe telefoon overleeft. Deze versie toont geen advertenties en bevat geen analytics of crashrapportage. We beheren geen eigen servers en ontvangen nooit je naam, e-mailadres of locatie.",
+    "sections": [
+      {
+        "h": "1. Inleiding",
+        "p": [
+          "Dit Privacybeleid legt uit hoe de mobiele applicatie <strong>Let the car out! 3D puzzle</strong> (pakket <code>com.hablabs.letthecarout</code>, de \"App\") met informatie omgaat. De App is een puzzel waarin je auto's uit een volle parkeerplaats schuift. Door de App te gebruiken ga je akkoord met de hier beschreven praktijken."
+        ]
+      },
+      {
+        "h": "2. Informatie die we verzamelen",
+        "sub": [
+          {
+            "h": "2.1 Persoonlijke informatie",
+            "important": "<strong>We verzamelen geen persoonlijk identificeerbare informatie.</strong> De App heeft geen eigen account, geen registratie en geen chat. We vragen nooit om je naam, e-mailadres, telefoonnummer of locatie, en we beheren geen server die deze gegevens zou kunnen ontvangen."
+          },
+          {
+            "h": "2.2 Gegevens opgeslagen op je apparaat",
+            "p": [
+              "De App bewaart één kleine registratie in de standaard app-privéopslag van het apparaat:"
+            ],
+            "ul": [
+              "Campagnevoortgang: het hoogste ontgrendelde level, het laatst gespeelde level en de sterrenbeoordeling van elk voltooid level",
+              "Je muntsaldo, hintsaldo en de tellers achter de awards - gebruikte hints, gebruikte ongedaanmakingen, zuivere voltooingen, snelle voltooingen en je beste reeks zuivere voltooingen",
+              "Welke awards je hebt opgeëist en welke eilanden je hebt geopend",
+              "Instellingen: interfacetaal, scènethema, muziek, geluidseffecten, trilling, meldingen, resolutie en framesnelheid",
+              "Vlaggen die vastleggen dat je de tutorial hebt voltooid en of advertenties zijn verwijderd"
+            ],
+            "after": "Als je de App verwijdert of de opslag ervan wist, wordt deze lokale kopie verwijderd."
+          },
+          {
+            "h": "2.3 Cloudopslag en platformdiensten",
+            "p": [
+              "Als je bent ingelogd bij <strong>Google Play Games</strong> op Android, of bij <strong>Game Center en iCloud</strong> op iOS, bewaart de App een kopie van dezelfde registratie in je platformaccount, zodat je voortgang behouden blijft als je een apparaat verliest of vervangt. De kopie wordt door Google of Apple bewaard onder je eigen account, niet door ons. We kunnen die niet lezen en we krijgen niet te horen dat je er een hebt.",
+              "De App rapporteert ook twee dingen aan die diensten wanneer je bent ingelogd: je totale aantal sterren, voor het klassement, en welke prestaties je hebt verdiend. Er wordt niets anders verzonden. Inloggen is optioneel en de hele game is zonder inloggen speelbaar. Log uit in de Google Play Games- of Game Center-app en de App stopt met het verzenden van gegevens."
+            ]
+          },
+          {
+            "h": "2.4 Wat de App niet doet",
+            "ul": [
+              "<strong>Geen advertenties.</strong> Deze versie toont geen banneradvertenties, interstitials of beloond-advertenties, en er is geen advertentie-SDK in gecompileerd.",
+              "<strong>Geen analytics, telemetrie of crashrapportage.</strong> We verzamelen geen enkele gebruiksstatistiek.",
+              "<strong>Geen toegang tot foto's, contacten, camera, microfoon, bestanden of locatie.</strong>",
+              "<strong>Geen tracking tussen apps of websites</strong>, en er wordt geen advertentie-ID gelezen."
+            ]
+          },
+          {
+            "h": "2.5 Machtigingen die de App vraagt",
+            "ul": [
+              "<strong>Trillen</strong> (<code>android.permission.VIBRATE</code>) - korte tikjes met haptische feedback wanneer een auto op zijn plaats klikt, wanneer een zet wordt geblokkeerd en wanneer je een level voltooit. Zet dit uit in Instellingen en de App stopt met trillen.",
+              "<strong>Internet</strong> (<code>android.permission.INTERNET</code>) - alleen gebruikt door inloggen bij Google Play Games, cloudopslag, het klassement en Google Play-facturering wanneer je iets koopt. De game zelf heeft geen verbinding nodig: elk level is in de download opgenomen."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "3. Hoe informatie wordt gebruikt",
+        "p": [
+          "De opgeslagen registratie bestaat voor één doel: zodat de game kan onthouden waar je was en hoe je graag speelt. Deze wordt niet samengevoegd, geprofileerd of verkocht."
+        ]
+      },
+      {
+        "h": "4. Diensten van derden",
+        "p": [
+          "De App gebruikt de volgende diensten. Elke dienst verwerkt je gegevens volgens zijn eigen privacybeleid, en elke dienst is optioneel behalve de store waaruit je hebt geïnstalleerd:"
+        ],
+        "ul": [
+          "<strong>Google Play</strong> - download, update, terugbetaling en, op Android, in-app-aankopen: <a href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noopener\">https://policies.google.com/privacy</a>",
+          "<strong>Google Play Games-services</strong> (Android) - optioneel inloggen, prestaties, klassement en cloudopslag, onder hetzelfde privacybeleid van Google",
+          "<strong>Apple App Store, Game Center en iCloud</strong> (iOS) - download, in-app-aankopen, optioneel inloggen, prestaties, klassement en cloudopslag: <a href=\"https://www.apple.com/legal/privacy/\" target=\"_blank\" rel=\"noopener\">https://www.apple.com/legal/privacy/</a>"
+        ],
+        "after": "De App is gebouwd met de Unity-engine. De runtime van Unity is in de App gecompileerd; er is geen Unity-analytics- of advertentiepakket opgenomen in deze build."
+      },
+      {
+        "h": "5. Aankopen",
+        "p": [
+          "Muntpakketten en de advertentievrije ontgrendeling worden verkocht via Google Play-facturering op Android en de App Store op iOS. Die stores verwerken de betaling en vertellen de App alleen of een aankoop is gelukt. <strong>We zien of bewaren nooit je kaart, adres of andere betalingsgegevens.</strong> Terugbetalingen worden afgehandeld door de store waar je hebt gekocht."
+        ]
+      },
+      {
+        "h": "6. Gegevens delen",
+        "p": [
+          "We verkopen, verhuren of delen je gegevens niet. We ontvangen niets om te delen: de enige kopieën die je apparaat verlaten, gaan naar je eigen Google- of Apple-account."
+        ]
+      },
+      {
+        "h": "7. Je keuzes",
+        "ul": [
+          "<strong>Spelen zonder in te loggen:</strong> weiger Google Play Games of Game Center en er wordt nergens iets heen verzonden.",
+          "<strong>De cloudkopie verwijderen:</strong> verwijder de opgeslagen game van de App in de Google Play Games-app, of verwijder de iCloud-gegevens ervan in iOS-instellingen.",
+          "<strong>Alles lokaal verwijderen:</strong> wis de opslag van de App, of verwijder de App.",
+          "<strong>Voortgang in de game resetten:</strong> Instellingen bevat een reset die je opslag wist.",
+          "<strong>Trilling, muziek of geluid uitschakelen:</strong> Instellingen, op elk moment."
+        ]
+      },
+      {
+        "h": "8. Privacy van kinderen",
+        "p": [
+          "De App is gezinsvriendelijk. Hij heeft geen chat, geen door gebruikers gegenereerde content en geen advertenties, en hij verzamelt niet bewust persoonlijke informatie van iemand, inclusief kinderen jonger dan 13 jaar. Inloggen bij Google Play Games en Game Center wordt beheerd door het platformaccount en door eventueel daarop ingestelde ouderlijk toezicht. Als je denkt dat een kind persoonlijke informatie via de App heeft verstrekt, neem dan contact met ons op."
+        ]
+      },
+      {
+        "h": "9. Gegevensbeveiliging",
+        "ul": [
+          "Voortgang en instellingen worden bewaard in de standaard app-privéopslag van het apparaat, die andere apps niet kunnen lezen.",
+          "De cloudkopie wordt beschermd door je Google- of Apple-account en de eigen beveiliging daarvan.",
+          "We beheren geen servers, dus er is geen account van jou dat wij kunnen verliezen en geen database van ons waarop kan worden ingebroken."
+        ]
+      },
+      {
+        "h": "10. Wijzigingen in dit beleid",
+        "p": [
+          "Wijzigingen worden op deze pagina geplaatst met een nieuwe datum bij \"Laatst bijgewerkt\". Als een toekomstige versie iets verzamelt dat deze pagina niet beschrijft, wordt de pagina bijgewerkt <em>voordat</em> die versie wordt uitgebracht. Als je de App na een wijziging blijft gebruiken, betekent dit dat je het herziene beleid accepteert."
+        ]
+      },
+      {
+        "h": "11. Contact met ons opnemen",
+        "contact": true
+      },
+      {
+        "h": "12. Naleving",
+        "p": [
+          "Dit Privacybeleid is bedoeld om te voldoen aan het beleid van Google Play, de richtlijnen van de Apple App Store, de Algemene verordening gegevensbescherming (AVG/GDPR), de California Consumer Privacy Act (CCPA) en de Children's Online Privacy Protection Act (COPPA)."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Gebruiksvoorwaarden",
+    "summary_label": "Kort gezegd:",
+    "summary": "De game is gratis te downloaden en is van jou om op je eigen apparaten te spelen. Kopieer hem niet, verkoop hem niet door en haal hem niet uit elkaar. Hij wordt geleverd zoals hij is. Munten en hints zijn entertainmentfuncties zonder contante waarde, en alles wat je koopt, koop je van Google of Apple, niet van ons.",
+    "sections": [
+      {
+        "h": "1. Aanvaarding",
+        "p": [
+          "Door <strong>Let the car out! 3D puzzle</strong> (de \"App\"), gepubliceerd door HAB Labs, te downloaden, installeren of spelen, ga je akkoord met deze Gebruiksvoorwaarden. Als je niet akkoord gaat, verwijder dan de App."
+        ]
+      },
+      {
+        "h": "2. Licentie",
+        "p": [
+          "We verlenen je een persoonlijke, niet-exclusieve, niet-overdraagbare, herroepbare licentie om de App te installeren en te spelen op apparaten die je bezit of beheert, voor persoonlijk, niet-commercieel gebruik."
+        ]
+      },
+      {
+        "h": "3. Wat je niet mag doen",
+        "ul": [
+          "De App of de levels, illustraties, geluiden of vertalingen ervan kopiëren, verkopen, verhuren, sublicentiëren of opnieuw verspreiden",
+          "De App reverse-engineeren, decompileren of disassembleren, behalve waar dat recht niet door de wet kan worden uitgesloten",
+          "De App of de opgeslagen gegevens ervan wijzigen om een voordeel te krijgen en het resultaat vervolgens presenteren als echt spel, ook in het klassement",
+          "De App gebruiken voor iets onwettigs"
+        ]
+      },
+      {
+        "h": "4. Virtuele items",
+        "p": [
+          "Munten, hints, sterren en awards zijn entertainmentfuncties binnen de App. Ze hebben geen geldwaarde, kunnen niet worden ingewisseld voor geld of goederen en kunnen niet aan een andere persoon worden overgedragen. Ze worden alleen tussen je eigen apparaten verplaatst via de cloudopslag die in het Privacybeleid wordt beschreven, en ze gaan verloren als je zowel de lokale opslag als die cloudkopie verwijdert."
+        ]
+      },
+      {
+        "h": "5. Aankopen",
+        "p": [
+          "Muntpakketten en de advertentievrije ontgrendeling worden verkocht door Google Play op Android en door de App Store op iOS, onder de <a href=\"https://play.google.com/about/play-terms/\" target=\"_blank\" rel=\"noopener\">Servicevoorwaarden van Google Play</a> of Apple's <a href=\"https://www.apple.com/legal/internet-services/itunes/\" target=\"_blank\" rel=\"noopener\">Voorwaarden voor mediadiensten</a>. Die stores innen de betaling en handelen terugbetalingen af; we zien of bewaren je betalingsgegevens nooit. Aankopen worden binnen de App verbruikt en worden, afgezien van de advertentievrije ontgrendeling, niet automatisch hersteld."
+        ]
+      },
+      {
+        "h": "6. Platformdiensten",
+        "p": [
+          "Inloggen bij Google Play Games of Game Center is optioneel. Die diensten worden geleverd door Google en Apple onder hun eigen voorwaarden, en wij kunnen een door hen beheerd account niet herstellen, overdragen of repareren. Klassementvermeldingen die zijn verkregen door de App te wijzigen, kunnen worden verwijderd."
+        ]
+      },
+      {
+        "h": "7. Je gegevens",
+        "p": [
+          "Zie het <a href=\"privacy-policy.html\">Privacybeleid</a> voor wat de App opslaat en waar."
+        ]
+      },
+      {
+        "h": "8. Intellectueel eigendom",
+        "p": [
+          "De App, inclusief de code, levelontwerpen, illustraties en geluiden, is eigendom van HAB Labs en wordt beschermd door auteursrecht. Deze Voorwaarden geven je er geen eigendom van."
+        ]
+      },
+      {
+        "h": "9. Updates en beschikbaarheid",
+        "p": [
+          "We kunnen de App of een van de functies ervan op elk moment, zonder kennisgeving, bijwerken, wijzigen of stopzetten. We garanderen niet dat de App beschikbaar blijft in een bepaalde store of werkt op een bepaald apparaat."
+        ]
+      },
+      {
+        "h": "10. Afwijzing van garantie",
+        "p": [
+          "De App wordt geleverd \"zoals hij is\" en \"zoals beschikbaar\", zonder enige garantie, expliciet of impliciet, waaronder verkoopbaarheid, geschiktheid voor een bepaald doel en niet-inbreuk. We garanderen niet dat de App ononderbroken of vrij van gebreken zal zijn."
+        ]
+      },
+      {
+        "h": "11. Beperking van aansprakelijkheid",
+        "p": [
+          "Voor zover maximaal toegestaan door de wet is HAB Labs niet aansprakelijk voor enige indirecte, incidentele of gevolgschade, of voor enig verlies van opgeslagen voortgang, voortvloeiend uit je gebruik van de App. Niets in deze Voorwaarden beperkt aansprakelijkheid die niet door de wet kan worden beperkt."
+        ]
+      },
+      {
+        "h": "12. Kinderen",
+        "p": [
+          "De App is geschikt voor alle leeftijden. Als je minderjarig bent, bespreek deze Voorwaarden dan met een ouder of voogd en vraag hen om toestemming voordat je een aankoop doet."
+        ]
+      },
+      {
+        "h": "13. Wijzigingen in deze Voorwaarden",
+        "p": [
+          "We kunnen deze Voorwaarden herzien. De herziene versie wordt op deze pagina geplaatst met een nieuwe datum bij \"Laatst bijgewerkt\", en als je de App daarna blijft gebruiken, betekent dit dat je deze accepteert."
+        ]
+      },
+      {
+        "h": "14. Contact",
+        "contact": true
+      }
+    ]
+  },
+  "support": {
+    "title": "Support",
+    "summary_label": "Hulp nodig?",
+    "summary": "Schrijf ons en we zullen antwoorden. Er zit één persoon achter deze app, dus een antwoord duurt meestal een dag of twee in plaats van een uur.",
+    "sections": [
+      {
+        "h": "1. Mijn voortgang is verdwenen",
+        "p": [
+          "Voortgang wordt op het apparaat bewaard. Als je de app opnieuw hebt geïnstalleerd, van telefoon bent veranderd of de opslag ervan hebt gewist, is de lokale kopie weg.",
+          "Deze kan alleen worden hersteld als je eerder was ingelogd bij Google Play Games (Android) of Game Center en iCloud (iOS), en de cloudopslag minstens één keer had gedraaid. Log in met hetzelfde account en open de app; hij haalt de opgeslagen kopie op en voegt die samen met wat er op het apparaat staat, waarbij voor elk level de beste van de twee wordt bewaard."
+        ]
+      },
+      {
+        "h": "2. Inloggen wordt niet voltooid",
+        "p": [
+          "Op Android ligt dit bijna altijd aan de Google Play Games-app in plaats van aan de game: open die, controleer of je daar bent ingelogd en zorg ervoor dat het account niet is beperkt door een gezinsgroep.",
+          "Als de game is geïnstalleerd vanuit een andere bron dan Google Play, kan inloggen helemaal niet werken - Play Games controleert de handtekening van de geïnstalleerde app."
+        ]
+      },
+      {
+        "h": "3. De telefoon trilt niet",
+        "p": [
+          "Controleer Instellingen in de game en daarna de eigen trillingsinstelling van je telefoon. Sommige telefoons schakelen app-trilling ook uit in batterijbesparingsmodus.",
+          "Tablets en sommige oudere telefoons hebben geen trilmotor en kunnen helemaal niet trillen."
+        ]
+      },
+      {
+        "h": "4. Een aankoop is niet aangekomen",
+        "p": [
+          "Aankopen worden geleverd door de store. Open de app opnieuw terwijl je verbonden bent: de store stuurt alles opnieuw waarvoor is betaald maar dat nog niet is geleverd, en de app kent het meteen toe.",
+          "Als het na een paar minuten nog steeds niet is aangekomen, stuur ons dan het bestelnummer van je Google Play- of App Store-bon en we zoeken het uit. Terugbetalingen moeten via de store lopen waar je hebt gekocht - wij kunnen ze niet uitgeven."
+        ]
+      },
+      {
+        "h": "5. Een level lijkt onmogelijk",
+        "p": [
+          "Elk level in de game is vóór uitgave door een machine opgelost, dus er is altijd een uitweg. De hintknop toont de volgende zet in de kortst bekende oplossing. Als je denkt dat een level echt niet kan worden voltooid, geef ons dan het nummer en we controleren dat level."
+        ]
+      },
+      {
+        "h": "6. Je gegevens verwijderen",
+        "p": [
+          "Wis de opslag van de app of verwijder de app om de lokale opslag te verwijderen. Om de cloudkopie te verwijderen, verwijder je de opgeslagen game in de Google Play Games-app, of de iCloud-gegevens van de app in iOS-instellingen."
+        ]
+      },
+      {
+        "h": "7. Contact",
+        "contact": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "_comment": "Source text for every Let the car out! legal page. The HTML files are generated from this by build.mjs, and the translations are generated from this by translate.mjs. Edit here, never in the generated HTML.",
+  "meta": {
+    "app": "Let the car out! 3D puzzle",
+    "developer": "HAB Labs",
+    "email": "shawnfrest2k5@gmail.com",
+    "package": "com.hablabs.letthecarout",
+    "updated": "17. august 2026"
+  },
+  "ui": {
+    "back_labs": "Tilbake til HAB Labs",
+    "back_home": "Let the car out! Hjem",
+    "updated_label": "Sist oppdatert:",
+    "nav_privacy": "Personvernerklæring",
+    "nav_terms": "Vilkår for bruk",
+    "nav_support": "Kundestøtte"
+  },
+  "index": {
+    "title": "Let the car out! - juridiske sider",
+    "heading": "Let the car out! 3D puzzle",
+    "sub": "Offisielle sider for appen - skyv bilene til side og rydd en vei ut, gjennom mer enn 19 000 nivåer uten nett."
+  },
+  "privacy": {
+    "title": "Personvernerklæring",
+    "summary_label": "Kort sammendrag:",
+    "summary": "Let the car out! er et puslespill der du skyver biler. Alle nivåer ligger inne i appen, så du kan spille hele spillet helt uten tilkobling. Fremgangen din ligger på enheten din. Hvis du logger på Google Play Spill eller Game Center, lagres også en kopi av denne fremgangen i plattformkontoen din, slik at den overlever en ny telefon. Denne versjonen viser ingen annonser og inneholder ingen analyse eller krasjrapportering. Vi driver ingen egne servere og mottar aldri navnet ditt, e-postadressen din eller posisjonen din.",
+    "sections": [
+      {
+        "h": "1. Innledning",
+        "p": [
+          "Denne personvernerklæringen forklarer hvordan mobilappen <strong>Let the car out! 3D puzzle</strong> (pakken <code>com.hablabs.letthecarout</code>, \"Appen\") håndterer informasjon. Appen er et puslespill der du skyver biler ut av en full parkeringsplass. Ved å bruke Appen samtykker du i praksisen som er beskrevet her."
+        ]
+      },
+      {
+        "h": "2. Informasjon vi samler inn",
+        "sub": [
+          {
+            "h": "2.1 Personopplysninger",
+            "important": "<strong>Vi samler ikke inn noen personidentifiserende opplysninger.</strong> Appen har ingen egen konto, ingen registrering og ingen chat. Vi ber aldri om navn, e-postadresse, telefonnummer eller posisjon, og vi driver ingen server som kan motta dem."
+          },
+          {
+            "h": "2.2 Data lagret på enheten din",
+            "p": [
+              "Appen lagrer én liten oppføring i enhetens standard app-private lagring:"
+            ],
+            "ul": [
+              "Kampanjefremgang: høyeste opplåste nivå, nivået som sist ble spilt, og stjernerangeringen for hvert fullførte nivå",
+              "Myntsaldoen din, hintsaldoen din og tellerne bak utmerkelsene - brukte hint, brukte angrehandlinger, rene fullføringer, raske fullføringer og din beste rekke med rene fullføringer",
+              "Hvilke utmerkelser du har hentet, og hvilke øyer du har åpnet",
+              "Innstillinger: grensesnittspråk, scenetema, musikk, lydeffekter, vibrasjon, varsler, oppløsning og bildefrekvens",
+              "Flagg som registrerer at du fullførte opplæringen, og om annonser er fjernet"
+            ],
+            "after": "Hvis du avinstallerer Appen eller tømmer lagringen dens, slettes denne lokale kopien."
+          },
+          {
+            "h": "2.3 Skylagring og plattformtjenester",
+            "p": [
+              "Hvis du er logget på <strong>Google Play Spill</strong> på Android, eller <strong>Game Center og iCloud</strong> på iOS, lagrer Appen en kopi av den samme oppføringen i plattformkontoen din, slik at fremgangen din overlever hvis du mister eller bytter enhet. Kopien lagres av Google eller Apple under din egen konto, ikke av oss. Vi kan ikke lese den, og vi får ikke beskjed om at du har en.",
+              "Appen rapporterer også to ting til disse tjenestene når du er logget på: totalt antall stjerner, for resultatlisten, og hvilke prestasjoner du har oppnådd. Ingenting annet sendes. Pålogging er valgfritt, og hele spillet kan spilles uten det. Logg av i Google Play Spill- eller Game Center-appen, så slutter Appen å sende noe."
+            ]
+          },
+          {
+            "h": "2.4 Det Appen ikke gjør",
+            "ul": [
+              "<strong>Ingen annonser.</strong> Denne versjonen viser ingen bannerannonser, mellomliggende annonser eller belønnede annonser, og ingen annonserings-SDK er kompilert inn i den.",
+              "<strong>Ingen analyse, telemetri eller krasjrapportering.</strong> Vi samler ikke inn bruksstatistikk av noe slag.",
+              "<strong>Ingen tilgang til bilder, kontakter, kamera, mikrofon, filer eller posisjon.</strong>",
+              "<strong>Ingen sporing på tvers av apper eller nettsteder</strong>, og ingen annonserings-ID leses."
+            ]
+          },
+          {
+            "h": "2.5 Tillatelser Appen ber om",
+            "ul": [
+              "<strong>Vibrasjon</strong> (<code>android.permission.VIBRATE</code>) - korte trykk med haptisk tilbakemelding når en bil klikker på plass, når et trekk er blokkert, og når du fullfører et nivå. Slå det av i Innstillinger, så slutter Appen å vibrere.",
+              "<strong>Internett</strong> (<code>android.permission.INTERNET</code>) - brukes bare av pålogging til Google Play Spill, skylagring, resultatlisten og Google Play-fakturering når du kjøper noe. Selve spillet trenger ingen tilkobling: alle nivåer er inkludert i nedlastingen."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "3. Hvordan informasjon brukes",
+        "p": [
+          "Den lagrede oppføringen finnes for ett formål: at spillet kan huske hvor du var, og hvordan du liker å spille. Den aggregeres ikke, profileres ikke og selges ikke."
+        ]
+      },
+      {
+        "h": "4. Tredjepartstjenester",
+        "p": [
+          "Appen bruker følgende tjenester. Hver av dem håndterer dataene dine under sin egen personvernerklæring, og hver av dem er valgfri, bortsett fra butikken du installerte fra:"
+        ],
+        "ul": [
+          "<strong>Google Play</strong> - nedlasting, oppdatering, refusjon og, på Android, kjøp i appen: <a href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noopener\">https://policies.google.com/privacy</a>",
+          "<strong>Google Play Spill-tjenester</strong> (Android) - valgfri pålogging, prestasjoner, resultatliste og skylagring, under den samme personvernerklæringen fra Google",
+          "<strong>Apple App Store, Game Center og iCloud</strong> (iOS) - nedlasting, kjøp i appen, valgfri pålogging, prestasjoner, resultatliste og skylagring: <a href=\"https://www.apple.com/legal/privacy/\" target=\"_blank\" rel=\"noopener\">https://www.apple.com/legal/privacy/</a>"
+        ],
+        "after": "Appen er bygget med Unity-motoren. Unitys kjøretid er kompilert inn i Appen. Ingen Unity-analysepakke eller annonseringspakke er inkludert i denne versjonen."
+      },
+      {
+        "h": "5. Kjøp",
+        "p": [
+          "Myntpakker og opplåsing uten annonser selges gjennom Google Play-fakturering på Android og App Store på iOS. Disse butikkene behandler betalingen og forteller Appen bare om et kjøp lyktes. <strong>Vi ser eller lagrer aldri kortet ditt, adressen din eller andre betalingsopplysninger.</strong> Refusjoner håndteres av butikken du kjøpte fra."
+        ]
+      },
+      {
+        "h": "6. Datadeling",
+        "p": [
+          "Vi selger, leier ikke ut og deler ikke dataene dine. Vi mottar ingenting å dele: de eneste kopiene som forlater enheten din, går til din egen Google- eller Apple-konto."
+        ]
+      },
+      {
+        "h": "7. Valgene dine",
+        "ul": [
+          "<strong>Spill uten å logge på:</strong> avslå Google Play Spill eller Game Center, så sendes ingenting noe sted.",
+          "<strong>Slett skykopien:</strong> fjern Appens lagrede spill i Google Play Spill-appen, eller slett iCloud-dataene dens i iOS-innstillingene.",
+          "<strong>Slett alt lokalt:</strong> tøm Appens lagring, eller avinstaller den.",
+          "<strong>Tilbakestill fremgang i spillet:</strong> Innstillinger inneholder en tilbakestilling som sletter lagringen din.",
+          "<strong>Slå av vibrasjon, musikk eller lyd:</strong> Innstillinger, når som helst."
+        ]
+      },
+      {
+        "h": "8. Barns personvern",
+        "p": [
+          "Appen er familievennlig. Den har ingen chat, ikke noe brukergenerert innhold og ingen annonser, og den samler ikke bevisst inn personopplysninger fra noen, inkludert barn under 13 år. Pålogging til Google Play Spill og Game Center styres av plattformkontoen og av eventuelle foreldrekontroller som er satt på den. Hvis du mener at et barn har gitt personopplysninger gjennom Appen, ber vi deg kontakte oss."
+        ]
+      },
+      {
+        "h": "9. Datasikkerhet",
+        "ul": [
+          "Fremgang og innstillinger lagres i enhetens standard app-private lagring, som andre apper ikke kan lese.",
+          "Skykopien beskyttes av Google- eller Apple-kontoen din og dens egen sikkerhet.",
+          "Vi driver ingen servere, så det finnes ingen konto for deg hos oss som vi kan miste, og ingen database hos oss som kan bli utsatt for datainnbrudd."
+        ]
+      },
+      {
+        "h": "10. Endringer i denne erklæringen",
+        "p": [
+          "Endringer publiseres på denne siden med en ny \"Sist oppdatert\"-dato. Hvis en fremtidig versjon samler inn noe denne siden ikke beskriver, oppdateres siden <em>før</em> den versjonen sendes ut. Hvis du fortsetter å bruke Appen etter en endring, betyr det at du godtar den reviderte erklæringen."
+        ]
+      },
+      {
+        "h": "11. Kontakt oss",
+        "contact": true
+      },
+      {
+        "h": "12. Samsvar",
+        "p": [
+          "Denne personvernerklæringen er ment å overholde Google Plays retningslinjer, Apple App Store-retningslinjene, personvernforordningen (GDPR), California Consumer Privacy Act (CCPA) og Children's Online Privacy Protection Act (COPPA)."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Vilkår for bruk",
+    "summary_label": "Kort fortalt:",
+    "summary": "Spillet er gratis å laste ned og ditt å spille på dine egne enheter. Ikke kopier det, videreselg det eller demonter det. Det leveres som det er. Mynter og hint er underholdningsfunksjoner uten pengeverdi, og alt du kjøper, kjøpes fra Google eller Apple, ikke fra oss.",
+    "sections": [
+      {
+        "h": "1. Aksept",
+        "p": [
+          "Ved å laste ned, installere eller spille <strong>Let the car out! 3D puzzle</strong> (\"Appen\"), publisert av HAB Labs, samtykker du i disse vilkårene for bruk. Hvis du ikke samtykker, må du avinstallere Appen."
+        ]
+      },
+      {
+        "h": "2. Lisens",
+        "p": [
+          "Vi gir deg en personlig, ikke-eksklusiv, ikke-overførbar og tilbakekallelig lisens til å installere og spille Appen på enheter du eier eller kontrollerer, for personlig, ikke-kommersiell bruk."
+        ]
+      },
+      {
+        "h": "3. Hva du ikke kan gjøre",
+        "ul": [
+          "Kopiere, selge, leie ut, viderelisensiere eller videredistribuere Appen eller nivåene, grafikken, lydene eller oversettelsene i den",
+          "Foreta omvendt utvikling, dekompilere eller demontere Appen, unntatt der denne retten ikke kan utelukkes ved lov",
+          "Endre Appen eller lagrede data for å oppnå en fordel, og deretter fremstille resultatet som ekte spilling, inkludert på resultatlisten",
+          "Bruke Appen til noe ulovlig"
+        ]
+      },
+      {
+        "h": "4. Virtuelle gjenstander",
+        "p": [
+          "Mynter, hint, stjerner og utmerkelser er underholdningsfunksjoner inne i Appen. De har ingen pengeverdi, kan ikke veksles inn i penger eller varer, og kan ikke overføres til en annen person. De flyttes mellom dine egne enheter bare gjennom skylagringen som er beskrevet i personvernerklæringen, og de går tapt hvis du sletter både den lokale lagringen og den skykopien."
+        ]
+      },
+      {
+        "h": "5. Kjøp",
+        "p": [
+          "Myntpakker og opplåsing uten annonser selges av Google Play på Android og av App Store på iOS, under <a href=\"https://play.google.com/about/play-terms/\" target=\"_blank\" rel=\"noopener\">Google Plays vilkår for bruk</a> eller <a href=\"https://www.apple.com/legal/internet-services/itunes/\" target=\"_blank\" rel=\"noopener\">Apples vilkår for medietjenester</a>. Disse butikkene tar betalingen og håndterer refusjoner. Vi ser eller lagrer aldri betalingsopplysningene dine. Kjøp forbrukes inne i Appen og, bortsett fra opplåsing uten annonser, gjenopprettes de ikke automatisk."
+        ]
+      },
+      {
+        "h": "6. Plattformtjenester",
+        "p": [
+          "Det er valgfritt å logge på Google Play Spill eller Game Center. Disse tjenestene leveres av Google og Apple under deres egne vilkår, og vi kan ikke gjenopprette, overføre eller reparere en konto som holdes av dem. Oppføringer på resultatlisten som er oppnådd ved å endre Appen, kan bli fjernet."
+        ]
+      },
+      {
+        "h": "7. Dataene dine",
+        "p": [
+          "Se <a href=\"privacy-policy.html\">personvernerklæringen</a> for hva Appen lagrer og hvor."
+        ]
+      },
+      {
+        "h": "8. Immaterielle rettigheter",
+        "p": [
+          "Appen, inkludert kode, nivådesign, grafikk og lyder, eies av HAB Labs og er beskyttet av opphavsrett. Disse vilkårene gir deg ikke eierskap til den."
+        ]
+      },
+      {
+        "h": "9. Oppdateringer og tilgjengelighet",
+        "p": [
+          "Vi kan oppdatere, endre eller avvikle Appen eller noen av funksjonene i den når som helst, uten varsel. Vi garanterer ikke at Appen vil forbli tilgjengelig i en bestemt butikk eller kjøre på en bestemt enhet."
+        ]
+      },
+      {
+        "h": "10. Ansvarsfraskrivelse for garantier",
+        "p": [
+          "Appen leveres \"som den er\" og \"som tilgjengelig\", uten noen form for garanti, uttrykkelig eller underforstått, inkludert salgbarhet, egnethet for et bestemt formål og ikke-krenkelse av rettigheter. Vi garanterer ikke at Appen vil være uavbrutt eller fri for mangler."
+        ]
+      },
+      {
+        "h": "11. Ansvarsbegrensning",
+        "p": [
+          "I den grad loven tillater det, er HAB Labs ikke ansvarlig for noen indirekte, tilfeldige eller følgeskader, eller for tap av lagret fremgang, som oppstår fra din bruk av Appen. Ingenting i disse vilkårene begrenser ansvar som ikke kan begrenses ved lov."
+        ]
+      },
+      {
+        "h": "12. Barn",
+        "p": [
+          "Appen passer for alle aldre. Hvis du er mindreårig, ber vi deg gå gjennom disse vilkårene med en forelder eller verge, og spørre dem før du foretar kjøp."
+        ]
+      },
+      {
+        "h": "13. Endringer i disse vilkårene",
+        "p": [
+          "Vi kan revidere disse vilkårene. Den reviderte versjonen publiseres på denne siden med en ny \"Sist oppdatert\"-dato, og hvis du fortsetter å bruke Appen etter det, betyr det at du godtar den."
+        ]
+      },
+      {
+        "h": "14. Kontakt",
+        "contact": true
+      }
+    ]
+  },
+  "support": {
+    "title": "Kundestøtte",
+    "summary_label": "Trenger du hjelp?",
+    "summary": "Skriv til oss, så svarer vi. Det står én person bak denne appen, så et svar tar vanligvis en dag eller to i stedet for en time.",
+    "sections": [
+      {
+        "h": "1. Fremgangen min forsvant",
+        "p": [
+          "Fremgang lagres på enheten. Hvis du installerte appen på nytt, byttet telefon eller tømte lagringen dens, er den lokale kopien borte.",
+          "Den kan bare gjenopprettes hvis du tidligere var logget på Google Play Spill (Android) eller Game Center og iCloud (iOS), og skylagringen hadde kjørt minst én gang. Logg på med den samme kontoen og åpne appen. Den henter den lagrede kopien og slår den sammen med det som finnes på enheten, og beholder den beste av de to for hvert nivå."
+        ]
+      },
+      {
+        "h": "2. Påloggingen fullføres ikke",
+        "p": [
+          "På Android er dette nesten alltid Google Play Spill-appen heller enn spillet: åpne den, kontroller at du er logget på der, og sørg for at kontoen ikke er begrenset av en familiegruppe.",
+          "Hvis spillet ble installert fra en annen kilde enn Google Play, kan pålogging ikke fungere i det hele tatt - Play Spill kontrollerer signaturen til den installerte appen."
+        ]
+      },
+      {
+        "h": "3. Telefonen vibrerer ikke",
+        "p": [
+          "Kontroller Innstillinger inne i spillet, og deretter telefonens egen vibrasjonsinnstilling. Noen telefoner deaktiverer også appvibrasjon i batterisparemodus.",
+          "Nettbrett og noen eldre telefoner har ingen vibrasjonsmotor og kan ikke vibrere i det hele tatt."
+        ]
+      },
+      {
+        "h": "4. Et kjøp kom ikke frem",
+        "p": [
+          "Kjøp leveres av butikken. Åpne appen på nytt mens du er tilkoblet: butikken sender på nytt alt den har tatt betalt for, men ennå ikke levert, og appen gir det med en gang.",
+          "Hvis det fortsatt ikke har kommet etter noen minutter, send oss ordrenummeret fra kvitteringen din fra Google Play eller App Store, så ordner vi det. Refusjoner må gå gjennom butikken du kjøpte fra - vi kan ikke utstede dem."
+        ]
+      },
+      {
+        "h": "5. Et nivå virker umulig",
+        "p": [
+          "Hvert nivå i spillet er løst av maskin før utgivelse, så det finnes alltid en vei ut. Hintknappen viser neste trekk i den korteste kjente løsningen. Hvis du mener at et nivå virkelig ikke kan fullføres, fortell oss nummeret på det, så sjekker vi det."
+        ]
+      },
+      {
+        "h": "6. Slette dataene dine",
+        "p": [
+          "Tøm appens lagring eller avinstaller den for å fjerne den lokale lagringen. For å fjerne skykopien sletter du det lagrede spillet i Google Play Spill-appen, eller appens iCloud-data i iOS-innstillingene."
+        ]
+      },
+      {
+        "h": "7. Kontakt",
+        "contact": true
+      }
+    ]
+  }
+}

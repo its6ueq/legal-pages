@@ -1,0 +1,295 @@
+{
+  "_comment": "Source text for every Let the car out! legal page. The HTML files are generated from this by build.mjs, and the translations are generated from this by translate.mjs. Edit here, never in the generated HTML.",
+  "meta": {
+    "app": "Let the car out! 3D puzzle",
+    "developer": "HAB Labs",
+    "email": "shawnfrest2k5@gmail.com",
+    "package": "com.hablabs.letthecarout",
+    "updated": "17 Ogos 2026"
+  },
+  "ui": {
+    "back_labs": "Kembali ke HAB Labs",
+    "back_home": "Laman Utama Let the car out!",
+    "updated_label": "Kemas kini terakhir:",
+    "nav_privacy": "Dasar Privasi",
+    "nav_terms": "Syarat Penggunaan",
+    "nav_support": "Sokongan"
+  },
+  "index": {
+    "title": "Let the car out! - Halaman Undang-undang",
+    "heading": "Let the car out! 3D puzzle",
+    "sub": "Halaman rasmi untuk apl ini - luncurkan kereta ke tepi dan buka jalan keluar, merentas lebih daripada 19,000 tahap luar talian."
+  },
+  "privacy": {
+    "title": "Dasar Privasi",
+    "summary_label": "Ringkasan ringkas:",
+    "summary": "Let the car out! ialah teka-teki kereta meluncur. Setiap tahap berada di dalam apl, jadi anda boleh bermain keseluruhan permainan tanpa sambungan langsung. Kemajuan anda disimpan pada peranti anda. Jika anda log masuk ke Google Play Games atau Game Center, satu salinan kemajuan itu juga disimpan dalam akaun platform anda supaya ia kekal apabila anda mendapat telefon baharu. Versi ini tidak memaparkan iklan dan tidak mengandungi analitis atau pelaporan ranap. Kami tidak menjalankan pelayan sendiri dan tidak pernah menerima nama, e-mel, atau lokasi anda.",
+    "sections": [
+      {
+        "h": "1. Pengenalan",
+        "p": [
+          "Dasar Privasi ini menerangkan cara aplikasi mudah alih <strong>Let the car out! 3D puzzle</strong> (pakej <code>com.hablabs.letthecarout</code>, \"Apl\") mengendalikan maklumat. Apl ini ialah teka-teki yang membolehkan anda meluncurkan kereta keluar dari tempat letak kereta yang sesak. Dengan menggunakan Apl, anda bersetuju dengan amalan yang diterangkan di sini."
+        ]
+      },
+      {
+        "h": "2. Maklumat yang Kami Kumpulkan",
+        "sub": [
+          {
+            "h": "2.1 Maklumat Peribadi",
+            "important": "<strong>Kami tidak mengumpulkan sebarang maklumat yang boleh mengenal pasti peribadi.</strong> Apl ini tidak mempunyai akaun sendiri, tiada pendaftaran, dan tiada sembang. Kami tidak pernah meminta nama, alamat e-mel, nombor telefon, atau lokasi anda, dan kami tidak mengendalikan sebarang pelayan yang boleh menerimanya."
+          },
+          {
+            "h": "2.2 Data yang Disimpan pada Peranti Anda",
+            "p": [
+              "Apl menyimpan satu rekod kecil dalam storan peribadi apl standard peranti:"
+            ],
+            "ul": [
+              "Kemajuan kempen: tahap tertinggi yang dibuka, tahap terakhir yang dimainkan, dan penarafan bintang bagi setiap tahap yang diselesaikan",
+              "Baki syiling anda, baki petunjuk, dan pembilang di sebalik anugerah - petunjuk digunakan, undur digunakan, penyelesaian bersih, penyelesaian pantas, dan rentetan penyelesaian bersih terbaik anda",
+              "Anugerah yang telah anda tuntut dan pulau yang telah anda buka",
+              "Tetapan: bahasa antara muka, tema adegan, muzik, kesan bunyi, getaran, pemberitahuan, resolusi, dan kadar bingkai",
+              "Bendera yang merekodkan bahawa anda telah menamatkan tutorial dan sama ada iklan telah dibuang"
+            ],
+            "after": "Menyahpasang Apl, atau mengosongkan storannya, memadamkan salinan setempat ini."
+          },
+          {
+            "h": "2.3 Simpanan Awan dan Perkhidmatan Platform",
+            "p": [
+              "Jika anda log masuk ke <strong>Google Play Games</strong> pada Android, atau <strong>Game Center dan iCloud</strong> pada iOS, Apl menyimpan satu salinan rekod yang sama dalam akaun platform anda supaya kemajuan anda kekal jika peranti hilang atau diganti. Salinan itu dipegang oleh Google atau Apple di bawah akaun anda sendiri, bukan oleh kami. Kami tidak boleh membacanya, dan kami tidak diberitahu bahawa anda mempunyainya.",
+              "Apl juga melaporkan dua perkara kepada perkhidmatan tersebut apabila anda log masuk: jumlah bintang anda, untuk papan pendahulu, dan pencapaian yang telah anda peroleh. Tiada perkara lain dihantar. Log masuk adalah pilihan dan keseluruhan permainan boleh dimainkan tanpanya. Log keluar dalam apl Google Play Games atau Game Center dan Apl berhenti menghantar apa-apa."
+            ]
+          },
+          {
+            "h": "2.4 Perkara yang Tidak Dilakukan oleh Apl",
+            "ul": [
+              "<strong>Tiada iklan.</strong> Versi ini tidak menyediakan iklan sepanduk, celahan, atau berhadiah, dan tiada SDK pengiklanan dikompil ke dalamnya.",
+              "<strong>Tiada analitis, telemetri, atau pelaporan ranap.</strong> Kami tidak mengumpulkan sebarang jenis statistik penggunaan.",
+              "<strong>Tiada akses kepada foto, kenalan, kamera, mikrofon, fail, atau lokasi.</strong>",
+              "<strong>Tiada penjejakan merentas apl atau laman web</strong>, dan tiada pengecam pengiklanan dibaca."
+            ]
+          },
+          {
+            "h": "2.5 Kebenaran yang Diminta oleh Apl",
+            "ul": [
+              "<strong>Getar</strong> (<code>android.permission.VIBRATE</code>) - ketikan pendek maklum balas haptik apabila kereta masuk tepat ke tempatnya, apabila gerakan disekat, dan apabila anda menyelesaikan tahap. Matikan dalam Tetapan dan Apl berhenti bergetar.",
+              "<strong>Internet</strong> (<code>android.permission.INTERNET</code>) - digunakan hanya oleh log masuk Google Play Games, simpanan awan, papan pendahulu, dan pengebilan Google Play apabila anda membeli sesuatu. Permainan itu sendiri tidak memerlukan sambungan: setiap tahap disertakan dalam muat turun."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "3. Cara Maklumat Digunakan",
+        "p": [
+          "Rekod yang disimpan wujud untuk satu tujuan: supaya permainan boleh mengingati tempat anda berhenti dan cara anda suka bermain. Ia tidak digabungkan, diprofilkan, atau dijual."
+        ]
+      },
+      {
+        "h": "4. Perkhidmatan Pihak Ketiga",
+        "p": [
+          "Apl menggunakan perkhidmatan berikut. Setiap satu mengendalikan data anda di bawah dasar privasinya sendiri, dan setiap satu adalah pilihan kecuali kedai tempat anda memasangnya:"
+        ],
+        "ul": [
+          "<strong>Google Play</strong> - muat turun, kemas kini, bayaran balik, dan, pada Android, pembelian dalam apl: <a href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noopener\">https://policies.google.com/privacy</a>",
+          "<strong>Perkhidmatan Google Play Games</strong> (Android) - log masuk pilihan, pencapaian, papan pendahulu, dan simpanan awan, di bawah dasar privasi Google yang sama",
+          "<strong>Apple App Store, Game Center dan iCloud</strong> (iOS) - muat turun, pembelian dalam apl, log masuk pilihan, pencapaian, papan pendahulu, dan simpanan awan: <a href=\"https://www.apple.com/legal/privacy/\" target=\"_blank\" rel=\"noopener\">https://www.apple.com/legal/privacy/</a>"
+        ],
+        "after": "Apl dibina dengan enjin Unity. Masa jalan Unity dikompil ke dalam Apl; tiada pakej analitis atau pengiklanan Unity disertakan dalam binaan ini."
+      },
+      {
+        "h": "5. Pembelian",
+        "p": [
+          "Pek syiling dan buka kunci tanpa iklan dijual melalui pengebilan Google Play pada Android dan App Store pada iOS. Kedai tersebut memproses pembayaran dan hanya memberitahu Apl sama ada pembelian berjaya. <strong>Kami tidak pernah melihat atau menyimpan kad, alamat, atau sebarang butiran pembayaran anda yang lain.</strong> Bayaran balik dikendalikan oleh kedai tempat anda membeli."
+        ]
+      },
+      {
+        "h": "6. Perkongsian Data",
+        "p": [
+          "Kami tidak menjual, menyewa, atau berkongsi data anda. Kami tidak menerima apa-apa untuk dikongsi: satu-satunya salinan yang meninggalkan peranti anda pergi ke akaun Google atau Apple anda sendiri."
+        ]
+      },
+      {
+        "h": "7. Pilihan Anda",
+        "ul": [
+          "<strong>Bermain tanpa log masuk:</strong> tolak Google Play Games atau Game Center dan tiada apa-apa dihantar ke mana-mana.",
+          "<strong>Padam salinan awan:</strong> buang permainan tersimpan Apl dalam apl Google Play Games, atau padam data iCloud-nya dalam Tetapan iOS.",
+          "<strong>Padam semuanya secara setempat:</strong> kosongkan storan Apl, atau nyahpasangnya.",
+          "<strong>Tetapkan semula kemajuan dalam permainan:</strong> Tetapan mengandungi tetapan semula yang mengosongkan simpanan anda.",
+          "<strong>Matikan getaran, muzik, atau bunyi:</strong> Tetapan, pada bila-bila masa."
+        ]
+      },
+      {
+        "h": "8. Privasi Kanak-kanak",
+        "p": [
+          "Apl ini mesra keluarga. Ia tidak mempunyai sembang, tiada kandungan yang dijana pengguna, dan tiada pengiklanan, dan ia tidak secara sedar mengumpulkan maklumat peribadi daripada sesiapa pun, termasuk kanak-kanak di bawah 13 tahun. Log masuk Google Play Games dan Game Center dikawal oleh akaun platform dan oleh sebarang kawalan ibu bapa yang ditetapkan padanya. Jika anda percaya seorang kanak-kanak telah memberikan maklumat peribadi melalui Apl, sila hubungi kami."
+        ]
+      },
+      {
+        "h": "9. Keselamatan Data",
+        "ul": [
+          "Kemajuan dan tetapan disimpan dalam storan peribadi apl standard peranti, yang tidak boleh dibaca oleh apl lain.",
+          "Salinan awan dilindungi oleh akaun Google atau Apple anda dan keselamatannya sendiri.",
+          "Kami tidak mengendalikan pelayan, jadi tiada akaun anda untuk kami hilangkan dan tiada pangkalan data kami untuk dicerobohi."
+        ]
+      },
+      {
+        "h": "10. Perubahan kepada Dasar Ini",
+        "p": [
+          "Perubahan disiarkan pada halaman ini dengan tarikh \"Kemas kini terakhir\" yang baharu. Jika versi akan datang mengumpulkan sesuatu yang tidak diterangkan oleh halaman ini, halaman ini dikemas kini <em>sebelum</em> versi tersebut dikeluarkan. Terus menggunakan Apl selepas perubahan bermaksud anda menerima dasar yang disemak semula."
+        ]
+      },
+      {
+        "h": "11. Hubungi Kami",
+        "contact": true
+      },
+      {
+        "h": "12. Pematuhan",
+        "p": [
+          "Dasar Privasi ini bertujuan untuk mematuhi dasar Google Play, garis panduan Apple App Store, Peraturan Perlindungan Data Umum (GDPR), Akta Privasi Pengguna California (CCPA), dan Akta Perlindungan Privasi Dalam Talian Kanak-kanak (COPPA)."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Syarat Penggunaan",
+    "summary_label": "Ringkasnya:",
+    "summary": "Permainan ini percuma untuk dimuat turun dan milik anda untuk dimainkan pada peranti anda sendiri. Jangan salin, jual semula, atau bongkarnya. Ia disediakan sebagaimana adanya. Syiling dan petunjuk ialah ciri hiburan tanpa nilai tunai, dan apa-apa yang anda beli dibeli daripada Google atau Apple, bukan daripada kami.",
+    "sections": [
+      {
+        "h": "1. Penerimaan",
+        "p": [
+          "Dengan memuat turun, memasang, atau bermain <strong>Let the car out! 3D puzzle</strong> (\"Apl\"), yang diterbitkan oleh HAB Labs, anda bersetuju dengan Syarat Penggunaan ini. Jika anda tidak bersetuju, nyahpasang Apl."
+        ]
+      },
+      {
+        "h": "2. Lesen",
+        "p": [
+          "Kami memberi anda lesen peribadi, bukan eksklusif, tidak boleh dipindah milik, boleh dibatalkan untuk memasang dan bermain Apl pada peranti yang anda miliki atau kawal, untuk kegunaan peribadi, bukan komersial."
+        ]
+      },
+      {
+        "h": "3. Perkara yang Anda Tidak Boleh Lakukan",
+        "ul": [
+          "Menyalin, menjual, menyewa, memberi sublesen, atau mengedarkan semula Apl atau tahap, karya seni, bunyi, atau terjemahannya",
+          "Melakukan kejuruteraan songsang, menyahkompil, atau menyahhimpun Apl, kecuali jika hak tersebut tidak boleh dikecualikan oleh undang-undang",
+          "Mengubah suai Apl atau data tersimpannya untuk memperoleh kelebihan, dan kemudian mempersembahkan hasilnya sebagai permainan tulen, termasuk pada papan pendahulu",
+          "Menggunakan Apl untuk apa-apa yang menyalahi undang-undang"
+        ]
+      },
+      {
+        "h": "4. Item Maya",
+        "p": [
+          "Syiling, petunjuk, bintang, dan anugerah ialah ciri hiburan di dalam Apl. Ia tidak mempunyai nilai wang, tidak boleh ditukar dengan wang atau barangan, dan tidak boleh dipindahkan kepada orang lain. Ia berpindah antara peranti anda sendiri hanya melalui simpanan awan yang diterangkan dalam Dasar Privasi, dan ia hilang jika anda memadam kedua-dua simpanan setempat dan salinan awan itu."
+        ]
+      },
+      {
+        "h": "5. Pembelian",
+        "p": [
+          "Pek syiling dan buka kunci tanpa iklan dijual oleh Google Play pada Android dan oleh App Store pada iOS, di bawah <a href=\"https://play.google.com/about/play-terms/\" target=\"_blank\" rel=\"noopener\">Syarat Perkhidmatan Google Play</a> atau <a href=\"https://www.apple.com/legal/internet-services/itunes/\" target=\"_blank\" rel=\"noopener\">Syarat Perkhidmatan Media</a> Apple. Kedai tersebut mengambil pembayaran dan mengendalikan bayaran balik; kami tidak pernah melihat atau menyimpan butiran pembayaran anda. Pembelian digunakan di dalam Apl dan, selain buka kunci tanpa iklan, tidak dipulihkan secara automatik."
+        ]
+      },
+      {
+        "h": "6. Perkhidmatan Platform",
+        "p": [
+          "Log masuk ke Google Play Games atau Game Center adalah pilihan. Perkhidmatan tersebut disediakan oleh Google dan Apple di bawah syarat mereka sendiri, dan kami tidak boleh memulihkan, memindahkan, atau membaiki akaun yang dipegang oleh mereka. Entri papan pendahulu yang diperoleh dengan mengubah suai Apl boleh dibuang."
+        ]
+      },
+      {
+        "h": "7. Data Anda",
+        "p": [
+          "Lihat <a href=\"privacy-policy.html\">Dasar Privasi</a> untuk mengetahui perkara yang disimpan oleh Apl dan di mana."
+        ]
+      },
+      {
+        "h": "8. Harta Intelek",
+        "p": [
+          "Apl, termasuk kod, reka bentuk tahap, karya seni, dan bunyinya, dimiliki oleh HAB Labs dan dilindungi oleh hak cipta. Syarat ini tidak memberi anda sebarang pemilikan terhadapnya."
+        ]
+      },
+      {
+        "h": "9. Kemas Kini dan Ketersediaan",
+        "p": [
+          "Kami boleh mengemas kini, mengubah, atau menghentikan Apl atau mana-mana cirinya pada bila-bila masa, tanpa notis. Kami tidak menjamin bahawa Apl akan terus tersedia di mana-mana kedai tertentu atau berjalan pada mana-mana peranti tertentu."
+        ]
+      },
+      {
+        "h": "10. Penafian Waranti",
+        "p": [
+          "Apl disediakan \"sebagaimana adanya\" dan \"sebagaimana tersedia\", tanpa sebarang jenis waranti, nyata atau tersirat, termasuk kebolehdagangan, kesesuaian untuk tujuan tertentu, dan tiada pelanggaran. Kami tidak menjamin bahawa Apl akan berjalan tanpa gangguan atau bebas daripada kecacatan."
+        ]
+      },
+      {
+        "h": "11. Had Liabiliti",
+        "p": [
+          "Setakat sepenuhnya yang dibenarkan oleh undang-undang, HAB Labs tidak bertanggungjawab bagi sebarang kerosakan tidak langsung, sampingan, atau berbangkit, atau bagi sebarang kehilangan kemajuan tersimpan, yang timbul daripada penggunaan Apl oleh anda. Tiada apa-apa dalam Syarat ini mengehadkan liabiliti yang tidak boleh dihadkan oleh undang-undang."
+        ]
+      },
+      {
+        "h": "12. Kanak-kanak",
+        "p": [
+          "Apl ini sesuai untuk semua peringkat umur. Jika anda bawah umur, sila semak Syarat ini dengan ibu bapa atau penjaga, dan minta kebenaran mereka sebelum membuat sebarang pembelian."
+        ]
+      },
+      {
+        "h": "13. Perubahan kepada Syarat Ini",
+        "p": [
+          "Kami boleh menyemak semula Syarat ini. Versi yang disemak semula disiarkan pada halaman ini dengan tarikh \"Kemas kini terakhir\" yang baharu, dan terus menggunakan Apl selepas itu bermaksud anda menerimanya."
+        ]
+      },
+      {
+        "h": "14. Hubungan",
+        "contact": true
+      }
+    ]
+  },
+  "support": {
+    "title": "Sokongan",
+    "summary_label": "Perlukan bantuan?",
+    "summary": "Tulis kepada kami dan kami akan menjawab. Hanya ada seorang di sebalik apl ini, jadi balasan biasanya mengambil masa sehari atau dua hari, bukan sejam.",
+    "sections": [
+      {
+        "h": "1. Kemajuan saya hilang",
+        "p": [
+          "Kemajuan disimpan pada peranti. Jika anda memasang semula apl, menukar telefon, atau mengosongkan storannya, salinan setempat telah hilang.",
+          "Ia hanya boleh dipulihkan jika anda telah log masuk ke Google Play Games (Android) atau Game Center dan iCloud (iOS) sebelum ini, dan simpanan awan telah berjalan sekurang-kurangnya sekali. Log masuk dengan akaun yang sama dan buka apl; apl menarik salinan tersimpan dan menggabungkannya dengan apa-apa yang ada pada peranti, mengekalkan yang lebih baik antara kedua-duanya untuk setiap tahap."
+        ]
+      },
+      {
+        "h": "2. Log masuk tidak selesai",
+        "p": [
+          "Pada Android ini hampir selalu berkaitan dengan apl Google Play Games dan bukannya permainan: buka apl itu, semak bahawa anda telah log masuk di sana, dan pastikan akaun tersebut bukan akaun yang dihadkan oleh kumpulan keluarga.",
+          "Jika permainan dipasang daripada sumber selain Google Play, log masuk tidak boleh berfungsi langsung - Play Games menyemak tandatangan apl yang dipasang."
+        ]
+      },
+      {
+        "h": "3. Telefon tidak bergetar",
+        "p": [
+          "Semak Tetapan di dalam permainan, kemudian tetapan getaran telefon anda sendiri. Sesetengah telefon juga menyahdayakan getaran apl dalam mod penjimat bateri.",
+          "Tablet dan sesetengah telefon lama tidak mempunyai motor getaran dan tidak boleh bergetar langsung."
+        ]
+      },
+      {
+        "h": "4. Pembelian tidak sampai",
+        "p": [
+          "Pembelian dihantar oleh kedai. Buka semula apl semasa bersambung: kedai menghantar semula apa-apa yang telah dibayar tetapi belum dihantar, dan apl memberikannya serta-merta.",
+          "Jika ia masih belum sampai selepas beberapa minit, hantarkan kepada kami nombor pesanan daripada resit Google Play atau App Store anda dan kami akan menyelesaikannya. Bayaran balik perlu melalui kedai tempat anda membeli - kami tidak boleh mengeluarkannya."
+        ]
+      },
+      {
+        "h": "5. Tahap kelihatan mustahil",
+        "p": [
+          "Setiap tahap dalam permainan telah diselesaikan oleh mesin sebelum dikeluarkan, jadi sentiasa ada jalan keluar. Butang petunjuk menunjukkan gerakan seterusnya dalam penyelesaian terpendek yang diketahui. Jika anda percaya satu tahap benar-benar tidak boleh diselesaikan, beritahu kami nombornya dan kami akan menyemak tahap itu."
+        ]
+      },
+      {
+        "h": "6. Memadam data anda",
+        "p": [
+          "Kosongkan storan apl atau nyahpasangnya untuk membuang simpanan setempat. Untuk membuang salinan awan, padam permainan tersimpan dalam apl Google Play Games, atau data iCloud apl dalam Tetapan iOS."
+        ]
+      },
+      {
+        "h": "7. Hubungi",
+        "contact": true
+      }
+    ]
+  }
+}

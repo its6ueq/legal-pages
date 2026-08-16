@@ -1,0 +1,295 @@
+{
+  "_comment": "Source text for every Let the car out! legal page. The HTML files are generated from this by build.mjs, and the translations are generated from this by translate.mjs. Edit here, never in the generated HTML.",
+  "meta": {
+    "app": "Let the car out! 3D puzzle",
+    "developer": "HAB Labs",
+    "email": "shawnfrest2k5@gmail.com",
+    "package": "com.hablabs.letthecarout",
+    "updated": "17 Agosti 2026"
+  },
+  "ui": {
+    "back_labs": "Rudi kwa HAB Labs",
+    "back_home": "Nyumbani kwa Let the car out!",
+    "updated_label": "Ilisasishwa mwisho:",
+    "nav_privacy": "Sera ya Faragha",
+    "nav_terms": "Masharti ya Matumizi",
+    "nav_support": "Usaidizi"
+  },
+  "index": {
+    "title": "Let the car out! - Kurasa za Kisheria",
+    "heading": "Let the car out! 3D puzzle",
+    "sub": "Kurasa rasmi za programu - sogeza magari pembeni na ufungue njia ya kutoka, katika zaidi ya viwango 19,000 vya nje ya mtandao."
+  },
+  "privacy": {
+    "title": "Sera ya Faragha",
+    "summary_label": "Muhtasari wa haraka:",
+    "summary": "Let the car out! ni fumbo la magari yanayosogezwa. Kila kiwango kiko ndani ya programu, kwa hivyo unaweza kucheza mchezo wote bila muunganisho kabisa. Maendeleo yako hukaa kwenye kifaa chako. Ukiingia katika Google Play Games au Game Center, nakala ya maendeleo hayo pia huwekwa katika akaunti yako ya mfumo ili yaendelee kuwepo ukipata simu mpya. Toleo hili halionyeshi matangazo na halina uchanganuzi wala uripoti wa hitilafu. Hatutumii seva zetu wenyewe na hatupokei kamwe jina lako, barua pepe yako, au eneo lako.",
+    "sections": [
+      {
+        "h": "1. Utangulizi",
+        "p": [
+          "Sera hii ya Faragha inaeleza jinsi programu ya simu <strong>Let the car out! 3D puzzle</strong> (kifurushi <code>com.hablabs.letthecarout</code>, \"Programu\") inavyoshughulikia taarifa. Programu ni fumbo ambalo unasogeza magari kutoka kwenye maegesho yenye msongamano. Kwa kutumia Programu unakubali taratibu zilizoelezwa hapa."
+        ]
+      },
+      {
+        "h": "2. Taarifa Tunazokusanya",
+        "sub": [
+          {
+            "h": "2.1 Taarifa Binafsi",
+            "important": "<strong>Hatukusanyi taarifa yoyote inayoweza kumtambulisha mtu binafsi.</strong> Programu haina akaunti yake yenyewe, haina usajili, na haina gumzo. Hatuombi kamwe jina lako, anwani yako ya barua pepe, nambari yako ya simu, au eneo lako, na hatuendeshi seva inayoweza kuzipokea."
+          },
+          {
+            "h": "2.2 Data Inayohifadhiwa Kwenye Kifaa Chako",
+            "p": [
+              "Programu huhifadhi rekodi moja ndogo katika hifadhi ya kawaida ya programu iliyo binafsi kwenye kifaa:"
+            ],
+            "ul": [
+              "Maendeleo ya kampeni: kiwango cha juu zaidi kilichofunguliwa, kiwango kilichochezwa mwisho, na ukadiriaji wa nyota wa kila kiwango kilichokamilishwa",
+              "Salio lako la sarafu, salio la vidokezo, na vihesabu vilivyo nyuma ya tuzo - vidokezo vilivyotumika, kurejesha hatua zilizotumika, ushindi safi, ushindi wa haraka, na mfululizo wako bora wa ushindi safi",
+              "Tuzo ulizodai na visiwa ulivyofungua",
+              "Mipangilio: lugha ya kiolesura, mandhari ya eneo, muziki, athari za sauti, mtetemo, arifa, mwonekano, na kasi ya fremu",
+              "Alama zinazorekodi kuwa umemaliza mafunzo na kama matangazo yameondolewa"
+            ],
+            "after": "Kuondoa Programu, au kufuta hifadhi yake, hufuta nakala hii ya ndani."
+          },
+          {
+            "h": "2.3 Hifadhi ya Wingu na Huduma za Mfumo",
+            "p": [
+              "Ikiwa umeingia katika <strong>Google Play Games</strong> kwenye Android, au <strong>Game Center na iCloud</strong> kwenye iOS, Programu huhifadhi nakala ya rekodi hiyo hiyo katika akaunti yako ya mfumo ili maendeleo yako yaendelee kuwepo ukipoteza au kubadilisha kifaa. Nakala hiyo hushikiliwa na Google au Apple chini ya akaunti yako mwenyewe, si na sisi. Hatuwezi kuisoma, na hatuambiwi kuwa unayo.",
+              "Programu pia huripoti vitu viwili kwa huduma hizo ukiwa umeingia: jumla ya nyota zako, kwa ajili ya ubao wa wanaoongoza, na mafanikio uliyopata. Hakuna kingine kinachotumwa. Kuingia ni hiari na mchezo wote unaweza kuchezwa bila kuingia. Toka katika programu ya Google Play Games au Game Center na Programu itaacha kutuma chochote."
+            ]
+          },
+          {
+            "h": "2.4 Mambo Ambayo Programu Haifanyi",
+            "ul": [
+              "<strong>Hakuna matangazo.</strong> Toleo hili halitumii tangazo la bango, tangazo la kati, au tangazo lenye zawadi, na hakuna SDK ya matangazo iliyojumuishwa ndani yake.",
+              "<strong>Hakuna uchanganuzi, telemetria, au uripoti wa hitilafu.</strong> Hatukusanyi takwimu za matumizi za aina yoyote.",
+              "<strong>Hakuna ufikiaji wa picha, anwani, kamera, maikrofoni, faili, au eneo.</strong>",
+              "<strong>Hakuna ufuatiliaji kwenye programu au tovuti nyingine</strong>, na hakuna kitambulisho cha matangazo kinachosomwa."
+            ]
+          },
+          {
+            "h": "2.5 Ruhusa Ambazo Programu Huomba",
+            "ul": [
+              "<strong>Tetemesha</strong> (<code>android.permission.VIBRATE</code>) - miguso mifupi ya mrejesho wa haptiki gari linapoingia mahali pake, hatua inapozuiwa, na unapokamilisha kiwango. Izime katika Mipangilio na Programu itaacha kutetemesha.",
+              "<strong>Intaneti</strong> (<code>android.permission.INTERNET</code>) - hutumiwa tu na kuingia kwa Google Play Games, hifadhi ya wingu, ubao wa wanaoongoza, na malipo ya Google Play unaponunua kitu. Mchezo wenyewe hauhitaji muunganisho: kila kiwango kimejumuishwa kwenye upakuaji."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "3. Jinsi Taarifa Zinavyotumiwa",
+        "p": [
+          "Rekodi iliyohifadhiwa ipo kwa kusudi moja: ili mchezo ukumbuke ulikokuwa na jinsi unavyopenda kucheza. Haijumlishwi, haifanyiwi wasifu, wala haiuzwi."
+        ]
+      },
+      {
+        "h": "4. Huduma za Watu Wengine",
+        "p": [
+          "Programu hutumia huduma zifuatazo. Kila huduma hushughulikia data yako chini ya sera yake ya faragha, na kila moja ni ya hiari isipokuwa duka ulilosakinisha kutoka kwake:"
+        ],
+        "ul": [
+          "<strong>Google Play</strong> - upakuaji, usasishaji, kurejesha fedha, na, kwenye Android, ununuzi wa ndani ya programu: <a href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noopener\">https://policies.google.com/privacy</a>",
+          "<strong>Huduma za Google Play Games</strong> (Android) - kuingia kwa hiari, mafanikio, ubao wa wanaoongoza, na hifadhi ya wingu, chini ya sera hiyo hiyo ya faragha ya Google",
+          "<strong>Apple App Store, Game Center na iCloud</strong> (iOS) - upakuaji, ununuzi wa ndani ya programu, kuingia kwa hiari, mafanikio, ubao wa wanaoongoza, na hifadhi ya wingu: <a href=\"https://www.apple.com/legal/privacy/\" target=\"_blank\" rel=\"noopener\">https://www.apple.com/legal/privacy/</a>"
+        ],
+        "after": "Programu imejengwa kwa injini ya Unity. Mazingira ya utekelezaji ya Unity yamejumuishwa ndani ya Programu; hakuna kifurushi cha uchanganuzi au matangazo cha Unity kilichojumuishwa katika toleo hili."
+      },
+      {
+        "h": "5. Ununuzi",
+        "p": [
+          "Vifurushi vya sarafu na ufunguzi usio na matangazo huuzwa kupitia malipo ya Google Play kwenye Android na App Store kwenye iOS. Maduka hayo hushughulikia malipo na kuiambia Programu tu kama ununuzi umefaulu. <strong>Hatuoni wala kuhifadhi kamwe kadi yako, anwani yako, au maelezo mengine yoyote ya malipo.</strong> Kurejesha fedha hushughulikiwa na duka ulilonunua kutoka kwake."
+        ]
+      },
+      {
+        "h": "6. Kushiriki Data",
+        "p": [
+          "Hatuuzi, hatukodishi, wala hatushiriki data yako. Hatupokei chochote cha kushiriki: nakala pekee zinazotoka kwenye kifaa chako huenda kwenye akaunti yako mwenyewe ya Google au Apple."
+        ]
+      },
+      {
+        "h": "7. Chaguo Zako",
+        "ul": [
+          "<strong>Cheza bila kuingia:</strong> kataa Google Play Games au Game Center na hakuna chochote kinachotumwa popote.",
+          "<strong>Futa nakala ya wingu:</strong> ondoa mchezo uliohifadhiwa wa Programu katika programu ya Google Play Games, au futa data yake ya iCloud katika Mipangilio ya iOS.",
+          "<strong>Futa kila kitu ndani ya kifaa:</strong> futa hifadhi ya Programu, au iondoe.",
+          "<strong>Weka upya maendeleo ndani ya mchezo:</strong> Mipangilio ina uwekaji upya unaofuta hifadhi yako.",
+          "<strong>Zima mtetemo, muziki, au sauti:</strong> Mipangilio, wakati wowote."
+        ]
+      },
+      {
+        "h": "8. Faragha ya Watoto",
+        "p": [
+          "Programu inafaa familia. Haina gumzo, haina maudhui yanayozalishwa na watumiaji, na haina matangazo, na haikusanyi kwa kujua taarifa binafsi kutoka kwa mtu yeyote, ikiwa ni pamoja na watoto walio chini ya miaka 13. Kuingia kwa Google Play Games na Game Center hudhibitiwa na akaunti ya mfumo na vidhibiti vyovyote vya wazazi vilivyowekwa juu yake. Ikiwa unaamini mtoto ametoa taarifa binafsi kupitia Programu, tafadhali wasiliana nasi."
+        ]
+      },
+      {
+        "h": "9. Usalama wa Data",
+        "ul": [
+          "Maendeleo na mipangilio huwekwa katika hifadhi ya kawaida ya programu iliyo binafsi kwenye kifaa, ambayo programu nyingine haziwezi kuisoma.",
+          "Nakala ya wingu inalindwa na akaunti yako ya Google au Apple na usalama wake wenyewe.",
+          "Hatuendeshi seva, kwa hivyo hakuna akaunti yako ambayo tunaweza kupoteza na hakuna hifadhidata yetu inayoweza kuvunjwa."
+        ]
+      },
+      {
+        "h": "10. Mabadiliko ya Sera Hii",
+        "p": [
+          "Mabadiliko huwekwa kwenye ukurasa huu pamoja na tarehe mpya ya \"Ilisasishwa mwisho\". Ikiwa toleo la baadaye litakusanya kitu ambacho ukurasa huu haukielezi, ukurasa husasishwa <em>kabla</em> toleo hilo halijatolewa. Kuendelea kutumia Programu baada ya mabadiliko kunamaanisha unakubali sera iliyorekebishwa."
+        ]
+      },
+      {
+        "h": "11. Wasiliana Nasi",
+        "contact": true
+      },
+      {
+        "h": "12. Uzingatiaji",
+        "p": [
+          "Sera hii ya Faragha inakusudiwa kuzingatia sera ya Google Play, miongozo ya Apple App Store, Kanuni ya Jumla ya Ulinzi wa Data (GDPR), Sheria ya Faragha ya Watumiaji ya California (CCPA), na Sheria ya Kulinda Faragha ya Watoto Mtandaoni (COPPA)."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Masharti ya Matumizi",
+    "summary_label": "Kwa kifupi:",
+    "summary": "Mchezo ni bure kupakua na ni wako kucheza kwenye vifaa vyako mwenyewe. Usiunakili, kuuuza tena, au kuuvunja vipande vipande. Unatolewa kama ulivyo. Sarafu na vidokezo ni vipengele vya burudani visivyo na thamani ya fedha taslimu, na chochote unachonunua hununuliwa kutoka Google au Apple, si kutoka kwetu.",
+    "sections": [
+      {
+        "h": "1. Kukubali",
+        "p": [
+          "Kwa kupakua, kusakinisha, au kucheza <strong>Let the car out! 3D puzzle</strong> (\"Programu\"), iliyochapishwa na HAB Labs, unakubali Masharti haya ya Matumizi. Ikiwa hukubali, iondoe Programu."
+        ]
+      },
+      {
+        "h": "2. Leseni",
+        "p": [
+          "Tunakupa leseni ya kibinafsi, isiyo ya kipekee, isiyoweza kuhamishwa, inayoweza kufutwa ya kusakinisha na kucheza Programu kwenye vifaa unavyomiliki au kudhibiti, kwa matumizi ya kibinafsi yasiyo ya kibiashara."
+        ]
+      },
+      {
+        "h": "3. Mambo Usiyoruhusiwa Kufanya",
+        "ul": [
+          "Kunakili, kuuza, kukodisha, kutoa leseni ndogo, au kusambaza tena Programu au viwango vyake, michoro, sauti, au tafsiri",
+          "Kubaini muundo wa ndani, kutenganisha msimbo uliokusanywa, au kuvunja vipande vipande Programu, isipokuwa pale ambapo haki hiyo haiwezi kuondolewa na sheria",
+          "Kurekebisha Programu au data yake iliyohifadhiwa ili kupata faida, kisha kuwasilisha matokeo kama uchezaji halisi, ikiwa ni pamoja na kwenye ubao wa wanaoongoza",
+          "Kutumia Programu kwa jambo lolote lisilo halali"
+        ]
+      },
+      {
+        "h": "4. Vitu Pepe",
+        "p": [
+          "Sarafu, vidokezo, nyota, na tuzo ni vipengele vya burudani ndani ya Programu. Havina thamani ya fedha, haviwezi kubadilishwa kwa pesa au bidhaa, na haviwezi kuhamishiwa kwa mtu mwingine. Huhama kati ya vifaa vyako mwenyewe tu kupitia hifadhi ya wingu iliyoelezwa katika Sera ya Faragha, na hupotea ukifuta hifadhi ya ndani na nakala hiyo ya wingu zote mbili."
+        ]
+      },
+      {
+        "h": "5. Ununuzi",
+        "p": [
+          "Vifurushi vya sarafu na ufunguzi usio na matangazo huuzwa na Google Play kwenye Android na na App Store kwenye iOS, chini ya <a href=\"https://play.google.com/about/play-terms/\" target=\"_blank\" rel=\"noopener\">Masharti ya Huduma ya Google Play</a> au <a href=\"https://www.apple.com/legal/internet-services/itunes/\" target=\"_blank\" rel=\"noopener\">Masharti ya Huduma za Media</a> ya Apple. Maduka hayo hupokea malipo na kushughulikia kurejesha fedha; hatuoni wala kuhifadhi kamwe maelezo yako ya malipo. Ununuzi hutumiwa ndani ya Programu na, isipokuwa ufunguzi usio na matangazo, haurejeshwi kiotomatiki."
+        ]
+      },
+      {
+        "h": "6. Huduma za Mfumo",
+        "p": [
+          "Kuingia katika Google Play Games au Game Center ni hiari. Huduma hizo hutolewa na Google na Apple chini ya masharti yao wenyewe, na hatuwezi kurejesha, kuhamisha, au kurekebisha akaunti inayoshikiliwa nao. Rekodi za ubao wa wanaoongoza zilizopatikana kwa kurekebisha Programu zinaweza kuondolewa."
+        ]
+      },
+      {
+        "h": "7. Data Yako",
+        "p": [
+          "Tazama <a href=\"privacy-policy.html\">Sera ya Faragha</a> kwa kile ambacho Programu huhifadhi na mahali inapokihifadhi."
+        ]
+      },
+      {
+        "h": "8. Haki Miliki",
+        "p": [
+          "Programu, ikiwa ni pamoja na msimbo wake, miundo ya viwango, michoro, na sauti, inamilikiwa na HAB Labs na inalindwa na hakimiliki. Masharti haya hayakupi umiliki wowote juu yake."
+        ]
+      },
+      {
+        "h": "9. Masasisho na Upatikanaji",
+        "p": [
+          "Tunaweza kusasisha, kubadilisha, au kusitisha Programu au vipengele vyake vyovyote wakati wowote, bila taarifa. Hatuhakikishi kuwa Programu itaendelea kupatikana katika duka lolote maalum au kufanya kazi kwenye kifaa chochote maalum."
+        ]
+      },
+      {
+        "h": "10. Kanusho la Dhamana",
+        "p": [
+          "Programu hutolewa \"kama ilivyo\" na \"kama inavyopatikana\", bila dhamana ya aina yoyote, iwe ya wazi au iliyodokezwa, ikiwa ni pamoja na kufaa kwa biashara, kufaa kwa kusudi maalum, na kutokiuka haki. Hatutoi dhamana kuwa Programu haitakatizwa au itakuwa haina kasoro."
+        ]
+      },
+      {
+        "h": "11. Kikomo cha Dhima",
+        "p": [
+          "Kwa kiwango cha juu zaidi kinachoruhusiwa na sheria, HAB Labs haiwajibiki kwa uharibifu wowote usio wa moja kwa moja, wa bahati mbaya, au wa matokeo, au kwa upotevu wowote wa maendeleo yaliyohifadhiwa, unaotokana na matumizi yako ya Programu. Hakuna chochote katika Masharti haya kinachopunguza dhima ambayo haiwezi kupunguzwa na sheria."
+        ]
+      },
+      {
+        "h": "12. Watoto",
+        "p": [
+          "Programu inafaa kwa umri wote. Ikiwa wewe ni mtoto kisheria, tafadhali pitia Masharti haya pamoja na mzazi au mlezi, na muulize kabla ya kufanya ununuzi wowote."
+        ]
+      },
+      {
+        "h": "13. Mabadiliko ya Masharti Haya",
+        "p": [
+          "Tunaweza kurekebisha Masharti haya. Toleo lililorekebishwa huwekwa kwenye ukurasa huu pamoja na tarehe mpya ya \"Ilisasishwa mwisho\", na kuendelea kutumia Programu baada ya hapo kunamaanisha unalikubali."
+        ]
+      },
+      {
+        "h": "14. Mawasiliano",
+        "contact": true
+      }
+    ]
+  },
+  "support": {
+    "title": "Usaidizi",
+    "summary_label": "Unahitaji msaada?",
+    "summary": "Tuandikie na tutajibu. Kuna mtu mmoja nyuma ya programu hii, kwa hivyo jibu kwa kawaida huchukua siku moja au mbili badala ya saa moja.",
+    "sections": [
+      {
+        "h": "1. Maendeleo yangu yametoweka",
+        "p": [
+          "Maendeleo huwekwa kwenye kifaa. Ikiwa ulisakinisha upya programu, ulibadilisha simu, au ulifuta hifadhi yake, nakala ya ndani imepotea.",
+          "Yanaweza kurejeshwa tu ikiwa ulikuwa umeingia katika Google Play Games (Android) au Game Center na iCloud (iOS) hapo awali, na hifadhi ya wingu ilikuwa imeendeshwa angalau mara moja. Ingia kwa akaunti hiyo hiyo na ufungue programu; itavuta nakala iliyohifadhiwa na kuiunganisha na chochote kilicho kwenye kifaa, ikibakiza kilicho bora kati ya hivyo viwili kwa kila kiwango."
+        ]
+      },
+      {
+        "h": "2. Kuingia hakukamiliki",
+        "p": [
+          "Kwenye Android, hili karibu kila wakati hutokana na programu ya Google Play Games badala ya mchezo: ifungue, hakikisha umeingia huko, na hakikisha akaunti si ile iliyowekewa vikwazo na kikundi cha familia.",
+          "Ikiwa mchezo ulisakinishwa kutoka chanzo kingine isipokuwa Google Play, kuingia hakuwezi kufanya kazi kabisa - Play Games hukagua saini ya programu iliyosakinishwa."
+        ]
+      },
+      {
+        "h": "3. Simu haitetemeki",
+        "p": [
+          "Angalia Mipangilio ndani ya mchezo, kisha mpangilio wa mtetemo wa simu yako yenyewe. Baadhi ya simu pia huzima mtetemo wa programu katika hali ya kuokoa betri.",
+          "Tableti na baadhi ya simu za zamani hazina mota ya mtetemo na haziwezi kutetemeka kabisa."
+        ]
+      },
+      {
+        "h": "4. Ununuzi haujafika",
+        "p": [
+          "Ununuzi huwasilishwa na duka. Fungua tena programu ukiwa umeunganishwa: duka hutuma tena chochote ambacho limepokea malipo yake lakini bado halijakiwasilisha, na programu hukitoa papo hapo.",
+          "Ikiwa bado haujafika baada ya dakika chache, tutumie nambari ya oda kutoka kwenye risiti yako ya Google Play au App Store na tutalishughulikia. Kurejesha fedha lazima kupitie duka ulilonunua kutoka kwake - hatuwezi kuzitoa."
+        ]
+      },
+      {
+        "h": "5. Kiwango kinaonekana hakiwezekani",
+        "p": [
+          "Kila kiwango katika mchezo kimetatuliwa na mashine kabla ya kutolewa, kwa hivyo daima kuna njia ya kutoka. Kitufe cha kidokezo huonyesha hatua inayofuata katika suluhisho fupi zaidi linalojulikana. Ikiwa unaamini kiwango hakiwezi kumalizwa kweli, tuambie nambari yake na tutakikagua."
+        ]
+      },
+      {
+        "h": "6. Kufuta data yako",
+        "p": [
+          "Futa hifadhi ya programu au iondoe ili kuondoa hifadhi ya ndani. Ili kuondoa nakala ya wingu, futa mchezo uliohifadhiwa katika programu ya Google Play Games, au data ya iCloud ya programu katika Mipangilio ya iOS."
+        ]
+      },
+      {
+        "h": "7. Mawasiliano",
+        "contact": true
+      }
+    ]
+  }
+}

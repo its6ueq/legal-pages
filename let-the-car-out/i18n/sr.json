@@ -1,0 +1,295 @@
+{
+  "_comment": "Source text for every Let the car out! legal page. The HTML files are generated from this by build.mjs, and the translations are generated from this by translate.mjs. Edit here, never in the generated HTML.",
+  "meta": {
+    "app": "Let the car out! 3D puzzle",
+    "developer": "HAB Labs",
+    "email": "shawnfrest2k5@gmail.com",
+    "package": "com.hablabs.letthecarout",
+    "updated": "17. avgust 2026."
+  },
+  "ui": {
+    "back_labs": "Nazad na HAB Labs",
+    "back_home": "Početna strana Let the car out!",
+    "updated_label": "Poslednje ažuriranje:",
+    "nav_privacy": "Politika privatnosti",
+    "nav_terms": "Uslovi korišćenja",
+    "nav_support": "Podrška"
+  },
+  "index": {
+    "title": "Let the car out! - Pravne stranice",
+    "heading": "Let the car out! 3D puzzle",
+    "sub": "Zvanične stranice za aplikaciju - pomerajte automobile u stranu i očistite put za izlaz, kroz više od 19.000 nivoa van mreže."
+  },
+  "privacy": {
+    "title": "Politika privatnosti",
+    "summary_label": "Kratak pregled:",
+    "summary": "Let the car out! je slagalica sa pomeranjem automobila. Svaki nivo je unutar aplikacije, pa celu igru možete igrati potpuno bez veze. Vaš napredak se nalazi na vašem uređaju. Ako se prijavite na Google Play igre ili Game Center, kopija tog napretka se čuva i na vašem nalogu platforme kako bi opstala na novom telefonu. Ova verzija ne prikazuje reklame i ne sadrži analitiku niti prijavljivanje rušenja. Ne pokrećemo sopstvene servere i nikada ne primamo vaše ime, imejl ili lokaciju.",
+    "sections": [
+      {
+        "h": "1. Uvod",
+        "p": [
+          "Ova Politika privatnosti objašnjava kako mobilna aplikacija <strong>Let the car out! 3D puzzle</strong> (paket <code>com.hablabs.letthecarout</code>, „Aplikacija”) obrađuje informacije. Aplikacija je slagalica u kojoj izvlačite automobile iz prepunog parkinga pomeranjem. Korišćenjem Aplikacije pristajete na prakse opisane ovde."
+        ]
+      },
+      {
+        "h": "2. Informacije koje prikupljamo",
+        "sub": [
+          {
+            "h": "2.1 Lični podaci",
+            "important": "<strong>Ne prikupljamo nikakve informacije koje omogućavaju ličnu identifikaciju.</strong> Aplikacija nema sopstveni nalog, registraciju ni ćaskanje. Nikada ne tražimo vaše ime, imejl adresu, broj telefona ili lokaciju i ne upravljamo serverom koji bi mogao da ih primi."
+          },
+          {
+            "h": "2.2 Podaci sačuvani na vašem uređaju",
+            "p": [
+              "Aplikacija čuva jedan mali zapis u standardnom privatnom skladištu aplikacije na uređaju:"
+            ],
+            "ul": [
+              "Napredak kampanje: najviši otključani nivo, poslednje igrani nivo i ocena zvezdicama za svaki očišćeni nivo",
+              "Vaš saldo novčića, saldo nagoveštaja i brojači iza nagrada - iskorišćeni nagoveštaji, iskorišćena poništavanja, čista rešavanja, brza rešavanja i vaš najbolji niz čistih rešavanja",
+              "Koje nagrade ste preuzeli i koja ostrva ste otvorili",
+              "Podešavanja: jezik interfejsa, tema scene, muzika, zvučni efekti, vibracija, obaveštenja, rezolucija i broj slika u sekundi",
+              "Oznake koje beleže da ste završili tutorijal i da li su reklame uklonjene"
+            ],
+            "after": "Deinstaliranje Aplikacije ili brisanje njenog skladišta briše ovu lokalnu kopiju."
+          },
+          {
+            "h": "2.3 Čuvanje u oblaku i usluge platforme",
+            "p": [
+              "Ako ste prijavljeni na <strong>Google Play igre</strong> na Androidu ili na <strong>Game Center i iCloud</strong> na iOS-u, Aplikacija čuva kopiju istog tog zapisa na vašem nalogu platforme kako bi vaš napredak opstao ako izgubite ili zamenite uređaj. Kopiju drži Google ili Apple pod vašim sopstvenim nalogom, a ne mi. Ne možemo da je čitamo i ne dobijamo obaveštenje da je imate.",
+              "Aplikacija takođe prijavljuje dve stvari tim uslugama kada ste prijavljeni: vaš ukupan broj zvezdica, za tabelu najboljih, i koja ste dostignuća osvojili. Ništa drugo se ne šalje. Prijavljivanje je opciono i cela igra se može igrati bez njega. Odjavite se u aplikaciji Google Play igre ili Game Center i Aplikacija prestaje da šalje bilo šta."
+            ]
+          },
+          {
+            "h": "2.4 Šta Aplikacija ne radi",
+            "ul": [
+              "<strong>Nema reklama.</strong> Ova verzija ne prikazuje banere, međuekranske reklame ili reklame uz nagradu i u nju nije ugrađen nijedan SDK za oglašavanje.",
+              "<strong>Nema analitike, telemetrije ili prijavljivanja rušenja.</strong> Ne prikupljamo nikakvu statistiku korišćenja.",
+              "<strong>Nema pristupa fotografijama, kontaktima, kameri, mikrofonu, datotekama ili lokaciji.</strong>",
+              "<strong>Nema praćenja između aplikacija ili veb-sajtova</strong> i ne čita se identifikator za oglašavanje."
+            ]
+          },
+          {
+            "h": "2.5 Dozvole koje Aplikacija traži",
+            "ul": [
+              "<strong>Vibracija</strong> (<code>android.permission.VIBRATE</code>) - kratki dodiri haptičke povratne informacije kada se automobil uklopi na mesto, kada je potez blokiran i kada očistite nivo. Isključite je u Podešavanjima i Aplikacija prestaje da vibrira.",
+              "<strong>Internet</strong> (<code>android.permission.INTERNET</code>) - koristi se samo za prijavljivanje na Google Play igre, čuvanje u oblaku, tabelu najboljih i Google Play naplatu kada nešto kupite. Samoj igri nije potrebna veza: svaki nivo je uključen u preuzimanje."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "3. Kako se informacije koriste",
+        "p": [
+          "Sačuvani zapis postoji iz jednog razloga: da igra može da zapamti gde ste stali i kako volite da igrate. Ne objedinjuje se, ne profilira se i ne prodaje se."
+        ]
+      },
+      {
+        "h": "4. Usluge trećih strana",
+        "p": [
+          "Aplikacija koristi sledeće usluge. Svaka obrađuje vaše podatke prema svojoj politici privatnosti i svaka je opciona osim prodavnice iz koje ste instalirali aplikaciju:"
+        ],
+        "ul": [
+          "<strong>Google Play</strong> - preuzimanje, ažuriranje, refundacija i, na Androidu, kupovine u aplikaciji: <a href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noopener\">https://policies.google.com/privacy</a>",
+          "<strong>Usluge Google Play igara</strong> (Android) - opciono prijavljivanje, dostignuća, tabela najboljih i čuvanje u oblaku, prema istoj Google politici privatnosti",
+          "<strong>Apple App Store, Game Center i iCloud</strong> (iOS) - preuzimanje, kupovine u aplikaciji, opciono prijavljivanje, dostignuća, tabela najboljih i čuvanje u oblaku: <a href=\"https://www.apple.com/legal/privacy/\" target=\"_blank\" rel=\"noopener\">https://www.apple.com/legal/privacy/</a>"
+        ],
+        "after": "Aplikacija je napravljena pomoću Unity endžina. Unity runtime je ugrađen u Aplikaciju; u ovu verziju nije uključen Unity paket za analitiku ili oglašavanje."
+      },
+      {
+        "h": "5. Kupovine",
+        "p": [
+          "Paketi novčića i otključavanje bez reklama prodaju se putem Google Play naplate na Androidu i App Store-a na iOS-u. Te prodavnice obrađuju plaćanje i Aplikaciji saopštavaju samo da li je kupovina uspela. <strong>Nikada ne vidimo niti čuvamo vašu karticu, adresu ili bilo koji drugi detalj plaćanja.</strong> Refundacije obrađuje prodavnica iz koje ste kupili."
+        ]
+      },
+      {
+        "h": "6. Deljenje podataka",
+        "p": [
+          "Ne prodajemo, ne iznajmljujemo i ne delimo vaše podatke. Ne primamo ništa što bismo mogli da delimo: jedine kopije koje napuste vaš uređaj idu na vaš sopstveni Google ili Apple nalog."
+        ]
+      },
+      {
+        "h": "7. Vaš izbor",
+        "ul": [
+          "<strong>Igrajte bez prijavljivanja:</strong> odbijte Google Play igre ili Game Center i ništa se nigde ne šalje.",
+          "<strong>Izbrišite kopiju u oblaku:</strong> uklonite sačuvanu igru Aplikacije u aplikaciji Google Play igre ili izbrišite njene iCloud podatke u Podešavanjima iOS-a.",
+          "<strong>Izbrišite sve lokalno:</strong> obrišite skladište Aplikacije ili je deinstalirajte.",
+          "<strong>Resetujte napredak u igri:</strong> Podešavanja sadrže opciju resetovanja koja briše vaše čuvanje.",
+          "<strong>Isključite vibraciju, muziku ili zvuk:</strong> Podešavanja, u bilo kom trenutku."
+        ]
+      },
+      {
+        "h": "8. Privatnost dece",
+        "p": [
+          "Aplikacija je pogodna za porodicu. Nema ćaskanje, nema sadržaj koji generišu korisnici i nema oglašavanje, i svesno ne prikuplja lične podatke ni od koga, uključujući decu mlađu od 13 godina. Prijavljivanje na Google Play igre i Game Center kontrolišu nalog platforme i sve roditeljske kontrole postavljene na njemu. Ako verujete da je dete pružilo lične podatke putem Aplikacije, kontaktirajte nas."
+        ]
+      },
+      {
+        "h": "9. Bezbednost podataka",
+        "ul": [
+          "Napredak i podešavanja se čuvaju u standardnom privatnom skladištu aplikacije na uređaju, koje druge aplikacije ne mogu da čitaju.",
+          "Kopija u oblaku zaštićena je vašim Google ili Apple nalogom i njegovom sopstvenom bezbednošću.",
+          "Ne upravljamo serverima, pa ne postoji vaš nalog kod nas koji bismo mogli da izgubimo i ne postoji naša baza podataka koja bi mogla biti probijena."
+        ]
+      },
+      {
+        "h": "10. Izmene ove politike",
+        "p": [
+          "Izmene se objavljuju na ovoj stranici sa novim datumom „Poslednje ažuriranje”. Ako buduća verzija prikuplja nešto što ova stranica ne opisuje, stranica se ažurira <em>pre</em> isporuke te verzije. Nastavak korišćenja Aplikacije posle izmene znači da prihvatate revidiranu politiku."
+        ]
+      },
+      {
+        "h": "11. Kontaktirajte nas",
+        "contact": true
+      },
+      {
+        "h": "12. Usklađenost",
+        "p": [
+          "Ova Politika privatnosti namenjena je usklađivanju sa pravilima Google Play-a, smernicama Apple App Store-a, Opštom uredbom o zaštiti podataka (GDPR), Kalifornijskim zakonom o privatnosti potrošača (CCPA) i Zakonom o zaštiti privatnosti dece na internetu (COPPA)."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Uslovi korišćenja",
+    "summary_label": "Ukratko:",
+    "summary": "Igra je besplatna za preuzimanje i možete je igrati na sopstvenim uređajima. Nemojte je kopirati, preprodavati ili rastavljati. Pruža se takva kakva jeste. Novčići i nagoveštaji su zabavne funkcije bez novčane vrednosti, a sve što kupite kupujete od Google-a ili Apple-a, ne od nas.",
+    "sections": [
+      {
+        "h": "1. Prihvatanje",
+        "p": [
+          "Preuzimanjem, instaliranjem ili igranjem <strong>Let the car out! 3D puzzle</strong> („Aplikacija”), koju je objavio HAB Labs, pristajete na ove Uslove korišćenja. Ako se ne slažete, deinstalirajte Aplikaciju."
+        ]
+      },
+      {
+        "h": "2. Licenca",
+        "p": [
+          "Dajemo vam ličnu, neisključivu, neprenosivu i opozivu licencu da instalirate i igrate Aplikaciju na uređajima koje posedujete ili kontrolišete, za ličnu, nekomercijalnu upotrebu."
+        ]
+      },
+      {
+        "h": "3. Šta ne smete da radite",
+        "ul": [
+          "Kopirati, prodavati, iznajmljivati, podlicencirati ili redistribuirati Aplikaciju ili njene nivoe, grafiku, zvukove ili prevode",
+          "Obavljati obrnuti inženjering, dekompilirati ili rastavljati Aplikaciju, osim kada se to pravo ne može isključiti zakonom",
+          "Menjati Aplikaciju ili njene sačuvane podatke radi sticanja prednosti, a zatim rezultat predstavljati kao stvarnu igru, uključujući na tabeli najboljih",
+          "Koristiti Aplikaciju za bilo šta nezakonito"
+        ]
+      },
+      {
+        "h": "4. Virtuelni predmeti",
+        "p": [
+          "Novčići, nagoveštaji, zvezdice i nagrade su zabavne funkcije unutar Aplikacije. Nemaju novčanu vrednost, ne mogu se zameniti za novac ili robu i ne mogu se preneti na drugu osobu. Prelaze između vaših sopstvenih uređaja samo putem čuvanja u oblaku opisanog u Politici privatnosti i gube se ako izbrišete i lokalno čuvanje i tu kopiju u oblaku."
+        ]
+      },
+      {
+        "h": "5. Kupovine",
+        "p": [
+          "Pakete novčića i otključavanje bez reklama prodaje Google Play na Androidu i App Store na iOS-u, prema <a href=\"https://play.google.com/about/play-terms/\" target=\"_blank\" rel=\"noopener\">Uslovima korišćenja usluge Google Play</a> ili Apple-ovim <a href=\"https://www.apple.com/legal/internet-services/itunes/\" target=\"_blank\" rel=\"noopener\">Uslovima za medijske usluge</a>. Te prodavnice primaju plaćanje i obrađuju refundacije; nikada ne vidimo niti čuvamo vaše detalje plaćanja. Kupovine se troše unutar Aplikacije i, osim otključavanja bez reklama, ne vraćaju se automatski."
+        ]
+      },
+      {
+        "h": "6. Usluge platforme",
+        "p": [
+          "Prijavljivanje na Google Play igre ili Game Center je opciono. Te usluge pružaju Google i Apple prema svojim uslovima, a mi ne možemo da vratimo, prenesemo ili popravimo nalog koji oni drže. Unosi na tabeli najboljih dobijeni izmenom Aplikacije mogu biti uklonjeni."
+        ]
+      },
+      {
+        "h": "7. Vaši podaci",
+        "p": [
+          "Pogledajte <a href=\"privacy-policy.html\">Politiku privatnosti</a> za informacije o tome šta Aplikacija čuva i gde."
+        ]
+      },
+      {
+        "h": "8. Intelektualna svojina",
+        "p": [
+          "Aplikacija, uključujući njen kôd, dizajn nivoa, grafiku i zvukove, u vlasništvu je HAB Labs i zaštićena je autorskim pravom. Ovi Uslovi vam ne daju vlasništvo nad njom."
+        ]
+      },
+      {
+        "h": "9. Ažuriranja i dostupnost",
+        "p": [
+          "Možemo ažurirati, izmeniti ili ukinuti Aplikaciju ili bilo koju njenu funkciju u bilo kom trenutku, bez obaveštenja. Ne garantujemo da će Aplikacija ostati dostupna u bilo kojoj određenoj prodavnici ili raditi na bilo kom određenom uređaju."
+        ]
+      },
+      {
+        "h": "10. Odricanje od garancije",
+        "p": [
+          "Aplikacija se pruža „takva kakva jeste” i „kako je dostupna”, bez garancije bilo koje vrste, izričite ili podrazumevane, uključujući podobnost za prodaju, podobnost za određenu namenu i nekršenje prava. Ne garantujemo da će Aplikacija raditi bez prekida ili biti bez nedostataka."
+        ]
+      },
+      {
+        "h": "11. Ograničenje odgovornosti",
+        "p": [
+          "U najvećoj meri dozvoljenoj zakonom, HAB Labs nije odgovoran za bilo kakvu indirektnu, slučajnu ili posledičnu štetu, niti za bilo kakav gubitak sačuvanog napretka, koji proističe iz vašeg korišćenja Aplikacije. Ništa u ovim Uslovima ne ograničava odgovornost koja se ne može ograničiti zakonom."
+        ]
+      },
+      {
+        "h": "12. Deca",
+        "p": [
+          "Aplikacija je pogodna za sve uzraste. Ako ste maloletni, pregledajte ove Uslove sa roditeljem ili starateljem i pitajte ih pre bilo kakve kupovine."
+        ]
+      },
+      {
+        "h": "13. Izmene ovih Uslova",
+        "p": [
+          "Možemo revidirati ove Uslove. Revidirana verzija se objavljuje na ovoj stranici sa novim datumom „Poslednje ažuriranje”, a nastavak korišćenja Aplikacije posle toga znači da je prihvatate."
+        ]
+      },
+      {
+        "h": "14. Kontakt",
+        "contact": true
+      }
+    ]
+  },
+  "support": {
+    "title": "Podrška",
+    "summary_label": "Treba vam pomoć?",
+    "summary": "Pišite nam i odgovorićemo. Iza ove aplikacije stoji jedna osoba, pa odgovor obično traje dan ili dva, a ne sat vremena.",
+    "sections": [
+      {
+        "h": "1. Moj napredak je nestao",
+        "p": [
+          "Napredak se čuva na uređaju. Ako ste ponovo instalirali aplikaciju, promenili telefon ili obrisali njeno skladište, lokalna kopija je nestala.",
+          "Može se povratiti samo ako ste ranije bili prijavljeni na Google Play igre (Android) ili Game Center i iCloud (iOS), i ako je čuvanje u oblaku pokrenuto bar jednom. Prijavite se istim nalogom i otvorite aplikaciju; ona povlači sačuvanu kopiju i spaja je sa onim što je na uređaju, zadržavajući bolju od te dve verzije za svaki nivo."
+        ]
+      },
+      {
+        "h": "2. Prijavljivanje se ne završava",
+        "p": [
+          "Na Androidu je to skoro uvek aplikacija Google Play igre, a ne igra: otvorite je, proverite da li ste tamo prijavljeni i uverite se da nalog nije ograničen porodičnom grupom.",
+          "Ako je igra instalirana iz izvora koji nije Google Play, prijavljivanje uopšte ne može da radi - Play igre proveravaju potpis instalirane aplikacije."
+        ]
+      },
+      {
+        "h": "3. Telefon ne vibrira",
+        "p": [
+          "Proverite Podešavanja unutar igre, zatim sopstveno podešavanje vibracije na telefonu. Neki telefoni takođe onemogućavaju vibraciju aplikacija u režimu uštede baterije.",
+          "Tableti i neki stariji telefoni nemaju motor za vibraciju i uopšte ne mogu da vibriraju."
+        ]
+      },
+      {
+        "h": "4. Kupovina nije stigla",
+        "p": [
+          "Kupovine isporučuje prodavnica. Ponovo otvorite aplikaciju dok ste povezani: prodavnica ponovo šalje sve za šta je primila uplatu, ali još nije isporučila, a aplikacija to odmah dodeljuje.",
+          "Ako i dalje nije stiglo posle nekoliko minuta, pošaljite nam broj porudžbine sa vaše Google Play ili App Store priznanice i rešićemo to. Refundacije moraju da idu preko prodavnice iz koje ste kupili - mi ih ne možemo izdati."
+        ]
+      },
+      {
+        "h": "5. Nivo izgleda nemoguće",
+        "p": [
+          "Svaki nivo u igri mašinski je rešen pre isporuke, tako da uvek postoji izlaz. Dugme za nagoveštaj prikazuje sledeći potez u najkraćem poznatom rešenju. Ako verujete da neki nivo zaista ne može da se završi, recite nam njegov broj i proverićemo taj nivo."
+        ]
+      },
+      {
+        "h": "6. Brisanje vaših podataka",
+        "p": [
+          "Obrišite skladište aplikacije ili je deinstalirajte da biste uklonili lokalno čuvanje. Da biste uklonili kopiju u oblaku, izbrišite sačuvanu igru u aplikaciji Google Play igre ili iCloud podatke aplikacije u Podešavanjima iOS-a."
+        ]
+      },
+      {
+        "h": "7. Kontakt",
+        "contact": true
+      }
+    ]
+  }
+}

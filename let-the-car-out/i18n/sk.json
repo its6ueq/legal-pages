@@ -1,0 +1,295 @@
+{
+  "_comment": "Source text for every Let the car out! legal page. The HTML files are generated from this by build.mjs, and the translations are generated from this by translate.mjs. Edit here, never in the generated HTML.",
+  "meta": {
+    "app": "Let the car out! 3D puzzle",
+    "developer": "HAB Labs",
+    "email": "shawnfrest2k5@gmail.com",
+    "package": "com.hablabs.letthecarout",
+    "updated": "17. augusta 2026"
+  },
+  "ui": {
+    "back_labs": "Späť na HAB Labs",
+    "back_home": "Domovská stránka Let the car out!",
+    "updated_label": "Posledná aktualizácia:",
+    "nav_privacy": "Zásady ochrany osobných údajov",
+    "nav_terms": "Podmienky používania",
+    "nav_support": "Podpora"
+  },
+  "index": {
+    "title": "Let the car out! - právne stránky",
+    "heading": "Let the car out! 3D puzzle",
+    "sub": "Oficiálne stránky aplikácie - posúvajte autá nabok a uvoľnite cestu von vo viac ako 19 000 offline úrovniach."
+  },
+  "privacy": {
+    "title": "Zásady ochrany osobných údajov",
+    "summary_label": "Stručné zhrnutie:",
+    "summary": "Let the car out! je logická hra s posúvaním áut. Každá úroveň je v aplikácii, takže celú hru môžete hrať úplne bez pripojenia. Váš postup sa nachádza vo vašom zariadení. Ak sa prihlásite do Hier Google Play alebo Game Center, kópia tohto postupu sa uchováva aj vo vašom účte platformy, aby prežila nový telefón. Táto verzia nezobrazuje žiadne reklamy a neobsahuje analytiku ani hlásenie pádov. Neprevádzkujeme žiadne vlastné servery a nikdy nedostávame vaše meno, e-mail ani polohu.",
+    "sections": [
+      {
+        "h": "1. Úvod",
+        "p": [
+          "Tieto Zásady ochrany osobných údajov vysvetľujú, ako mobilná aplikácia <strong>Let the car out! 3D puzzle</strong> (balík <code>com.hablabs.letthecarout</code>, ďalej len \"Aplikácia\") zaobchádza s informáciami. Aplikácia je logická hra, v ktorej posúvate autá z preplneného parkoviska. Používaním Aplikácie súhlasíte s postupmi opísanými tu."
+        ]
+      },
+      {
+        "h": "2. Informácie, ktoré zhromažďujeme",
+        "sub": [
+          {
+            "h": "2.1 Osobné údaje",
+            "important": "<strong>Nezhromažďujeme žiadne osobne identifikovateľné údaje.</strong> Aplikácia nemá vlastný účet, registráciu ani chat. Nikdy od vás nežiada vaše meno, e-mailovú adresu, telefónne číslo ani polohu a neprevádzkujeme žiadny server, ktorý by ich mohol prijať."
+          },
+          {
+            "h": "2.2 Údaje uložené vo vašom zariadení",
+            "p": [
+              "Aplikácia uchováva jeden malý záznam v štandardnom súkromnom úložisku aplikácie v zariadení:"
+            ],
+            "ul": [
+              "Postup v kampani: najvyššia odomknutá úroveň, naposledy hraná úroveň a hodnotenie hviezdičkami každej dokončenej úrovne",
+              "Váš zostatok mincí, zostatok nápovedí a počítadlá za oceneniami - použité nápovede, použité vrátenia ťahu, čisté dokončenia, rýchle dokončenia a vaša najlepšia séria čistých dokončení",
+              "Ktoré ocenenia ste si prevzali a ktoré ostrovy ste otvorili",
+              "Nastavenia: jazyk rozhrania, téma scény, hudba, zvukové efekty, vibrácie, oznámenia, rozlíšenie a snímková frekvencia",
+              "Príznaky zaznamenávajúce, že ste dokončili tutoriál, a či boli reklamy odstránené"
+            ],
+            "after": "Odinštalovanie Aplikácie alebo vymazanie jej úložiska odstráni túto miestnu kópiu."
+          },
+          {
+            "h": "2.3 Cloudové uloženie a služby platformy",
+            "p": [
+              "Ak ste v systéme Android prihlásení do <strong>Hier Google Play</strong> alebo v systéme iOS do <strong>Game Center a iCloud</strong>, Aplikácia uchováva kópiu toho istého záznamu vo vašom účte platformy, aby váš postup prežil stratu alebo výmenu zariadenia. Kópiu uchováva Google alebo Apple vo vašom vlastnom účte, nie my. Nemôžeme ju čítať a nie sme informovaní, že ju máte.",
+              "Aplikácia týmto službám pri vašom prihlásení odosiela aj dve veci: váš celkový počet hviezd pre rebríček a informáciu, ktoré úspechy ste získali. Nič iné sa neodosiela. Prihlásenie je voliteľné a celú hru je možné hrať aj bez neho. Odhláste sa v aplikácii Hry Google Play alebo Game Center a Aplikácia prestane čokoľvek odosielať."
+            ]
+          },
+          {
+            "h": "2.4 Čo Aplikácia nerobí",
+            "ul": [
+              "<strong>Žiadne reklamy.</strong> Táto verzia nezobrazuje žiadne bannerové, intersticiálne ani odmenené reklamy a nie je do nej skompilovaná žiadna reklamná súprava SDK.",
+              "<strong>Žiadna analytika, telemetria ani hlásenie pádov.</strong> Nezhromažďujeme žiadne štatistiky používania akéhokoľvek druhu.",
+              "<strong>Žiadny prístup k fotkám, kontaktom, fotoaparátu, mikrofónu, súborom ani polohe.</strong>",
+              "<strong>Žiadne sledovanie naprieč aplikáciami alebo webovými stránkami</strong> a nečíta sa žiadny reklamný identifikátor."
+            ]
+          },
+          {
+            "h": "2.5 Povolenia, ktoré Aplikácia vyžaduje",
+            "ul": [
+              "<strong>Vibrácie</strong> (<code>android.permission.VIBRATE</code>) - krátke ťuknutia haptickej spätnej väzby, keď auto zapadne na miesto, keď je ťah zablokovaný a keď dokončíte úroveň. Vypnite ich v Nastaveniach a Aplikácia prestane vibrovať.",
+              "<strong>Internet</strong> (<code>android.permission.INTERNET</code>) - používa sa iba na prihlásenie do Hier Google Play, cloudové uloženie, rebríček a fakturáciu Google Play, keď si niečo kúpite. Samotná hra nepotrebuje pripojenie: každá úroveň je zahrnutá v stiahnutom súbore."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "3. Ako sa informácie používajú",
+        "p": [
+          "Uložený záznam existuje na jediný účel: aby si hra pamätala, kde ste skončili a ako radi hráte. Neagreguje sa, neprofiluje sa ani sa nepredáva."
+        ]
+      },
+      {
+        "h": "4. Služby tretích strán",
+        "p": [
+          "Aplikácia používa nasledujúce služby. Každá spracúva vaše údaje podľa vlastných zásad ochrany osobných údajov a každá je voliteľná okrem obchodu, z ktorého ste aplikáciu nainštalovali:"
+        ],
+        "ul": [
+          "<strong>Google Play</strong> - stiahnutie, aktualizácia, vrátenie platby a v systéme Android nákupy v aplikácii: <a href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noopener\">https://policies.google.com/privacy</a>",
+          "<strong>Služby Hier Google Play</strong> (Android) - voliteľné prihlásenie, úspechy, rebríček a cloudové uloženie podľa rovnakých zásad ochrany osobných údajov spoločnosti Google",
+          "<strong>Apple App Store, Game Center a iCloud</strong> (iOS) - stiahnutie, nákupy v aplikácii, voliteľné prihlásenie, úspechy, rebríček a cloudové uloženie: <a href=\"https://www.apple.com/legal/privacy/\" target=\"_blank\" rel=\"noopener\">https://www.apple.com/legal/privacy/</a>"
+        ],
+        "after": "Aplikácia je vytvorená pomocou enginu Unity. Runtime Unity je skompilovaný do Aplikácie; v tejto zostave nie je zahrnutý žiadny analytický ani reklamný balík Unity."
+      },
+      {
+        "h": "5. Nákupy",
+        "p": [
+          "Balíky mincí a odomknutie bez reklám sa v systéme Android predávajú prostredníctvom fakturácie Google Play a v systéme iOS prostredníctvom App Store. Tieto obchody spracujú platbu a Aplikácii oznámia iba to, či bol nákup úspešný. <strong>Nikdy nevidíme ani neukladáme vašu kartu, adresu ani žiadny iný platobný údaj.</strong> Vrátenia platieb rieši obchod, v ktorom ste nakúpili."
+        ]
+      },
+      {
+        "h": "6. Zdieľanie údajov",
+        "p": [
+          "Vaše údaje nepredávame, neprenajímame ani nezdieľame. Nedostávame žiadne údaje, ktoré by sme mohli zdieľať: jediné kópie, ktoré opúšťajú vaše zariadenie, smerujú do vášho vlastného účtu Google alebo Apple."
+        ]
+      },
+      {
+        "h": "7. Vaše voľby",
+        "ul": [
+          "<strong>Hrať bez prihlásenia:</strong> odmietnite Hry Google Play alebo Game Center a nič sa nikam neodošle.",
+          "<strong>Odstrániť cloudovú kópiu:</strong> odstráňte uloženú hru Aplikácie v aplikácii Hry Google Play alebo odstráňte jej údaje iCloud v Nastaveniach iOS.",
+          "<strong>Odstrániť všetko lokálne:</strong> vymažte úložisko Aplikácie alebo ju odinštalujte.",
+          "<strong>Resetovať postup v hre:</strong> Nastavenia obsahujú reset, ktorý vymaže vaše uloženie.",
+          "<strong>Vypnúť vibrácie, hudbu alebo zvuk:</strong> v Nastaveniach, kedykoľvek."
+        ]
+      },
+      {
+        "h": "8. Ochrana súkromia detí",
+        "p": [
+          "Aplikácia je vhodná pre rodiny. Nemá chat, obsah vytvorený používateľmi ani reklamu a vedome nezhromažďuje osobné údaje od nikoho, vrátane detí mladších ako 13 rokov. Prihlásenie do Hier Google Play a Game Center je riadené účtom platformy a rodičovskými kontrolami, ktoré sú v ňom nastavené. Ak sa domnievate, že dieťa poskytlo osobné údaje prostredníctvom Aplikácie, kontaktujte nás."
+        ]
+      },
+      {
+        "h": "9. Bezpečnosť údajov",
+        "ul": [
+          "Postup a nastavenia sa uchovávajú v štandardnom súkromnom úložisku aplikácie v zariadení, ktoré iné aplikácie nemôžu čítať.",
+          "Cloudová kópia je chránená vaším účtom Google alebo Apple a jeho vlastným zabezpečením.",
+          "Neprevádzkujeme žiadne servery, takže u nás neexistuje váš účet, o ktorý by sme mohli prísť, ani naša databáza, do ktorej by mohlo dôjsť k neoprávnenému prístupu."
+        ]
+      },
+      {
+        "h": "10. Zmeny týchto zásad",
+        "p": [
+          "Zmeny sa zverejňujú na tejto stránke s novým dátumom \"Posledná aktualizácia\". Ak budúca verzia zhromažďuje niečo, čo táto stránka neopisuje, stránka sa aktualizuje <em>pred</em> vydaním tejto verzie. Pokračovanie v používaní Aplikácie po zmene znamená, že prijímate upravené zásady."
+        ]
+      },
+      {
+        "h": "11. Kontaktujte nás",
+        "contact": true
+      },
+      {
+        "h": "12. Súlad s predpismi",
+        "p": [
+          "Tieto Zásady ochrany osobných údajov sú určené na dosiahnutie súladu s pravidlami Google Play, usmerneniami Apple App Store, všeobecným nariadením o ochrane údajov (GDPR), kalifornským zákonom o ochrane súkromia spotrebiteľov (CCPA) a zákonom o ochrane súkromia detí na internete (COPPA)."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Podmienky používania",
+    "summary_label": "V skratke:",
+    "summary": "Hru si môžete stiahnuť zadarmo a hrať ju na vlastných zariadeniach. Nekopírujte ju, ďalej ju nepredávajte ani ju nerozoberajte. Poskytuje sa tak, ako je. Mince a nápovede sú zábavné funkcie bez peňažnej hodnoty a všetko, čo kúpite, kupujete od spoločnosti Google alebo Apple, nie od nás.",
+    "sections": [
+      {
+        "h": "1. Prijatie",
+        "p": [
+          "Stiahnutím, inštaláciou alebo hraním <strong>Let the car out! 3D puzzle</strong> (ďalej len \"Aplikácia\"), publikovanej spoločnosťou HAB Labs, súhlasíte s týmito Podmienkami používania. Ak nesúhlasíte, Aplikáciu odinštalujte."
+        ]
+      },
+      {
+        "h": "2. Licencia",
+        "p": [
+          "Udeľujeme vám osobnú, nevýhradnú, neprenosnú a odvolateľnú licenciu na inštaláciu a hranie Aplikácie na zariadeniach, ktoré vlastníte alebo ovládate, na osobné, nekomerčné použitie."
+        ]
+      },
+      {
+        "h": "3. Čo nesmiete robiť",
+        "ul": [
+          "Kopírovať, predávať, prenajímať, sublicencovať alebo ďalej distribuovať Aplikáciu alebo jej úrovne, grafiku, zvuky či preklady",
+          "Spätne analyzovať, dekompilovať alebo rozoberať Aplikáciu, okrem prípadov, keď toto právo nemožno zákonom vylúčiť",
+          "Upravovať Aplikáciu alebo jej uložené údaje s cieľom získať výhodu a potom výsledok prezentovať ako skutočné hranie, vrátane rebríčka",
+          "Používať Aplikáciu na čokoľvek nezákonné"
+        ]
+      },
+      {
+        "h": "4. Virtuálne položky",
+        "p": [
+          "Mince, nápovede, hviezdy a ocenenia sú zábavné funkcie v Aplikácii. Nemajú peňažnú hodnotu, nemožno ich vymeniť za peniaze ani tovar a nemožno ich previesť na inú osobu. Medzi vašimi vlastnými zariadeniami sa presúvajú iba prostredníctvom cloudového uloženia opísaného v Zásadách ochrany osobných údajov a stratia sa, ak odstránite miestne uloženie aj túto cloudovú kópiu."
+        ]
+      },
+      {
+        "h": "5. Nákupy",
+        "p": [
+          "Balíky mincí a odomknutie bez reklám predáva v systéme Android Google Play a v systéme iOS App Store podľa <a href=\"https://play.google.com/about/play-terms/\" target=\"_blank\" rel=\"noopener\">Zmluvných podmienok služby Google Play</a> alebo podľa <a href=\"https://www.apple.com/legal/internet-services/itunes/\" target=\"_blank\" rel=\"noopener\">Podmienok mediálnych služieb</a> spoločnosti Apple. Tieto obchody prijímajú platbu a riešia vrátenia platieb; vaše platobné údaje nikdy nevidíme ani neukladáme. Nákupy sa spotrebujú v Aplikácii a okrem odomknutia bez reklám sa automaticky neobnovujú."
+        ]
+      },
+      {
+        "h": "6. Služby platformy",
+        "p": [
+          "Prihlásenie do Hier Google Play alebo Game Center je voliteľné. Tieto služby poskytujú spoločnosti Google a Apple podľa vlastných podmienok a my nemôžeme obnoviť, previesť ani opraviť účet, ktorý spravujú. Záznamy v rebríčku získané úpravou Aplikácie môžu byť odstránené."
+        ]
+      },
+      {
+        "h": "7. Vaše údaje",
+        "p": [
+          "Pozrite si <a href=\"privacy-policy.html\">Zásady ochrany osobných údajov</a>, kde nájdete informácie o tom, čo Aplikácia ukladá a kde."
+        ]
+      },
+      {
+        "h": "8. Duševné vlastníctvo",
+        "p": [
+          "Aplikáciu vrátane jej kódu, návrhov úrovní, grafiky a zvukov vlastní HAB Labs a je chránená autorským právom. Tieto Podmienky vám k nej neudeľujú žiadne vlastníctvo."
+        ]
+      },
+      {
+        "h": "9. Aktualizácie a dostupnosť",
+        "p": [
+          "Aplikáciu alebo ktorúkoľvek z jej funkcií môžeme kedykoľvek aktualizovať, zmeniť alebo ukončiť bez upozornenia. Nezaručujeme, že Aplikácia zostane dostupná v ktoromkoľvek konkrétnom obchode alebo že bude fungovať na ktoromkoľvek konkrétnom zariadení."
+        ]
+      },
+      {
+        "h": "10. Vylúčenie záruky",
+        "p": [
+          "Aplikácia sa poskytuje \"tak, ako je\" a \"podľa dostupnosti\", bez akejkoľvek záruky, výslovnej alebo predpokladanej, vrátane obchodovateľnosti, vhodnosti na konkrétny účel a neporušovania práv. Nezaručujeme, že Aplikácia bude fungovať neprerušovane alebo bez chýb."
+        ]
+      },
+      {
+        "h": "11. Obmedzenie zodpovednosti",
+        "p": [
+          "V najširšom rozsahu povolenom zákonom HAB Labs nezodpovedá za žiadne nepriame, náhodné ani následné škody ani za akúkoľvek stratu uloženého postupu vyplývajúcu z vášho používania Aplikácie. Nič v týchto Podmienkach neobmedzuje zodpovednosť, ktorú nemožno obmedziť zákonom."
+        ]
+      },
+      {
+        "h": "12. Deti",
+        "p": [
+          "Aplikácia je vhodná pre všetky vekové kategórie. Ak ste maloletý, prejdite si tieto Podmienky s rodičom alebo zákonným zástupcom a pred akýmkoľvek nákupom ich požiadajte o súhlas."
+        ]
+      },
+      {
+        "h": "13. Zmeny týchto Podmienok",
+        "p": [
+          "Tieto Podmienky môžeme upraviť. Upravená verzia sa zverejní na tejto stránke s novým dátumom \"Posledná aktualizácia\" a pokračovanie v používaní Aplikácie po tom znamená, že ju prijímate."
+        ]
+      },
+      {
+        "h": "14. Kontakt",
+        "contact": true
+      }
+    ]
+  },
+  "support": {
+    "title": "Podpora",
+    "summary_label": "Potrebujete pomoc?",
+    "summary": "Napíšte nám a odpovieme. Za touto aplikáciou stojí jeden človek, takže odpoveď zvyčajne trvá deň alebo dva, nie hodinu.",
+    "sections": [
+      {
+        "h": "1. Môj postup zmizol",
+        "p": [
+          "Postup sa uchováva v zariadení. Ak ste aplikáciu preinštalovali, zmenili telefón alebo vymazali jej úložisko, miestna kópia je preč.",
+          "Dá sa obnoviť iba vtedy, ak ste predtým boli prihlásení do Hier Google Play (Android) alebo Game Center a iCloud (iOS) a cloudové uloženie prebehlo aspoň raz. Prihláste sa rovnakým účtom a otvorte aplikáciu; stiahne uloženú kópiu a zlúči ju s tým, čo je v zariadení, pričom pre každú úroveň ponechá lepšiu z oboch možností."
+        ]
+      },
+      {
+        "h": "2. Prihlásenie sa nedokončí",
+        "p": [
+          "V systéme Android je to takmer vždy aplikácia Hry Google Play, nie hra: otvorte ju, skontrolujte, či ste tam prihlásení, a uistite sa, že účet nie je obmedzený rodinnou skupinou.",
+          "Ak bola hra nainštalovaná zo zdroja iného ako Google Play, prihlásenie vôbec nemôže fungovať - Hry Play kontrolujú podpis nainštalovanej aplikácie."
+        ]
+      },
+      {
+        "h": "3. Telefón nevibruje",
+        "p": [
+          "Skontrolujte Nastavenia v hre a potom vlastné nastavenie vibrácií v telefóne. Niektoré telefóny tiež vypínajú vibrácie aplikácií v režime šetrenia batérie.",
+          "Tablety a niektoré staršie telefóny nemajú vibračný motor a nemôžu vibrovať vôbec."
+        ]
+      },
+      {
+        "h": "4. Nákup neprišiel",
+        "p": [
+          "Nákupy doručuje obchod. Znova otvorte aplikáciu, keď ste pripojení: obchod znova odošle všetko, za čo prijal platbu, ale ešte to nedoručil, a aplikácia to okamžite pridelí.",
+          "Ak stále neprišiel ani po niekoľkých minútach, pošlite nám číslo objednávky z potvrdenky Google Play alebo App Store a vyriešime to. Vrátenia platieb musia ísť cez obchod, v ktorom ste nakúpili - nemôžeme ich vystaviť my."
+        ]
+      },
+      {
+        "h": "5. Úroveň vyzerá nemožne",
+        "p": [
+          "Každá úroveň v hre bola pred vydaním vyriešená strojovo, takže vždy existuje cesta von. Tlačidlo nápovedy ukazuje ďalší ťah v najkratšom známom riešení. Ak sa domnievate, že úroveň sa naozaj nedá dokončiť, povedzte nám jej číslo a skontrolujeme ju."
+        ]
+      },
+      {
+        "h": "6. Odstránenie vašich údajov",
+        "p": [
+          "Vymažte úložisko aplikácie alebo ju odinštalujte, aby ste odstránili miestne uloženie. Ak chcete odstrániť cloudovú kópiu, odstráňte uloženú hru v aplikácii Hry Google Play alebo údaje iCloud aplikácie v Nastaveniach iOS."
+        ]
+      },
+      {
+        "h": "7. Kontakt",
+        "contact": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "_comment": "Source text for every Let the car out! legal page. The HTML files are generated from this by build.mjs, and the translations are generated from this by translate.mjs. Edit here, never in the generated HTML.",
+  "meta": {
+    "app": "Let the car out! 3D puzzle",
+    "developer": "HAB Labs",
+    "email": "shawnfrest2k5@gmail.com",
+    "package": "com.hablabs.letthecarout",
+    "updated": "17 Agustus 2026"
+  },
+  "ui": {
+    "back_labs": "Kembali ke HAB Labs",
+    "back_home": "Beranda Let the car out!",
+    "updated_label": "Terakhir diperbarui:",
+    "nav_privacy": "Kebijakan Privasi",
+    "nav_terms": "Ketentuan Penggunaan",
+    "nav_support": "Dukungan"
+  },
+  "index": {
+    "title": "Let the car out! - Halaman Legal",
+    "heading": "Let the car out! 3D puzzle",
+    "sub": "Halaman resmi untuk aplikasi - geser mobil ke samping dan buka jalan keluar, melalui lebih dari 19.000 level offline."
+  },
+  "privacy": {
+    "title": "Kebijakan Privasi",
+    "summary_label": "Ringkasan singkat:",
+    "summary": "Let the car out! adalah puzzle geser mobil. Setiap level ada di dalam aplikasi, jadi Anda dapat memainkan seluruh game tanpa koneksi sama sekali. Progres Anda tersimpan di perangkat Anda. Jika Anda masuk ke Google Play Game atau Game Center, salinan progres tersebut juga disimpan di akun platform Anda sehingga tetap ada saat Anda memakai ponsel baru. Versi ini tidak menampilkan iklan dan tidak berisi analitik atau pelaporan kerusakan. Kami tidak menjalankan server sendiri dan tidak pernah menerima nama, email, atau lokasi Anda.",
+    "sections": [
+      {
+        "h": "1. Pengantar",
+        "p": [
+          "Kebijakan Privasi ini menjelaskan bagaimana aplikasi seluler <strong>Let the car out! 3D puzzle</strong> (paket <code>com.hablabs.letthecarout</code>, \"Aplikasi\") menangani informasi. Aplikasi ini adalah puzzle tempat Anda menggeser mobil keluar dari tempat parkir yang padat. Dengan menggunakan Aplikasi, Anda menyetujui praktik yang dijelaskan di sini."
+        ]
+      },
+      {
+        "h": "2. Informasi yang Kami Kumpulkan",
+        "sub": [
+          {
+            "h": "2.1 Informasi Pribadi",
+            "important": "<strong>Kami tidak mengumpulkan informasi identitas pribadi apa pun.</strong> Aplikasi tidak memiliki akun sendiri, tidak ada pendaftaran, dan tidak ada chat. Kami tidak pernah meminta nama, alamat email, nomor telepon, atau lokasi Anda, dan kami tidak mengoperasikan server yang dapat menerimanya."
+          },
+          {
+            "h": "2.2 Data yang Disimpan di Perangkat Anda",
+            "p": [
+              "Aplikasi menyimpan satu catatan kecil di penyimpanan privat aplikasi standar pada perangkat:"
+            ],
+            "ul": [
+              "Progres kampanye: level tertinggi yang terbuka, level yang terakhir dimainkan, dan rating bintang dari setiap level yang diselesaikan",
+              "Saldo koin Anda, saldo petunjuk, dan penghitung di balik penghargaan - petunjuk yang digunakan, undo yang digunakan, penyelesaian bersih, penyelesaian cepat, dan rekor rangkaian penyelesaian bersih terbaik Anda",
+              "Penghargaan mana yang telah Anda klaim dan pulau mana yang telah Anda buka",
+              "Pengaturan: bahasa antarmuka, tema adegan, musik, efek suara, getaran, notifikasi, resolusi, dan laju frame",
+              "Penanda yang mencatat bahwa Anda telah menyelesaikan tutorial dan apakah iklan telah dihapus"
+            ],
+            "after": "Menghapus instalasi Aplikasi, atau menghapus penyimpanannya, akan menghapus salinan lokal ini."
+          },
+          {
+            "h": "2.3 Penyimpanan Cloud dan Layanan Platform",
+            "p": [
+              "Jika Anda masuk ke <strong>Google Play Game</strong> di Android, atau <strong>Game Center dan iCloud</strong> di iOS, Aplikasi menyimpan salinan dari catatan yang sama tersebut di akun platform Anda sehingga progres Anda tetap ada jika perangkat hilang atau diganti. Salinan tersebut disimpan oleh Google atau Apple di bawah akun Anda sendiri, bukan oleh kami. Kami tidak dapat membacanya, dan kami tidak diberi tahu bahwa Anda memilikinya.",
+              "Aplikasi juga melaporkan dua hal ke layanan tersebut saat Anda masuk: total bintang Anda, untuk papan peringkat, dan pencapaian yang telah Anda peroleh. Tidak ada hal lain yang dikirim. Masuk bersifat opsional dan seluruh game dapat dimainkan tanpanya. Keluar dari aplikasi Google Play Game atau Game Center dan Aplikasi berhenti mengirim apa pun."
+            ]
+          },
+          {
+            "h": "2.4 Hal yang Tidak Dilakukan Aplikasi",
+            "ul": [
+              "<strong>Tidak ada iklan.</strong> Versi ini tidak menayangkan iklan banner, interstisial, atau berhadiah, dan tidak ada SDK periklanan yang dikompilasi ke dalamnya.",
+              "<strong>Tidak ada analitik, telemetri, atau pelaporan kerusakan.</strong> Kami tidak mengumpulkan statistik penggunaan apa pun.",
+              "<strong>Tidak ada akses ke foto, kontak, kamera, mikrofon, file, atau lokasi.</strong>",
+              "<strong>Tidak ada pelacakan lintas aplikasi atau situs web</strong>, dan tidak ada ID iklan yang dibaca."
+            ]
+          },
+          {
+            "h": "2.5 Izin yang Diminta Aplikasi",
+            "ul": [
+              "<strong>Getar</strong> (<code>android.permission.VIBRATE</code>) - ketukan singkat umpan balik haptik saat mobil masuk ke tempatnya, saat gerakan terhalang, dan saat Anda menyelesaikan level. Matikan di Pengaturan dan Aplikasi berhenti bergetar.",
+              "<strong>Internet</strong> (<code>android.permission.INTERNET</code>) - hanya digunakan oleh masuk Google Play Game, penyimpanan cloud, papan peringkat, dan penagihan Google Play saat Anda membeli sesuatu. Game itu sendiri tidak memerlukan koneksi: setiap level disertakan dalam unduhan."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "3. Cara Informasi Digunakan",
+        "p": [
+          "Catatan yang disimpan ada untuk satu tujuan: agar game dapat mengingat posisi terakhir Anda dan cara Anda suka bermain. Catatan tersebut tidak diagregasi, tidak diprofilkan, dan tidak dijual."
+        ]
+      },
+      {
+        "h": "4. Layanan Pihak Ketiga",
+        "p": [
+          "Aplikasi menggunakan layanan berikut. Masing-masing menangani data Anda berdasarkan kebijakan privasinya sendiri, dan masing-masing bersifat opsional kecuali toko tempat Anda menginstal:"
+        ],
+        "ul": [
+          "<strong>Google Play</strong> - unduhan, pembaruan, pengembalian dana, dan, di Android, pembelian dalam aplikasi: <a href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noopener\">https://policies.google.com/privacy</a>",
+          "<strong>Layanan Google Play Game</strong> (Android) - masuk opsional, pencapaian, papan peringkat, dan penyimpanan cloud, berdasarkan kebijakan privasi Google yang sama",
+          "<strong>Apple App Store, Game Center, dan iCloud</strong> (iOS) - unduhan, pembelian dalam aplikasi, masuk opsional, pencapaian, papan peringkat, dan penyimpanan cloud: <a href=\"https://www.apple.com/legal/privacy/\" target=\"_blank\" rel=\"noopener\">https://www.apple.com/legal/privacy/</a>"
+        ],
+        "after": "Aplikasi dibuat dengan mesin Unity. Runtime Unity dikompilasi ke dalam Aplikasi; tidak ada paket analitik atau periklanan Unity yang disertakan dalam build ini."
+      },
+      {
+        "h": "5. Pembelian",
+        "p": [
+          "Paket koin dan pembukaan bebas iklan dijual melalui penagihan Google Play di Android dan App Store di iOS. Toko-toko tersebut memproses pembayaran dan hanya memberi tahu Aplikasi apakah pembelian berhasil. <strong>Kami tidak pernah melihat atau menyimpan kartu, alamat, atau detail pembayaran lainnya milik Anda.</strong> Pengembalian dana ditangani oleh toko tempat Anda membeli."
+        ]
+      },
+      {
+        "h": "6. Berbagi Data",
+        "p": [
+          "Kami tidak menjual, menyewakan, atau membagikan data Anda. Kami tidak menerima apa pun untuk dibagikan: satu-satunya salinan yang keluar dari perangkat Anda masuk ke akun Google atau Apple Anda sendiri."
+        ]
+      },
+      {
+        "h": "7. Pilihan Anda",
+        "ul": [
+          "<strong>Bermain tanpa masuk:</strong> tolak Google Play Game atau Game Center dan tidak ada apa pun yang dikirim ke mana pun.",
+          "<strong>Hapus salinan cloud:</strong> hapus game tersimpan Aplikasi di aplikasi Google Play Game, atau hapus data iCloud-nya di Pengaturan iOS.",
+          "<strong>Hapus semuanya secara lokal:</strong> hapus penyimpanan Aplikasi, atau hapus instalasinya.",
+          "<strong>Reset progres dalam game:</strong> Pengaturan berisi reset yang menghapus simpanan Anda.",
+          "<strong>Matikan getaran, musik, atau suara:</strong> Pengaturan, kapan saja."
+        ]
+      },
+      {
+        "h": "8. Privasi Anak",
+        "p": [
+          "Aplikasi ramah keluarga. Aplikasi ini tidak memiliki chat, tidak ada konten buatan pengguna, dan tidak ada iklan, serta tidak secara sadar mengumpulkan informasi pribadi dari siapa pun, termasuk anak di bawah 13 tahun. Masuk ke Google Play Game dan Game Center dikendalikan oleh akun platform dan oleh kontrol orang tua apa pun yang diatur pada akun tersebut. Jika Anda yakin seorang anak telah memberikan informasi pribadi melalui Aplikasi, silakan hubungi kami."
+        ]
+      },
+      {
+        "h": "9. Keamanan Data",
+        "ul": [
+          "Progres dan pengaturan disimpan di penyimpanan privat aplikasi standar pada perangkat, yang tidak dapat dibaca oleh aplikasi lain.",
+          "Salinan cloud dilindungi oleh akun Google atau Apple Anda dan keamanannya sendiri.",
+          "Kami tidak mengoperasikan server, jadi tidak ada akun milik Anda yang dapat kami hilangkan dan tidak ada basis data milik kami yang dapat dibobol."
+        ]
+      },
+      {
+        "h": "10. Perubahan pada Kebijakan Ini",
+        "p": [
+          "Perubahan diposting di halaman ini dengan tanggal \"Terakhir diperbarui\" yang baru. Jika versi mendatang mengumpulkan sesuatu yang tidak dijelaskan halaman ini, halaman akan diperbarui <em>sebelum</em> versi tersebut dirilis. Terus menggunakan Aplikasi setelah perubahan berarti Anda menerima kebijakan yang direvisi."
+        ]
+      },
+      {
+        "h": "11. Hubungi Kami",
+        "contact": true
+      },
+      {
+        "h": "12. Kepatuhan",
+        "p": [
+          "Kebijakan Privasi ini dimaksudkan untuk mematuhi kebijakan Google Play, pedoman Apple App Store, General Data Protection Regulation (GDPR), California Consumer Privacy Act (CCPA), dan Children's Online Privacy Protection Act (COPPA)."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Ketentuan Penggunaan",
+    "summary_label": "Singkatnya:",
+    "summary": "Game ini gratis untuk diunduh dan dapat Anda mainkan di perangkat Anda sendiri. Jangan menyalinnya, menjualnya kembali, atau membongkarnya. Game ini disediakan apa adanya. Koin dan petunjuk adalah fitur hiburan tanpa nilai tunai, dan apa pun yang Anda beli dibeli dari Google atau Apple, bukan dari kami.",
+    "sections": [
+      {
+        "h": "1. Penerimaan",
+        "p": [
+          "Dengan mengunduh, menginstal, atau memainkan <strong>Let the car out! 3D puzzle</strong> (\"Aplikasi\"), yang diterbitkan oleh HAB Labs, Anda menyetujui Ketentuan Penggunaan ini. Jika Anda tidak setuju, hapus instalasi Aplikasi."
+        ]
+      },
+      {
+        "h": "2. Lisensi",
+        "p": [
+          "Kami memberi Anda lisensi pribadi, non-eksklusif, tidak dapat dialihkan, dan dapat dicabut untuk menginstal dan memainkan Aplikasi di perangkat yang Anda miliki atau kendalikan, untuk penggunaan pribadi dan non-komersial."
+        ]
+      },
+      {
+        "h": "3. Hal yang Tidak Boleh Anda Lakukan",
+        "ul": [
+          "Menyalin, menjual, menyewakan, mensublisensikan, atau mendistribusikan ulang Aplikasi atau level, karya seni, suara, atau terjemahannya",
+          "Merekayasa balik, mendekompilasi, atau membongkar Aplikasi, kecuali jika hak tersebut tidak dapat dikecualikan oleh hukum",
+          "Memodifikasi Aplikasi atau data tersimpannya untuk memperoleh keuntungan, lalu menampilkan hasilnya sebagai permainan asli, termasuk di papan peringkat",
+          "Menggunakan Aplikasi untuk hal yang melanggar hukum"
+        ]
+      },
+      {
+        "h": "4. Item Virtual",
+        "p": [
+          "Koin, petunjuk, bintang, dan penghargaan adalah fitur hiburan di dalam Aplikasi. Semuanya tidak memiliki nilai uang, tidak dapat ditukar dengan uang atau barang, dan tidak dapat dialihkan ke orang lain. Semuanya berpindah di antara perangkat Anda sendiri hanya melalui penyimpanan cloud yang dijelaskan dalam Kebijakan Privasi, dan akan hilang jika Anda menghapus simpanan lokal dan salinan cloud tersebut."
+        ]
+      },
+      {
+        "h": "5. Pembelian",
+        "p": [
+          "Paket koin dan pembukaan bebas iklan dijual oleh Google Play di Android dan oleh App Store di iOS, berdasarkan <a href=\"https://play.google.com/about/play-terms/\" target=\"_blank\" rel=\"noopener\">Persyaratan Layanan Google Play</a> atau <a href=\"https://www.apple.com/legal/internet-services/itunes/\" target=\"_blank\" rel=\"noopener\">Ketentuan Layanan Media</a> Apple. Toko-toko tersebut menerima pembayaran dan menangani pengembalian dana; kami tidak pernah melihat atau menyimpan detail pembayaran Anda. Pembelian dikonsumsi di dalam Aplikasi dan, selain pembukaan bebas iklan, tidak dipulihkan secara otomatis."
+        ]
+      },
+      {
+        "h": "6. Layanan Platform",
+        "p": [
+          "Masuk ke Google Play Game atau Game Center bersifat opsional. Layanan tersebut disediakan oleh Google dan Apple berdasarkan ketentuan mereka sendiri, dan kami tidak dapat memulihkan, mengalihkan, atau memperbaiki akun yang mereka pegang. Entri papan peringkat yang diperoleh dengan memodifikasi Aplikasi dapat dihapus."
+        ]
+      },
+      {
+        "h": "7. Data Anda",
+        "p": [
+          "Lihat <a href=\"privacy-policy.html\">Kebijakan Privasi</a> untuk mengetahui apa yang disimpan Aplikasi dan di mana."
+        ]
+      },
+      {
+        "h": "8. Kekayaan Intelektual",
+        "p": [
+          "Aplikasi, termasuk kode, desain level, karya seni, dan suaranya, dimiliki oleh HAB Labs dan dilindungi oleh hak cipta. Ketentuan ini tidak memberi Anda kepemilikan atasnya."
+        ]
+      },
+      {
+        "h": "9. Pembaruan dan Ketersediaan",
+        "p": [
+          "Kami dapat memperbarui, mengubah, atau menghentikan Aplikasi atau fitur apa pun darinya kapan saja, tanpa pemberitahuan. Kami tidak menjamin bahwa Aplikasi akan tetap tersedia di toko tertentu atau berjalan di perangkat tertentu."
+        ]
+      },
+      {
+        "h": "10. Penafian Jaminan",
+        "p": [
+          "Aplikasi disediakan \"apa adanya\" dan \"sebagaimana tersedia\", tanpa jaminan apa pun, baik tersurat maupun tersirat, termasuk kelayakan untuk diperdagangkan, kesesuaian untuk tujuan tertentu, dan tidak adanya pelanggaran. Kami tidak menjamin bahwa Aplikasi akan berjalan tanpa gangguan atau bebas dari cacat."
+        ]
+      },
+      {
+        "h": "11. Batasan Tanggung Jawab",
+        "p": [
+          "Sejauh diizinkan sepenuhnya oleh hukum, HAB Labs tidak bertanggung jawab atas kerugian tidak langsung, insidental, atau konsekuensial apa pun, atau atas hilangnya progres tersimpan, yang timbul dari penggunaan Aplikasi oleh Anda. Tidak ada dalam Ketentuan ini yang membatasi tanggung jawab yang tidak dapat dibatasi oleh hukum."
+        ]
+      },
+      {
+        "h": "12. Anak-anak",
+        "p": [
+          "Aplikasi cocok untuk semua usia. Jika Anda masih di bawah umur, harap tinjau Ketentuan ini bersama orang tua atau wali, dan mintalah izin mereka sebelum melakukan pembelian apa pun."
+        ]
+      },
+      {
+        "h": "13. Perubahan pada Ketentuan Ini",
+        "p": [
+          "Kami dapat merevisi Ketentuan ini. Versi yang direvisi diposting di halaman ini dengan tanggal \"Terakhir diperbarui\" yang baru, dan terus menggunakan Aplikasi setelah itu berarti Anda menerimanya."
+        ]
+      },
+      {
+        "h": "14. Kontak",
+        "contact": true
+      }
+    ]
+  },
+  "support": {
+    "title": "Dukungan",
+    "summary_label": "Butuh bantuan?",
+    "summary": "Tulis kepada kami dan kami akan menjawab. Ada satu orang di balik aplikasi ini, jadi balasan biasanya memerlukan satu atau dua hari, bukan satu jam.",
+    "sections": [
+      {
+        "h": "1. Progres saya hilang",
+        "p": [
+          "Progres disimpan di perangkat. Jika Anda menginstal ulang aplikasi, mengganti ponsel, atau menghapus penyimpanannya, salinan lokal hilang.",
+          "Progres hanya dapat dipulihkan jika Anda sebelumnya sudah masuk ke Google Play Game (Android) atau Game Center dan iCloud (iOS), dan penyimpanan cloud sudah berjalan setidaknya sekali. Masuk dengan akun yang sama dan buka aplikasi; aplikasi akan mengambil salinan tersimpan dan menggabungkannya dengan apa pun yang ada di perangkat, dengan mempertahankan yang lebih baik dari keduanya untuk setiap level."
+        ]
+      },
+      {
+        "h": "2. Masuk tidak selesai",
+        "p": [
+          "Di Android, ini hampir selalu terkait aplikasi Google Play Game, bukan gamenya: buka aplikasi tersebut, periksa bahwa Anda sudah masuk di sana, dan pastikan akun tersebut bukan akun yang dibatasi oleh grup keluarga.",
+          "Jika game dipasang dari sumber selain Google Play, masuk tidak dapat berfungsi sama sekali - Play Game memeriksa tanda tangan aplikasi yang terpasang."
+        ]
+      },
+      {
+        "h": "3. Ponsel tidak bergetar",
+        "p": [
+          "Periksa Pengaturan di dalam game, lalu pengaturan getaran ponsel Anda sendiri. Beberapa ponsel juga menonaktifkan getaran aplikasi dalam mode penghemat baterai.",
+          "Tablet dan beberapa ponsel lama tidak memiliki motor getar dan sama sekali tidak dapat bergetar."
+        ]
+      },
+      {
+        "h": "4. Pembelian tidak masuk",
+        "p": [
+          "Pembelian dikirim oleh toko. Buka kembali aplikasi saat terhubung: toko akan mengirim ulang apa pun yang sudah dibayar tetapi belum dikirim, dan aplikasi memberikannya saat itu juga.",
+          "Jika masih belum masuk setelah beberapa menit, kirimkan kepada kami nomor pesanan dari tanda terima Google Play atau App Store Anda dan kami akan menyelesaikannya. Pengembalian dana harus melalui toko tempat Anda membeli - kami tidak dapat menerbitkannya."
+        ]
+      },
+      {
+        "h": "5. Sebuah level terlihat mustahil",
+        "p": [
+          "Setiap level dalam game telah diselesaikan oleh mesin sebelum dirilis, jadi selalu ada jalan keluar. Tombol petunjuk menunjukkan langkah berikutnya pada solusi terpendek yang diketahui. Jika Anda yakin suatu level benar-benar tidak dapat diselesaikan, beri tahu kami nomornya dan kami akan memeriksa level tersebut."
+        ]
+      },
+      {
+        "h": "6. Menghapus data Anda",
+        "p": [
+          "Hapus penyimpanan aplikasi atau hapus instalasinya untuk menghapus simpanan lokal. Untuk menghapus salinan cloud, hapus game tersimpan di aplikasi Google Play Game, atau data iCloud aplikasi di Pengaturan iOS."
+        ]
+      },
+      {
+        "h": "7. Kontak",
+        "contact": true
+      }
+    ]
+  }
+}

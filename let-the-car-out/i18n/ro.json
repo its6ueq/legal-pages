@@ -1,0 +1,295 @@
+{
+  "_comment": "Source text for every Let the car out! legal page. The HTML files are generated from this by build.mjs, and the translations are generated from this by translate.mjs. Edit here, never in the generated HTML.",
+  "meta": {
+    "app": "Let the car out! 3D puzzle",
+    "developer": "HAB Labs",
+    "email": "shawnfrest2k5@gmail.com",
+    "package": "com.hablabs.letthecarout",
+    "updated": "17 august 2026"
+  },
+  "ui": {
+    "back_labs": "Înapoi la HAB Labs",
+    "back_home": "Pagina principală Let the car out!",
+    "updated_label": "Ultima actualizare:",
+    "nav_privacy": "Politica de confidențialitate",
+    "nav_terms": "Condiții de utilizare",
+    "nav_support": "Asistență"
+  },
+  "index": {
+    "title": "Let the car out! - Pagini legale",
+    "heading": "Let the car out! 3D puzzle",
+    "sub": "Pagini oficiale pentru aplicație - mută mașinile din cale și eliberează o ieșire, în peste 19.000 de niveluri offline."
+  },
+  "privacy": {
+    "title": "Politica de confidențialitate",
+    "summary_label": "Rezumat rapid:",
+    "summary": "Let the car out! este un joc de logică cu mașini glisante. Fiecare nivel se află în aplicație, așa că poți juca întregul joc fără nicio conexiune. Progresul tău se află pe dispozitivul tău. Dacă te conectezi la Jocuri Google Play sau Game Center, o copie a acestui progres este păstrată și în contul tău de platformă, astfel încât să supraviețuiască unui telefon nou. Această versiune nu afișează reclame și nu conține analitice sau raportare a erorilor. Nu operăm servere proprii și nu primim niciodată numele, e-mailul sau locația ta.",
+    "sections": [
+      {
+        "h": "1. Introducere",
+        "p": [
+          "Această Politică de confidențialitate explică modul în care aplicația mobilă <strong>Let the car out! 3D puzzle</strong> (pachetul <code>com.hablabs.letthecarout</code>, „Aplicația”) gestionează informațiile. Aplicația este un joc de logică în care glisezi mașini pentru a le scoate dintr-o parcare aglomerată. Prin utilizarea Aplicației, ești de acord cu practicile descrise aici."
+        ]
+      },
+      {
+        "h": "2. Informațiile pe care le colectăm",
+        "sub": [
+          {
+            "h": "2.1 Informații personale",
+            "important": "<strong>Nu colectăm informații de identificare personală.</strong> Aplicația nu are un cont propriu, nu are înregistrare și nu are chat. Nu îți cerem niciodată numele, adresa de e-mail, numărul de telefon sau locația și nu operăm niciun server care le-ar putea primi."
+          },
+          {
+            "h": "2.2 Date stocate pe dispozitivul tău",
+            "p": [
+              "Aplicația păstrează o mică înregistrare în spațiul standard privat al aplicației de pe dispozitiv:"
+            ],
+            "ul": [
+              "Progresul campaniei: cel mai înalt nivel deblocat, ultimul nivel jucat și evaluarea cu stele a fiecărui nivel finalizat",
+              "Soldul tău de monede, soldul de indicii și contoarele din spatele premiilor - indicii folosite, anulări folosite, finalizări curate, finalizări rapide și cea mai bună serie de finalizări curate",
+              "Ce premii ai revendicat și ce insule ai deschis",
+              "Setări: limba interfeței, tema scenei, muzică, efecte sonore, vibrație, notificări, rezoluție și rată de cadre",
+              "Marcaje care înregistrează că ai terminat tutorialul și dacă reclamele au fost eliminate"
+            ],
+            "after": "Dezinstalarea Aplicației sau ștergerea spațiului său de stocare șterge această copie locală."
+          },
+          {
+            "h": "2.3 Salvare în cloud și servicii de platformă",
+            "p": [
+              "Dacă ești conectat la <strong>Jocuri Google Play</strong> pe Android sau la <strong>Game Center și iCloud</strong> pe iOS, Aplicația păstrează o copie a aceleiași înregistrări în contul tău de platformă, astfel încât progresul tău să supraviețuiască pierderii sau înlocuirii unui dispozitiv. Copia este păstrată de Google sau Apple în contul tău, nu de noi. Nu o putem citi și nu suntem informați că ai una.",
+              "Aplicația raportează acestor servicii și două lucruri atunci când ești conectat: numărul total de stele, pentru clasament, și realizările pe care le-ai obținut. Nu se trimite nimic altceva. Conectarea este opțională și întregul joc poate fi jucat fără ea. Deconectează-te în aplicația Jocuri Google Play sau Game Center, iar Aplicația nu mai trimite nimic."
+            ]
+          },
+          {
+            "h": "2.4 Ce nu face Aplicația",
+            "ul": [
+              "<strong>Fără reclame.</strong> Această versiune nu afișează reclame banner, interstițiale sau recompensate și nu are niciun SDK de publicitate compilat în ea.",
+              "<strong>Fără analitice, telemetrie sau raportare a erorilor.</strong> Nu colectăm statistici de utilizare de niciun fel.",
+              "<strong>Fără acces la fotografii, contacte, cameră, microfon, fișiere sau locație.</strong>",
+              "<strong>Fără urmărire între aplicații sau site-uri web</strong> și nu se citește niciun identificator de publicitate."
+            ]
+          },
+          {
+            "h": "2.5 Permisiuni solicitate de Aplicație",
+            "ul": [
+              "<strong>Vibrație</strong> (<code>android.permission.VIBRATE</code>) - atingeri scurte de feedback haptic atunci când o mașină se fixează la loc, când o mișcare este blocată și când finalizezi un nivel. Dezactiveaz-o în Setări, iar Aplicația nu mai vibrează.",
+              "<strong>Internet</strong> (<code>android.permission.INTERNET</code>) - folosită numai de conectarea la Jocuri Google Play, salvarea în cloud, clasament și facturarea Google Play atunci când cumperi ceva. Jocul în sine nu are nevoie de conexiune: fiecare nivel este inclus în descărcare."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "3. Cum sunt folosite informațiile",
+        "p": [
+          "Înregistrarea stocată există cu un singur scop: ca jocul să își amintească unde ai rămas și cum îți place să joci. Nu este agregată, profilată sau vândută."
+        ]
+      },
+      {
+        "h": "4. Servicii terțe",
+        "p": [
+          "Aplicația folosește următoarele servicii. Fiecare îți gestionează datele conform propriei politici de confidențialitate, iar fiecare este opțional, cu excepția magazinului din care ai instalat:"
+        ],
+        "ul": [
+          "<strong>Google Play</strong> - descărcare, actualizare, rambursare și, pe Android, achiziții în aplicație: <a href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noopener\">https://policies.google.com/privacy</a>",
+          "<strong>Serviciile Jocuri Google Play</strong> (Android) - conectare opțională, realizări, clasament și salvare în cloud, conform aceleiași politici de confidențialitate Google",
+          "<strong>Apple App Store, Game Center și iCloud</strong> (iOS) - descărcare, achiziții în aplicație, conectare opțională, realizări, clasament și salvare în cloud: <a href=\"https://www.apple.com/legal/privacy/\" target=\"_blank\" rel=\"noopener\">https://www.apple.com/legal/privacy/</a>"
+        ],
+        "after": "Aplicația este construită cu motorul Unity. Runtime-ul Unity este compilat în Aplicație; în această versiune nu este inclus niciun pachet de analitice sau publicitate Unity."
+      },
+      {
+        "h": "5. Achiziții",
+        "p": [
+          "Pachetele de monede și deblocarea fără reclame sunt vândute prin facturarea Google Play pe Android și prin App Store pe iOS. Aceste magazine procesează plata și îi comunică Aplicației numai dacă o achiziție a reușit. <strong>Nu vedem și nu stocăm niciodată cardul, adresa sau orice alt detaliu de plată al tău.</strong> Rambursările sunt gestionate de magazinul din care ai cumpărat."
+        ]
+      },
+      {
+        "h": "6. Partajarea datelor",
+        "p": [
+          "Nu vindem, nu închiriem și nu partajăm datele tale. Nu primim niciunele pe care să le partajăm: singurele copii care părăsesc dispozitivul tău merg în propriul tău cont Google sau Apple."
+        ]
+      },
+      {
+        "h": "7. Opțiunile tale",
+        "ul": [
+          "<strong>Joacă fără să te conectezi:</strong> refuză Jocuri Google Play sau Game Center și nu se trimite nimic nicăieri.",
+          "<strong>Șterge copia din cloud:</strong> elimină jocul salvat al Aplicației în aplicația Jocuri Google Play sau șterge datele sale iCloud din Setările iOS.",
+          "<strong>Șterge totul local:</strong> șterge spațiul de stocare al Aplicației sau dezinstaleaz-o.",
+          "<strong>Resetează progresul în joc:</strong> Setările conțin o resetare care îți șterge salvarea.",
+          "<strong>Dezactivează vibrația, muzica sau sunetul:</strong> Setări, în orice moment."
+        ]
+      },
+      {
+        "h": "8. Confidențialitatea copiilor",
+        "p": [
+          "Aplicația este potrivită pentru familii. Nu are chat, nu are conținut generat de utilizatori și nu are publicitate și nu colectează cu bună știință informații personale de la nimeni, inclusiv de la copii sub 13 ani. Conectarea la Jocuri Google Play și Game Center este controlată de contul de platformă și de orice controale parentale setate pentru acesta. Dacă crezi că un copil a furnizat informații personale prin Aplicație, te rugăm să ne contactezi."
+        ]
+      },
+      {
+        "h": "9. Securitatea datelor",
+        "ul": [
+          "Progresul și setările sunt păstrate în spațiul standard privat al aplicației de pe dispozitiv, pe care alte aplicații nu îl pot citi.",
+          "Copia din cloud este protejată de contul tău Google sau Apple și de propria sa securitate.",
+          "Nu operăm servere, deci nu există niciun cont al tău pe care să îl pierdem și nicio bază de date a noastră care să fie compromisă."
+        ]
+      },
+      {
+        "h": "10. Modificări ale acestei politici",
+        "p": [
+          "Modificările sunt publicate pe această pagină cu o nouă dată „Ultima actualizare”. Dacă o versiune viitoare colectează ceva ce această pagină nu descrie, pagina este actualizată <em>înainte</em> de lansarea acelei versiuni. Continuarea utilizării Aplicației după o modificare înseamnă că accepți politica revizuită."
+        ]
+      },
+      {
+        "h": "11. Contactați-ne",
+        "contact": true
+      },
+      {
+        "h": "12. Conformitate",
+        "p": [
+          "Această Politică de confidențialitate este destinată să respecte politica Google Play, recomandările Apple App Store, Regulamentul general privind protecția datelor (GDPR), California Consumer Privacy Act (CCPA) și Children's Online Privacy Protection Act (COPPA)."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Condiții de utilizare",
+    "summary_label": "Pe scurt:",
+    "summary": "Jocul poate fi descărcat gratuit și îl poți juca pe propriile tale dispozitive. Nu îl copia, nu îl revinde și nu îl demonta. Este furnizat ca atare. Monedele și indiciile sunt funcții de divertisment fără valoare în numerar, iar orice cumperi este cumpărat de la Google sau Apple, nu de la noi.",
+    "sections": [
+      {
+        "h": "1. Acceptare",
+        "p": [
+          "Prin descărcarea, instalarea sau jucarea <strong>Let the car out! 3D puzzle</strong> („Aplicația”), publicată de HAB Labs, ești de acord cu aceste Condiții de utilizare. Dacă nu ești de acord, dezinstalează Aplicația."
+        ]
+      },
+      {
+        "h": "2. Licență",
+        "p": [
+          "Îți acordăm o licență personală, neexclusivă, netransferabilă și revocabilă pentru a instala și juca Aplicația pe dispozitive pe care le deții sau le controlezi, pentru utilizare personală, necomercială."
+        ]
+      },
+      {
+        "h": "3. Ce nu ai voie să faci",
+        "ul": [
+          "Să copiezi, vinzi, închiriezi, sublicențiezi sau redistribui Aplicația sau nivelurile, ilustrațiile, sunetele ori traducerile sale",
+          "Să faci inginerie inversă, să decompilezi sau să dezasamblezi Aplicația, cu excepția cazului în care acest drept nu poate fi exclus prin lege",
+          "Să modifici Aplicația sau datele sale salvate pentru a obține un avantaj și apoi să prezinți rezultatul ca joc autentic, inclusiv în clasament",
+          "Să folosești Aplicația pentru orice lucru ilegal"
+        ]
+      },
+      {
+        "h": "4. Elemente virtuale",
+        "p": [
+          "Monedele, indiciile, stelele și premiile sunt funcții de divertisment în interiorul Aplicației. Nu au valoare monetară, nu pot fi schimbate pe bani sau bunuri și nu pot fi transferate unei alte persoane. Ele se mută între propriile tale dispozitive numai prin salvarea în cloud descrisă în Politica de confidențialitate și se pierd dacă ștergi atât salvarea locală, cât și acea copie din cloud."
+        ]
+      },
+      {
+        "h": "5. Achiziții",
+        "p": [
+          "Pachetele de monede și deblocarea fără reclame sunt vândute de Google Play pe Android și de App Store pe iOS, conform <a href=\"https://play.google.com/about/play-terms/\" target=\"_blank\" rel=\"noopener\">Condițiilor de utilizare Google Play</a> sau <a href=\"https://www.apple.com/legal/internet-services/itunes/\" target=\"_blank\" rel=\"noopener\">Condițiilor serviciilor media</a> Apple. Aceste magazine încasează plata și gestionează rambursările; noi nu vedem și nu stocăm niciodată detaliile tale de plată. Achizițiile sunt consumate în interiorul Aplicației și, cu excepția deblocării fără reclame, nu sunt restaurate automat."
+        ]
+      },
+      {
+        "h": "6. Servicii de platformă",
+        "p": [
+          "Conectarea la Jocuri Google Play sau Game Center este opțională. Aceste servicii sunt furnizate de Google și Apple conform propriilor condiții, iar noi nu putem restaura, transfera sau repara un cont deținut de acestea. Intrările în clasament obținute prin modificarea Aplicației pot fi eliminate."
+        ]
+      },
+      {
+        "h": "7. Datele tale",
+        "p": [
+          "Consultă <a href=\"privacy-policy.html\">Politica de confidențialitate</a> pentru a vedea ce stochează Aplicația și unde."
+        ]
+      },
+      {
+        "h": "8. Proprietate intelectuală",
+        "p": [
+          "Aplicația, inclusiv codul său, designurile nivelurilor, ilustrațiile și sunetele, este deținută de HAB Labs și protejată prin drepturi de autor. Aceste Condiții nu îți acordă niciun drept de proprietate asupra ei."
+        ]
+      },
+      {
+        "h": "9. Actualizări și disponibilitate",
+        "p": [
+          "Putem actualiza, modifica sau opri Aplicația sau oricare dintre funcțiile sale în orice moment, fără notificare. Nu garantăm că Aplicația va rămâne disponibilă în vreun magazin anume sau că va rula pe vreun dispozitiv anume."
+        ]
+      },
+      {
+        "h": "10. Excluderea garanției",
+        "p": [
+          "Aplicația este furnizată „ca atare” și „în funcție de disponibilitate”, fără garanții de niciun fel, exprese sau implicite, inclusiv vandabilitatea, adecvarea pentru un anumit scop și neîncălcarea drepturilor. Nu garantăm că Aplicația va funcționa fără întreruperi sau că va fi lipsită de defecte."
+        ]
+      },
+      {
+        "h": "11. Limitarea răspunderii",
+        "p": [
+          "În măsura maximă permisă de lege, HAB Labs nu răspunde pentru niciun fel de daune indirecte, incidentale sau consecvente ori pentru orice pierdere a progresului salvat, rezultate din utilizarea Aplicației de către tine. Nimic din aceste Condiții nu limitează răspunderea care nu poate fi limitată prin lege."
+        ]
+      },
+      {
+        "h": "12. Copii",
+        "p": [
+          "Aplicația este potrivită pentru toate vârstele. Dacă ești minor, te rugăm să analizezi aceste Condiții împreună cu un părinte sau tutore și să le ceri acordul înainte de a face orice achiziție."
+        ]
+      },
+      {
+        "h": "13. Modificări ale acestor Condiții",
+        "p": [
+          "Putem revizui aceste Condiții. Versiunea revizuită este publicată pe această pagină cu o nouă dată „Ultima actualizare”, iar continuarea utilizării Aplicației după aceea înseamnă că o accepți."
+        ]
+      },
+      {
+        "h": "14. Contact",
+        "contact": true
+      }
+    ]
+  },
+  "support": {
+    "title": "Asistență",
+    "summary_label": "Ai nevoie de ajutor?",
+    "summary": "Scrie-ne și vom răspunde. În spatele acestei aplicații este o singură persoană, așa că un răspuns durează de obicei o zi sau două, nu o oră.",
+    "sections": [
+      {
+        "h": "1. Progresul meu a dispărut",
+        "p": [
+          "Progresul este păstrat pe dispozitiv. Dacă ai reinstalat aplicația, ai schimbat telefonul sau i-ai șters spațiul de stocare, copia locală a dispărut.",
+          "Poate fi recuperat numai dacă ai fost conectat anterior la Jocuri Google Play (Android) sau Game Center și iCloud (iOS), iar salvarea în cloud rulase cel puțin o dată. Conectează-te cu același cont și deschide aplicația; aceasta preia copia salvată și o îmbină cu orice se află pe dispozitiv, păstrând varianta mai bună dintre cele două pentru fiecare nivel."
+        ]
+      },
+      {
+        "h": "2. Conectarea nu se finalizează",
+        "p": [
+          "Pe Android, aceasta este aproape întotdeauna o problemă a aplicației Jocuri Google Play, nu a jocului: deschide-o, verifică dacă ești conectat acolo și asigură-te că nu este un cont restricționat de un grup de familie.",
+          "Dacă jocul a fost instalat dintr-o altă sursă decât Google Play, conectarea nu poate funcționa deloc - Play Games verifică semnătura aplicației instalate."
+        ]
+      },
+      {
+        "h": "3. Telefonul nu vibrează",
+        "p": [
+          "Verifică Setările din joc, apoi propria setare de vibrație a telefonului. Unele telefoane dezactivează și vibrația aplicațiilor în modul de economisire a bateriei.",
+          "Tabletele și unele telefoane mai vechi nu au motor de vibrație și nu pot vibra deloc."
+        ]
+      },
+      {
+        "h": "4. O achiziție nu a sosit",
+        "p": [
+          "Achizițiile sunt livrate de magazin. Redeschide aplicația cât timp ești conectat: magazinul retrimite orice pentru care a încasat plata, dar nu a livrat încă, iar aplicația îl acordă pe loc.",
+          "Dacă tot nu a sosit după câteva minute, trimite-ne numărul comenzii din chitanța ta Google Play sau App Store și vom rezolva. Rambursările trebuie să treacă prin magazinul din care ai cumpărat - noi nu le putem emite."
+        ]
+      },
+      {
+        "h": "5. Un nivel pare imposibil",
+        "p": [
+          "Fiecare nivel din joc a fost rezolvat de mașină înainte de lansare, deci există întotdeauna o ieșire. Butonul de indiciu arată următoarea mutare din cea mai scurtă soluție cunoscută. Dacă crezi că un nivel chiar nu poate fi terminat, spune-ne numărul lui și îl vom verifica."
+        ]
+      },
+      {
+        "h": "6. Ștergerea datelor tale",
+        "p": [
+          "Șterge spațiul de stocare al aplicației sau dezinstaleaz-o pentru a elimina salvarea locală. Pentru a elimina copia din cloud, șterge jocul salvat în aplicația Jocuri Google Play sau datele iCloud ale aplicației din Setările iOS."
+        ]
+      },
+      {
+        "h": "7. Contact",
+        "contact": true
+      }
+    ]
+  }
+}

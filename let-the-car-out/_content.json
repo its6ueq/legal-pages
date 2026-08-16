@@ -1,0 +1,251 @@
+{
+  "_comment": "Source text for every Let the car out! legal page. The HTML files are generated from this by build.mjs, and the translations are generated from this by translate.mjs. Edit here, never in the generated HTML.",
+  "meta": {
+    "app": "Let the car out! 3D puzzle",
+    "developer": "HAB Labs",
+    "email": "shawnfrest2k5@gmail.com",
+    "package": "com.hablabs.letthecarout",
+    "updated": "17 August 2026"
+  },
+  "ui": {
+    "back_labs": "Back to HAB Labs",
+    "back_home": "Let the car out! Home",
+    "updated_label": "Last updated:",
+    "nav_privacy": "Privacy Policy",
+    "nav_terms": "Terms of Use",
+    "nav_support": "Support"
+  },
+  "index": {
+    "title": "Let the car out! - Legal Pages",
+    "heading": "Let the car out! 3D puzzle",
+    "sub": "Official pages for the app - slide the cars aside and clear a way out, across more than 19,000 offline levels."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "summary_label": "Quick summary:",
+    "summary": "Let the car out! is a sliding-car puzzle. Every level is inside the app, so you can play the whole game with no connection at all. Your progress lives on your device. If you sign in to Google Play Games or Game Center, a copy of that progress is also kept in your platform account so it survives a new phone. This version shows no advertisements and contains no analytics or crash reporting. We run no servers of our own and never receive your name, email, or location.",
+    "sections": [
+      {
+        "h": "1. Introduction",
+        "p": [
+          "This Privacy Policy explains how the mobile application <strong>Let the car out! 3D puzzle</strong> (package <code>com.hablabs.letthecarout</code>, the \"App\") handles information. The App is a puzzle in which you slide cars out of a crowded parking lot. By using the App you agree to the practices described here."
+        ]
+      },
+      {
+        "h": "2. Information We Collect",
+        "sub": [
+          {
+            "h": "2.1 Personal Information",
+            "important": "<strong>We collect no personally identifiable information.</strong> The App has no account of its own, no registration, and no chat. We never ask for your name, email address, phone number, or location, and we operate no server that could receive them."
+          },
+          {
+            "h": "2.2 Data Stored on Your Device",
+            "p": ["The App keeps one small record in the device's standard app-private storage:"],
+            "ul": [
+              "Campaign progress: the highest level unlocked, the level played last, and the star rating of every level cleared",
+              "Your coin balance, hint balance, and the counters behind the awards - hints used, undos used, clean clears, fast clears, and your best clean-clear streak",
+              "Which awards you have claimed and which islands you have opened",
+              "Settings: interface language, scene theme, music, sound effects, vibration, notifications, resolution, and frame rate",
+              "Flags recording that you finished the tutorial and whether ads have been removed"
+            ],
+            "after": "Uninstalling the App, or clearing its storage, deletes this local copy."
+          },
+          {
+            "h": "2.3 Cloud Save and Platform Services",
+            "p": [
+              "If you are signed in to <strong>Google Play Games</strong> on Android, or <strong>Game Center and iCloud</strong> on iOS, the App keeps a copy of that same record in your platform account so your progress survives losing or replacing a device. The copy is held by Google or Apple under your own account, not by us. We cannot read it, and we are not told that you have one.",
+              "The App also reports two things to those services when you are signed in: your total stars, for the leaderboard, and which achievements you have earned. Nothing else is sent. Signing in is optional and the whole game is playable without it. Sign out in the Google Play Games or Game Center app and the App stops sending anything."
+            ]
+          },
+          {
+            "h": "2.4 What the App Does Not Do",
+            "ul": [
+              "<strong>No advertisements.</strong> This version serves no banner, interstitial, or rewarded ad, and no advertising SDK is compiled into it.",
+              "<strong>No analytics, telemetry, or crash reporting.</strong> We collect no usage statistics of any kind.",
+              "<strong>No access to photos, contacts, camera, microphone, files, or location.</strong>",
+              "<strong>No tracking across apps or websites</strong>, and no advertising identifier is read."
+            ]
+          },
+          {
+            "h": "2.5 Permissions the App Requests",
+            "ul": [
+              "<strong>Vibrate</strong> (<code>android.permission.VIBRATE</code>) - short taps of haptic feedback when a car snaps into place, when a move is blocked, and when you clear a level. Turn it off in Settings and the App stops vibrating.",
+              "<strong>Internet</strong> (<code>android.permission.INTERNET</code>) - used only by Google Play Games sign-in, cloud save, the leaderboard, and Google Play billing when you buy something. The game itself needs no connection: every level is bundled in the download."
+            ]
+          }
+        ]
+      },
+      {
+        "h": "3. How Information Is Used",
+        "p": ["The stored record exists for one purpose: so the game can remember where you were and how you like to play. It is not aggregated, profiled, or sold."]
+      },
+      {
+        "h": "4. Third-Party Services",
+        "p": ["The App uses the following services. Each handles your data under its own privacy policy, and each is optional except the store you installed from:"],
+        "ul": [
+          "<strong>Google Play</strong> - download, update, refund, and, on Android, in-app purchases: <a href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noopener\">https://policies.google.com/privacy</a>",
+          "<strong>Google Play Games Services</strong> (Android) - optional sign-in, achievements, leaderboard, and cloud save, under the same Google privacy policy",
+          "<strong>Apple App Store, Game Center and iCloud</strong> (iOS) - download, in-app purchases, optional sign-in, achievements, leaderboard, and cloud save: <a href=\"https://www.apple.com/legal/privacy/\" target=\"_blank\" rel=\"noopener\">https://www.apple.com/legal/privacy/</a>"
+        ],
+        "after": "The App is built with the Unity engine. Unity's runtime is compiled into the App; no Unity analytics or advertising package is included in this build."
+      },
+      {
+        "h": "5. Purchases",
+        "p": ["Coin packs and the advertisement-free unlock are sold through Google Play billing on Android and the App Store on iOS. Those stores process the payment and tell the App only whether a purchase succeeded. <strong>We never see or store your card, address, or any other payment detail.</strong> Refunds are handled by the store you bought from."]
+      },
+      {
+        "h": "6. Data Sharing",
+        "p": ["We do not sell, rent, or share your data. We receive none to share: the only copies that leave your device go to your own Google or Apple account."]
+      },
+      {
+        "h": "7. Your Choices",
+        "ul": [
+          "<strong>Play without signing in:</strong> decline Google Play Games or Game Center and nothing is sent anywhere.",
+          "<strong>Delete the cloud copy:</strong> remove the App's saved game in the Google Play Games app, or delete its iCloud data in iOS Settings.",
+          "<strong>Delete everything locally:</strong> clear the App's storage, or uninstall it.",
+          "<strong>Reset progress in-game:</strong> Settings contains a reset that clears your save.",
+          "<strong>Turn off vibration, music, or sound:</strong> Settings, at any time."
+        ]
+      },
+      {
+        "h": "8. Children's Privacy",
+        "p": ["The App is family-friendly. It has no chat, no user-generated content, and no advertising, and it does not knowingly collect personal information from anyone, including children under 13. Google Play Games and Game Center sign-in are controlled by the platform account and by any parental controls set on it. If you believe a child has provided personal information through the App, please contact us."]
+      },
+      {
+        "h": "9. Data Security",
+        "ul": [
+          "Progress and settings are kept in the device's standard app-private storage, which other apps cannot read.",
+          "The cloud copy is protected by your Google or Apple account and its own security.",
+          "We operate no servers, so there is no account of yours for us to lose and no database of ours to breach."
+        ]
+      },
+      {
+        "h": "10. Changes to This Policy",
+        "p": ["Changes are posted on this page with a new \"Last updated\" date. If a future version collects something this page does not describe, the page is updated <em>before</em> that version ships. Continuing to use the App after a change means you accept the revised policy."]
+      },
+      {
+        "h": "11. Contact Us",
+        "contact": true
+      },
+      {
+        "h": "12. Compliance",
+        "p": ["This Privacy Policy is intended to comply with Google Play policy, Apple App Store guidelines, the General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA), and the Children's Online Privacy Protection Act (COPPA)."]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "summary_label": "In short:",
+    "summary": "The game is free to download and yours to play on your own devices. Do not copy it, resell it, or take it apart. It is provided as is. Coins and hints are entertainment features with no cash value, and anything you buy is bought from Google or Apple, not from us.",
+    "sections": [
+      {
+        "h": "1. Acceptance",
+        "p": ["By downloading, installing, or playing <strong>Let the car out! 3D puzzle</strong> (the \"App\"), published by HAB Labs, you agree to these Terms of Use. If you do not agree, uninstall the App."]
+      },
+      {
+        "h": "2. Licence",
+        "p": ["We grant you a personal, non-exclusive, non-transferable, revocable licence to install and play the App on devices you own or control, for personal, non-commercial use."]
+      },
+      {
+        "h": "3. What You May Not Do",
+        "ul": [
+          "Copy, sell, rent, sublicense, or redistribute the App or its levels, artwork, sounds, or translations",
+          "Reverse engineer, decompile, or disassemble the App, except where that right cannot be excluded by law",
+          "Modify the App or its saved data to gain an advantage, and then present the result as genuine play, including on the leaderboard",
+          "Use the App for anything unlawful"
+        ]
+      },
+      {
+        "h": "4. Virtual Items",
+        "p": ["Coins, hints, stars, and awards are entertainment features inside the App. They have no monetary value, cannot be exchanged for money or goods, and cannot be transferred to another person. They move between your own devices only through the cloud save described in the Privacy Policy, and they are lost if you delete both the local save and that cloud copy."]
+      },
+      {
+        "h": "5. Purchases",
+        "p": ["Coin packs and the advertisement-free unlock are sold by Google Play on Android and by the App Store on iOS, under the <a href=\"https://play.google.com/about/play-terms/\" target=\"_blank\" rel=\"noopener\">Google Play Terms of Service</a> or Apple's <a href=\"https://www.apple.com/legal/internet-services/itunes/\" target=\"_blank\" rel=\"noopener\">Media Services Terms</a>. Those stores take the payment and handle refunds; we never see or store your payment details. Purchases are consumed inside the App and, apart from the advertisement-free unlock, are not restored automatically."]
+      },
+      {
+        "h": "6. Platform Services",
+        "p": ["Signing in to Google Play Games or Game Center is optional. Those services are provided by Google and Apple under their own terms, and we cannot restore, transfer, or repair an account held by them. Leaderboard entries obtained by modifying the App may be removed."]
+      },
+      {
+        "h": "7. Your Data",
+        "p": ["See the <a href=\"privacy-policy.html\">Privacy Policy</a> for what the App stores and where."]
+      },
+      {
+        "h": "8. Intellectual Property",
+        "p": ["The App, including its code, level designs, artwork, and sounds, is owned by HAB Labs and protected by copyright. These Terms grant you no ownership of it."]
+      },
+      {
+        "h": "9. Updates and Availability",
+        "p": ["We may update, change, or discontinue the App or any of its features at any time, without notice. We do not guarantee that the App will remain available on any particular store or run on any particular device."]
+      },
+      {
+        "h": "10. Disclaimer of Warranty",
+        "p": ["The App is provided \"as is\" and \"as available\", without warranty of any kind, express or implied, including merchantability, fitness for a particular purpose, and non-infringement. We do not warrant that the App will be uninterrupted or free of defects."]
+      },
+      {
+        "h": "11. Limitation of Liability",
+        "p": ["To the fullest extent permitted by law, HAB Labs is not liable for any indirect, incidental, or consequential damages, or for any loss of saved progress, arising from your use of the App. Nothing in these Terms limits liability that cannot be limited by law."]
+      },
+      {
+        "h": "12. Children",
+        "p": ["The App is suitable for all ages. If you are a minor, please review these Terms with a parent or guardian, and ask them before making any purchase."]
+      },
+      {
+        "h": "13. Changes to These Terms",
+        "p": ["We may revise these Terms. The revised version is posted on this page with a new \"Last updated\" date, and continuing to use the App after that means you accept it."]
+      },
+      {
+        "h": "14. Contact",
+        "contact": true
+      }
+    ]
+  },
+  "support": {
+    "title": "Support",
+    "summary_label": "Need a hand?",
+    "summary": "Write to us and we will answer. There is one person behind this app, so a reply usually takes a day or two rather than an hour.",
+    "sections": [
+      {
+        "h": "1. My progress disappeared",
+        "p": [
+          "Progress is kept on the device. If you reinstalled the app, changed phone, or cleared its storage, the local copy is gone.",
+          "It can be recovered only if you were signed in to Google Play Games (Android) or Game Center and iCloud (iOS) before, and the cloud save had run at least once. Sign in with the same account and open the app; it pulls the saved copy and merges it with whatever is on the device, keeping the better of the two for every level."
+        ]
+      },
+      {
+        "h": "2. Sign-in does not complete",
+        "p": [
+          "On Android this is almost always the Google Play Games app rather than the game: open it, check you are signed in there, and make sure the account is not one restricted by a family group.",
+          "If the game was installed from a source other than Google Play, sign-in cannot work at all - Play Games checks the signature of the installed app."
+        ]
+      },
+      {
+        "h": "3. The phone does not vibrate",
+        "p": [
+          "Check Settings inside the game, then your phone's own vibration setting. Some phones also disable app vibration in battery-saver mode.",
+          "Tablets and some older phones have no vibration motor and cannot vibrate at all."
+        ]
+      },
+      {
+        "h": "4. A purchase did not arrive",
+        "p": [
+          "Purchases are delivered by the store. Reopen the app while connected: the store re-sends anything it has taken payment for but not yet delivered, and the app grants it on the spot.",
+          "If it still has not arrived after a few minutes, send us the order number from your Google Play or App Store receipt and we will sort it out. Refunds have to go through the store you bought from - we cannot issue them."
+        ]
+      },
+      {
+        "h": "5. A level looks impossible",
+        "p": ["Every level in the game has been solved by machine before shipping, so there is always a way out. The hint button shows the next move on the shortest known solution. If you believe a level really cannot be finished, tell us its number and we will check that one."]
+      },
+      {
+        "h": "6. Deleting your data",
+        "p": ["Clear the app's storage or uninstall it to remove the local save. To remove the cloud copy, delete the saved game in the Google Play Games app, or the app's iCloud data in iOS Settings."]
+      },
+      {
+        "h": "7. Contact",
+        "contact": true
+      }
+    ]
+  }
+}
